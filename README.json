@@ -1,0 +1,137 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Model Ranking"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Comprehensive"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Text"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Code"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Image"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Video"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Math"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Agent"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Research"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Business"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Safety"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Medical"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Audio"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Embodied"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "3D"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Game"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Multimodal"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Time Series"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Database Ranking"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Dataset Ranking"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Metric Ranking"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Infrastructure Ranking"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Paper Ranking"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Usage Ranking"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Company Ranking"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T14:29:31.996Z",
+    "original_repository": "SAILResearch/awesome-ai-leaderboard",
+    "original_repository_sha": "73494dcb600c74074fbcfd578cb9d1d28f51498e",
+    "enhanced_repository": "enhansome/enhansome-ai-leaderboard",
+    "enhanced_repository_description": null,
+    "title": "Awesome Challenges with stars"
+  }
+}
