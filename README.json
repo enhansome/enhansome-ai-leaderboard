@@ -131,7 +131,7 @@
                     "last_commit": "2026-08-23T10:20:24Z",
                     "owner": "jeinlee1991",
                     "repo": "chinese-llm-benchmark",
-                    "stars": 6395
+                    "stars": 6396
                   }
                 },
                 {
@@ -1373,7 +1373,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:25:05.118Z",
+    "last_updated": "2026-08-24T15:07:04.129Z",
     "original_repository": "SAILResearch/awesome-ai-leaderboard",
     "original_repository_id": 796089121,
     "original_repository_sha": "27a66438649f5bb32e1e3dea76372baeb9ccc8d8",
