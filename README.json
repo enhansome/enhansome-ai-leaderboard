@@ -1,7 +1,1379 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "LLMPerf",
+                  "description": "LLMPerf is a tool to evaluate the performance of LLMs using both load and correctness tests.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 734227785,
+                    "language": null,
+                    "last_commit": "2024-01-10T04:33:24Z",
+                    "owner": "ray-project",
+                    "repo": "llmperf-leaderboard",
+                    "stars": 474
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Comprehensive"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ACLUE",
+                  "description": "ACLUE is an evaluation benchmark for ancient Chinese language comprehension.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 679605746,
+                    "language": "Python",
+                    "last_commit": "2024-03-20T18:24:17Z",
+                    "owner": "isen-zhang",
+                    "repo": "ACLUE",
+                    "stars": 35
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "AGIEval",
+                  "description": "AGIEval is a human-centric benchmark to evaluate the general abilities of foundation models in tasks pertinent to human cognition and problem-solving.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 619121820,
+                    "language": "Python",
+                    "last_commit": "2024-06-13T14:20:51Z",
+                    "owner": "ruixiangcui",
+                    "repo": "AGIEval",
+                    "stars": 776
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Arena-Hard-Auto",
+                  "description": "Arena-Hard-Auto is a benchmark for instruction-tuned LLMs.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 714151130,
+                    "language": "Python",
+                    "last_commit": "2025-06-21T04:44:12Z",
+                    "owner": "lmarena",
+                    "repo": "arena-hard-auto",
+                    "stars": 1060
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Auto-J",
+                  "description": "Auto-J hosts evaluation results on the pairwise response comparison and critique generation tasks.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 698799526,
+                    "language": "Python",
+                    "last_commit": "2024-01-18T02:37:17Z",
+                    "owner": "GAIR-NLP",
+                    "repo": "auto-j",
+                    "stars": 252
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "BBL",
+                  "description": "BBL (BIG-bench Lite) is a small subset of 24 diverse JSON tasks from BIG-bench. It is designed to provide a canonical measure of model performance, while being far cheaper to evaluate than the full set of more than 200 programmatic and JSON tasks in BIG-bench.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 330044683,
+                    "language": "Python",
+                    "last_commit": "2024-07-19T11:57:37Z",
+                    "owner": "google",
+                    "repo": "BIG-bench",
+                    "stars": 3247
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Chain-of-Thought Hub",
+                  "description": "Chain-of-Thought Hub is a benchmark to evaluate the reasoning capabilities of LLMs.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 612382241,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2024-08-04T09:40:18Z",
+                    "owner": "FranxYao",
+                    "repo": "chain-of-thought-hub",
+                    "stars": 2774
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Chinese Large Model Leaderboard",
+                  "description": "Chinese Large Model Leaderboard is a platform to evaluate the performance of Chinese LLMs.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 649224670,
+                    "language": null,
+                    "last_commit": "2026-08-23T10:20:24Z",
+                    "owner": "jeinlee1991",
+                    "repo": "chinese-llm-benchmark",
+                    "stars": 6395
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "CMMLU",
+                  "description": "CMMLU is a benchmark to evaluate the performance of LLMs in various subjects within the Chinese cultural context.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 654578300,
+                    "language": "Python",
+                    "last_commit": "2024-12-06T08:54:24Z",
+                    "owner": "haonan-li",
+                    "repo": "CMMLU",
+                    "stars": 835
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "CyberMetric",
+                  "description": "CyberMetric is a benchmark to evaluate the cybersecurity knowledge of LLMs.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 756242602,
+                    "language": "Python",
+                    "last_commit": "2026-05-27T14:51:00Z",
+                    "owner": "cybermetric",
+                    "repo": "CyberMetric",
+                    "stars": 126
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "EvalGPT.ai",
+                  "description": "EvalGPT.ai hosts a chatbot arena to compare and rank the performance of LLMs.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 670715717,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2024-10-24T17:16:05Z",
+                    "owner": "h2oai",
+                    "repo": "h2o-LLM-eval",
+                    "stars": 52
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Factuality Leaderboard",
+                  "description": "Factuality Leaderboard compares the factual capabilities of LLMs.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 670526867,
+                    "language": "Python",
+                    "last_commit": "2024-08-19T20:27:12Z",
+                    "owner": "GAIR-NLP",
+                    "repo": "factool",
+                    "stars": 933
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "FollowBench",
+                  "description": "FollowBench is a multi-level fine-grained constraints following benchmark to evaluate the instruction-following capability of LLMs.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 712191330,
+                    "language": "Python",
+                    "last_commit": "2025-06-12T01:23:38Z",
+                    "owner": "YJiangcm",
+                    "repo": "FollowBench",
+                    "stars": 120
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "GAVIE",
+                  "description": "GAVIE is a GPT-4-assisted benchmark for evaluating hallucination in LMMs by scoring accuracy and relevancy without relying on human-annotated groundtruth.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 653978519,
+                    "language": "Python",
+                    "last_commit": "2024-03-13T16:05:16Z",
+                    "owner": "FuxiaoLiu",
+                    "repo": "LRV-Instruction",
+                    "stars": 296
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "GPT-Fathom",
+                  "description": "GPT-Fathom is an LLM evaluation suite, benchmarking 10+ leading LLMs as well as OpenAI's legacy models on 20+ curated benchmarks across 7 capability categories, all under aligned settings.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 697989008,
+                    "language": "Python",
+                    "last_commit": "2024-04-10T19:41:25Z",
+                    "owner": "GPT-Fathom",
+                    "repo": "GPT-Fathom",
+                    "stars": 344
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "HalluQA",
+                  "description": "HalluQA is a benchmark to evaluate the phenomenon of hallucinations in Chinese LLMs.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 700142838,
+                    "language": "Python",
+                    "last_commit": "2024-06-05T13:32:51Z",
+                    "owner": "OpenMOSS",
+                    "repo": "HalluQA",
+                    "stars": 139
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Japanese LLM Roleplay Benchmark",
+                  "description": "Japanese LLM Roleplay Benchmark is a benchmark to evaluate the performance of Japanese LLMs in character roleplay.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 692097597,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2023-11-03T13:01:29Z",
+                    "owner": "oshizo",
+                    "repo": "japanese-llm-roleplay-benchmark",
+                    "stars": 41
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "LLM Confabulation/Hallucination Leaderboard",
+                  "description": "LLM Confabulation/Hallucination Leaderboard evaluates LLMs based on how often they produce non-existent answers (confabulations or hallucinations) in response to misleading questions based on provided text documents, making it particularly useful for RAG scenarios.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 870514837,
+                    "language": "HTML",
+                    "last_commit": "2025-08-07T22:17:42Z",
+                    "owner": "lechmazur",
+                    "repo": "confabulations",
+                    "stars": 249
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Llmeval-Gaokao2024-Math",
+                  "description": "Llmeval-Gaokao2024-Math is a benchmark for evaluating LLMs on 2024 Gaokao-level math problems in Chinese.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 814810341,
+                    "language": null,
+                    "last_commit": "2026-04-15T15:15:29Z",
+                    "owner": "llmeval",
+                    "repo": "Llmeval-Gaokao2024-Math",
+                    "stars": 21
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "LLM-Leaderboard",
+                  "description": "LLM-Leaderboard is a joint community effort to create one central leaderboard for LLMs.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 637379793,
+                    "language": "Python",
+                    "last_commit": "2024-08-23T20:09:41Z",
+                    "owner": "LudwigStumpp",
+                    "repo": "llm-leaderboard",
+                    "stars": 306
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "LongBench",
+                  "description": "LongBench is a benchmark for assessing the long context understanding capabilities of LLMs.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 672301570,
+                    "language": "Python",
+                    "last_commit": "2025-01-15T02:04:04Z",
+                    "owner": "THUDM",
+                    "repo": "LongBench",
+                    "stars": 1227
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Loong",
+                  "description": "Loong is a long-context benchmark for evaluating LLMs' multi-document QA abilities across financial, legal, and academic scenarios.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 815883908,
+                    "language": "Python",
+                    "last_commit": "2025-12-22T12:45:34Z",
+                    "owner": "MozerWang",
+                    "repo": "Loong",
+                    "stars": 155
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "LV-Eval",
+                  "description": "LV-Eval is a long-context benchmark with five length levels and advanced techniques for accurate evaluation of LLMs on single-hop and multi-hop QA tasks across bilingual datasets.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 753173247,
+                    "language": "Python",
+                    "last_commit": "2024-08-31T05:07:00Z",
+                    "owner": "infinigence",
+                    "repo": "LVEval",
+                    "stars": 78
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "M3KE",
+                  "description": "M3KE is a massive multi-level multi-subject knowledge evaluation benchmark to measure the knowledge acquired by Chinese LLMs.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 638047224,
+                    "language": null,
+                    "last_commit": "2023-07-20T14:45:27Z",
+                    "owner": "tjunlp-lab",
+                    "repo": "M3KE",
+                    "stars": 108
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MetaCritique",
+                  "description": "MetaCritique is a judge that can evaluate human-written or LLMs-generated critique by generating critique.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 735370262,
+                    "language": "Python",
+                    "last_commit": "2024-06-01T17:57:45Z",
+                    "owner": "GAIR-NLP",
+                    "repo": "MetaCritique",
+                    "stars": 37
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MMLU",
+                  "description": "MMLU is a benchmark to evaluate the performance of LLMs across a wide array of natural language understanding tasks.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 293649366,
+                    "language": "Python",
+                    "last_commit": "2023-05-28T18:28:58Z",
+                    "owner": "hendrycks",
+                    "repo": "test",
+                    "stars": 1612
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Model Evaluation Leaderboard",
+                  "description": "Model Evaluation Leaderboard tracks and evaluates text generation models based on their performance across various benchmarks using Mosaic Eval Gauntlet framework.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 92883248,
+                    "language": "Python",
+                    "last_commit": "2024-03-28T23:50:34Z",
+                    "owner": "databricks",
+                    "repo": "databricks-ml-examples",
+                    "stars": 368
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MT-Bench-101",
+                  "description": "MT-Bench-101 is a fine-grained benchmark for evaluating LLMs in multi-turn dialogues.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 760410860,
+                    "language": null,
+                    "last_commit": "2024-07-24T13:31:34Z",
+                    "owner": "mtbench101",
+                    "repo": "mt-bench-101",
+                    "stars": 154
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "OlympiadBench",
+                  "description": "OlympiadBench is a bilingual multimodal scientific benchmark featuring 8,476 Olympiad-level mathematics and physics problems with expert-level step-by-step reasoning annotations.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 758208436,
+                    "language": "Python",
+                    "last_commit": "2025-06-08T16:30:44Z",
+                    "owner": "OpenBMB",
+                    "repo": "OlympiadBench",
+                    "stars": 196
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "OpenResearcher",
+                  "description": "OpenResearcher contains the benchmarking results on various RAG-related systems as a leaderboard.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 838467308,
+                    "language": "HTML",
+                    "last_commit": "2024-10-10T02:41:12Z",
+                    "owner": "GAIR-NLP",
+                    "repo": "OpenResearcher",
+                    "stars": 506
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "QAConv",
+                  "description": "QAConv is a benchmark for question answering using complex, domain-specific, and asynchronous conversations as the knowledge source.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 360334430,
+                    "language": "Python",
+                    "last_commit": "2026-06-02T18:10:27Z",
+                    "owner": "salesforce",
+                    "repo": "QAConv",
+                    "stars": 84
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ReST-MCTS*",
+                  "description": "ReST-MCTS* is a reinforced self-training method that uses tree search and process reward inference to collect high-quality reasoning traces for training policy and reward models without manual step annotations.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 811240578,
+                    "language": "Python",
+                    "last_commit": "2025-01-20T06:01:03Z",
+                    "owner": "THUDM",
+                    "repo": "ReST-MCTS",
+                    "stars": 711
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "RoleEval",
+                  "description": "RoleEval is a bilingual benchmark to evaluate the memorization, utilization, and reasoning capabilities of role knowledge of LLMs.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 735989211,
+                    "language": null,
+                    "last_commit": "2024-01-09T06:57:59Z",
+                    "owner": "Magnetic2014",
+                    "repo": "RoleEval",
+                    "stars": 43
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SciGLM",
+                  "description": "SciGLM is a suite of scientific language models that use a self-reflective instruction annotation framework to enhance scientific reasoning by generating and revising step-by-step solutions to unlabelled questions.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 743339689,
+                    "language": "Python",
+                    "last_commit": "2024-02-25T18:39:30Z",
+                    "owner": "THUDM",
+                    "repo": "SciGLM",
+                    "stars": 89
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SecEval",
+                  "description": "SecEval is a benchmark to evaluate cybersecurity knowledge of foundation models.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 733387623,
+                    "language": "Python",
+                    "last_commit": "2024-04-03T01:45:21Z",
+                    "owner": "XuanwuAI",
+                    "repo": "SecEval",
+                    "stars": 117
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Spec-Bench",
+                  "description": "Spec-Bench is a benchmark to evaluate speculative decoding methods across diverse scenarios.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 760971019,
+                    "language": "Python",
+                    "last_commit": "2025-04-22T02:56:41Z",
+                    "owner": "hemingkx",
+                    "repo": "Spec-Bench",
+                    "stars": 405
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Swahili LLM-Leaderboard",
+                  "description": "Swahili LLM-Leaderboard is a joint community effort to create one central leaderboard for LLMs.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 796221348,
+                    "language": "Python",
+                    "last_commit": "2024-05-09T18:05:10Z",
+                    "owner": "msamwelmollel",
+                    "repo": "Swahili_LLM_Leaderboard",
+                    "stars": 7
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "TableQAEval",
+                  "description": "TableQAEval is a benchmark to evaluate LLM performance in modeling long tables and comprehension capabilities, such as numerical and multi-hop reasoning.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 659530721,
+                    "language": "Python",
+                    "last_commit": "2023-10-19T04:00:20Z",
+                    "owner": "lfy79001",
+                    "repo": "TableQAKit",
+                    "stars": 117
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "TutorEval",
+                  "description": "TutorEval is a question-answering benchmark which evaluates how well an LLM tutor can help a user understand a chapter from a science textbook.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 753751703,
+                    "language": "Python",
+                    "last_commit": "2024-08-06T21:25:06Z",
+                    "owner": "princeton-nlp",
+                    "repo": "LM-Science-Tutor",
+                    "stars": 50
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Vinayak Multistep Recursive Reasoning Benchmark (VMRRB)",
+                  "description": "VMRRB is a benchmark for evaluating advanced reasoning, recursive dependency resolution, and robustness in dynamic, noisy, and structurally challenging environments. GitHub.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1234096368,
+                    "language": "Python",
+                    "last_commit": "2026-05-15T03:53:30Z",
+                    "owner": "vbepipe",
+                    "repo": "vmrrb-benchmark",
+                    "stars": 3
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Xiezhi",
+                  "description": "Xiezhi is a benchmark for holistic domain knowledge evaluation of LLMs.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 650763732,
+                    "language": "Python",
+                    "last_commit": "2023-12-05T11:26:48Z",
+                    "owner": "MikeGu721",
+                    "repo": "XiezhiBenchmark",
+                    "stars": 98
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Text"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "AppWorld",
+                  "description": "AppWorld is a high-fidelity execution environment of 9 day-to-day apps, operable via 457 APIs, populated with digital activities of ~100 people living in a simulated world.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 819144961,
+                    "language": "Python",
+                    "last_commit": "2026-02-17T22:41:42Z",
+                    "owner": "StonyBrookNLP",
+                    "repo": "appworld",
+                    "stars": 490
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "CodeApex",
+                  "description": "CodeApex is a benchmark to evaluate LLMs' programming comprehension through multiple-choice questions and code generation with C++ algorithm problems.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 686961874,
+                    "language": "Python",
+                    "last_commit": "2023-09-06T15:32:38Z",
+                    "owner": "APEXLAB",
+                    "repo": "CodeApex",
+                    "stars": 50
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "DevEval",
+                  "description": "DevEval is a code generation benchmark collected through a rigorous pipeline. DevEval contains 1,825 testing samples, collected from 115 real-world code repositories and covering 10 programming topics.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 808025729,
+                    "language": "Python",
+                    "last_commit": "2024-09-04T13:05:50Z",
+                    "owner": "seketeam",
+                    "repo": "DevEval",
+                    "stars": 43
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "DevOps AI Assistant Open Leaderboard",
+                  "description": "DevOps AI Assistant Open Leaderboard tracks, ranks, and evaluates DevOps AI Assistants across knowledge domains.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 689640986,
+                    "language": "Ruby",
+                    "last_commit": "2024-08-10T16:27:20Z",
+                    "owner": "opstower-ai",
+                    "repo": "devops-ai-open-leaderboard",
+                    "stars": 43
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "DevOps-Eval",
+                  "description": "DevOps-Eval is a benchmark to evaluate code models in the DevOps/AIOps field.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 697550338,
+                    "language": "Python",
+                    "last_commit": "2024-07-10T03:37:38Z",
+                    "owner": "codefuse-ai",
+                    "repo": "codefuse-devops-eval",
+                    "stars": 656
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Dr.Spider",
+                  "description": "Dr.Spider is a benchmark to evaluate the robustness of text-to-SQL models using different perturbation test sets.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 591037743,
+                    "language": "Python",
+                    "last_commit": "2023-05-03T20:35:05Z",
+                    "owner": "awslabs",
+                    "repo": "diagnostic-robustness-text-to-sql",
+                    "stars": 34
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "EvoCodeBench",
+                  "description": "EvoCodeBench is an evolutionary code generation benchmark aligned with real-world code repositories.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 777207957,
+                    "language": "Python",
+                    "last_commit": "2024-08-15T02:47:59Z",
+                    "owner": "seketeam",
+                    "repo": "EvoCodeBench",
+                    "stars": 71
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Julia LLM Leaderboard",
+                  "description": "Julia LLM Leaderboard is a platform to compare code models' abilities in generating syntactically correct Julia code, featuring structured tests and automated evaluations for easy and collaborative benchmarking.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 727631309,
+                    "language": "HTML",
+                    "last_commit": "2024-08-14T08:54:24Z",
+                    "owner": "svilupp",
+                    "repo": "Julia-LLM-Leaderboard",
+                    "stars": 86
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MLE-bench",
+                  "description": "MLE-bench is a benchmark for measuring how well AI agents perform at machine learning engineering",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 869660918,
+                    "language": "Python",
+                    "last_commit": "2026-04-24T17:33:44Z",
+                    "owner": "openai",
+                    "repo": "mle-bench",
+                    "stars": 1715
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "NaturalCodeBench",
+                  "description": "NaturalCodeBench is a benchmark to mirror the complexity and variety of scenarios in real coding tasks.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 792709276,
+                    "language": "Python",
+                    "last_commit": "2024-10-14T04:36:12Z",
+                    "owner": "THUDM",
+                    "repo": "NaturalCodeBench",
+                    "stars": 70
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "PyBench",
+                  "description": "PyBench is a benchmark evaluating LLM on real-world coding tasks including chart analysis, text analysis, image/ audio editing, complex math and software/website development.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 822427090,
+                    "language": "Python",
+                    "last_commit": "2024-08-06T02:14:05Z",
+                    "owner": "Mercury7353",
+                    "repo": "PyBench",
+                    "stars": 33
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SciCode",
+                  "description": "SciCode is a benchmark designed to evaluate language models in generating code to solve realistic scientific research problems.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 825810755,
+                    "language": "Python",
+                    "last_commit": "2026-08-17T17:17:51Z",
+                    "owner": "scicode-bench",
+                    "repo": "SciCode",
+                    "stars": 222
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Code"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Model Ranking"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "BLINK",
+              "description": "BLINK is a benchmark to evaluate the core visual perception abilities of MLLMs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 787317742,
+                "language": "Python",
+                "last_commit": "2025-09-27T20:06:21Z",
+                "owner": "zeyofu",
+                "repo": "BLINK_Benchmark",
+                "stars": 170
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HallusionBench",
+              "description": "HallusionBench is a benchmark to evaluate the image-context reasoning capabilities of MLLMs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 708527797,
+                "language": "Python",
+                "last_commit": "2025-10-14T22:00:23Z",
+                "owner": "tianyi-lab",
+                "repo": "HallusionBench",
+                "stars": 342
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LVLM Leaderboard",
+              "description": "LVLM Leaderboard is a platform to evaluate the visual reasoning capabilities of MLLMs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 638869686,
+                "language": "Python",
+                "last_commit": "2024-04-21T11:14:46Z",
+                "owner": "OpenGVLab",
+                "repo": "Multi-Modality-Arena",
+                "stars": 566
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MME",
+              "description": "MME is a benchmark to evaluate the visual reasoning capabilities of MLLMs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 642642539,
+                "language": null,
+                "last_commit": "2026-08-21T16:19:20Z",
+                "owner": "BradyFU",
+                "repo": "Awesome-Multimodal-Large-Language-Models",
+                "stars": 17988
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MMR",
+              "description": "MMR is a benchmark to evaluate the robustness of MLLMs in visual understanding by assessing their ability to handle leading questions, rather than just accuracy in answering.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 811253541,
+                "language": "Python",
+                "last_commit": "2025-03-19T04:39:00Z",
+                "owner": "BAAI-DCAI",
+                "repo": "MMVU",
+                "stars": 57
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MULTI-Benchmark",
+              "description": "MULTI-Benchmark is a benchmark to evaluate MLLMs on understanding complex tables and images, and reasoning with long context.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 727110963,
+                "language": "Python",
+                "last_commit": "2026-07-15T18:53:01Z",
+                "owner": "OpenDFM",
+                "repo": "MULTI-Benchmark",
+                "stars": 47
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NPHardEval4V",
+              "description": "NPHardEval4V is a benchmark to evaluate the reasoning abilities of MLLMs through the lens of computational complexity classes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 747999788,
+                "language": "Python",
+                "last_commit": "2024-03-08T16:01:55Z",
+                "owner": "lizhouf",
+                "repo": "NPHardEval4V",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PCA-Bench",
+              "description": "PCA-Bench is a benchmark to evaluate the embodied decision-making capabilities of multimodal models.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 698578550,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-03-14T11:37:19Z",
+                "owner": "pkunlp-icler",
+                "repo": "PCA-EVAL",
+                "stars": 108
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SciGraphQA",
+              "description": "SciGraphQA is a benchmark to evaluate the MLLMs in scientific graph question-answering.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 658955843,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-10-25T16:03:45Z",
+                "owner": "findalexli",
+                "repo": "SciGraphQA",
+                "stars": 43
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vibe-Eval",
+              "description": "Vibe-Eval is a benchmark to evaluate MLLMs for challenging cases.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 794470493,
+                "language": "Python",
+                "last_commit": "2024-12-18T19:27:52Z",
+                "owner": "reka-ai",
+                "repo": "reka-vibe-eval",
+                "stars": 189
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WildVision-Bench",
+              "description": "WildVision-Bench is a benchmark to evaluate VLMs in the wild with human preferences.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 816746279,
+                "language": "Python",
+                "last_commit": "2024-10-21T21:43:36Z",
+                "owner": "WildVision-AI",
+                "repo": "WildVision-Bench",
+                "stars": 17
+              }
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "MLVU",
+                  "description": "MLVU is a benchmark to evaluate video models in multi-task long video understanding.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 809243585,
+                    "language": "Python",
+                    "last_commit": "2026-04-13T13:18:00Z",
+                    "owner": "JUNJIE99",
+                    "repo": "MLVU",
+                    "stars": 268
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "VideoPhy",
+                  "description": "VideoPhy is a benchmark to evaluate generated videos for adherence to physical commonsense in real-world material interactions.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 810659676,
+                    "language": "Python",
+                    "last_commit": "2026-01-30T07:22:50Z",
+                    "owner": "Hritikbansal",
+                    "repo": "videophy",
+                    "stars": 208
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Video"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "MathUserEval",
+                  "description": "MathUserEval is a benchmark featuring university exam questions and math-related queries derived from simulated conversations with experienced annotators.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 781816641,
+                    "language": "Python",
+                    "last_commit": "2024-04-18T12:56:59Z",
+                    "owner": "THUDM",
+                    "repo": "ChatGLM-Math",
+                    "stars": 83
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Math"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "CharacterEval",
+                  "description": "CharacterEval is a benchmark to evaluate Role-Playing Conversational Agents (RPCAs) using multi-turn dialogues and character profiles, with metrics spanning four dimensions.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 741124310,
+                    "language": "Python",
+                    "last_commit": "2025-05-27T16:17:39Z",
+                    "owner": "morecry",
+                    "repo": "CharacterEval",
+                    "stars": 302
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "GTA",
+                  "description": "GTA is a benchmark to evaluate the tool-use capability of LLM-based agents in real-world scenarios.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 811330900,
+                    "language": "Python",
+                    "last_commit": "2026-04-20T06:28:54Z",
+                    "owner": "open-compass",
+                    "repo": "GTA",
+                    "stars": 150
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Leetcode-Hard Gym",
+                  "description": "Leetcode-Hard Gym is an RL environment interface to LeetCode's submission server for evaluating codegen agents.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 620096540,
+                    "language": "Python",
+                    "last_commit": "2024-07-07T23:24:13Z",
+                    "owner": "GammaTauAI",
+                    "repo": "leetcode-hard-gym",
+                    "stars": 171
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "LLM Colosseum Leaderboard",
+                  "description": "LLM Colosseum Leaderboard is a platform to evaluate LLMs by fighting in Street Fighter 3.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 776301107,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2025-03-21T10:35:26Z",
+                    "owner": "OpenGenerativeAI",
+                    "repo": "llm-colosseum",
+                    "stars": 1484
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MAgIC",
+                  "description": "MAgIC is a benchmark to measure the abilities of cognition, adaptability, rationality and collaboration of LLMs within multi-agent systems.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 718770831,
+                    "language": "Python",
+                    "last_commit": "2024-11-13T10:38:02Z",
+                    "owner": "cathyxl",
+                    "repo": "MAgIC",
+                    "stars": 43
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "VAB",
+                  "description": "VisualAgentBench (VAB) is a benchmark to evaluate and develop LMMs as visual foundation agents, which comprises 5 distinct environments across 3 types of representative visual agent tasks.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 839916063,
+                    "language": "Python",
+                    "last_commit": "2025-04-24T14:59:48Z",
+                    "owner": "THUDM",
+                    "repo": "VisualAgentBench",
+                    "stars": 274
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "τ-Bench",
+                  "description": "τ-bench is a benchmark that emulates dynamic conversations between a language model-simulated user and a language agent equipped with domain-specific API tools and policy guidelines.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 811477986,
+                    "language": "Python",
+                    "last_commit": "2026-03-18T17:36:06Z",
+                    "owner": "sierra-research",
+                    "repo": "tau-bench",
+                    "stars": 1402
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Agent"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "CFLUE",
+                  "description": "CFLUE is a benchmark to evaluate LLMs' understanding and processing capabilities in the Chinese financial domain.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 767410579,
+                    "language": "Python",
+                    "last_commit": "2025-01-07T01:52:22Z",
+                    "owner": "aliyun",
+                    "repo": "cflue",
+                    "stars": 92
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "FinEval",
+                  "description": "FinEval is a benchmark to evaluate financial domain knowledge in LLMs.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 677947508,
+                    "language": "Python",
+                    "last_commit": "2025-06-23T03:39:27Z",
+                    "owner": "SUFE-AIFLM-Lab",
+                    "repo": "FinEval",
+                    "stars": 283
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Japanese Language Model Financial Evaluation Harness",
+                  "description": "Japanese Language Model Financial Evaluation Harness is a harness for Japanese language model evaluation in the financial domain.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 727102189,
+                    "language": "Shell",
+                    "last_commit": "2026-06-17T07:11:07Z",
+                    "owner": "pfnet-research",
+                    "repo": "japanese-lm-fin-harness",
+                    "stars": 79
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Business"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Flames",
+                  "description": "Flames is a highly adversarial Chinese benchmark for evaluating LLMs' value alignment across fairness, safety, morality, legality, and data protection.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 706605618,
+                    "language": null,
+                    "last_commit": "2024-05-21T07:23:50Z",
+                    "owner": "AI45Lab",
+                    "repo": "Flames",
+                    "stars": 68
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "GovBench",
+                  "description": "GovBench is an open benchmark to measure any model's governed-refusal behaviour on an adversarial grid (6 risk categories × 8 attack styles) plus a benign over-block control, mapped to EU AI Act Art.9/15. Defensive by construction; a measurement standard, not a certification.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1309638805,
+                    "language": "Python",
+                    "last_commit": "2026-08-05T10:03:13Z",
+                    "owner": "CSOAI-ORG",
+                    "repo": "govbench",
+                    "stars": 0
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Safety"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "JMED-LLM",
+                  "description": "JMED-LLM (Japanese Medical Evaluation Dataset for Large Language Models) is a benchmark for evaluating LLMs in the medical field of Japanese.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 827285012,
+                    "language": "Python",
+                    "last_commit": "2024-09-22T01:10:58Z",
+                    "owner": "sociocom",
+                    "repo": "JMED-LLM",
+                    "stars": 59
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Medical"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "AIR-Bench",
+                  "description": "AIR-Bench is a benchmark to evaluate the ability of audio models to understand various types of audio signals (including human speech, natural sounds and music), and furthermore, to interact with humans in textual format.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 791192852,
+                    "language": "Python",
+                    "last_commit": "2024-12-09T03:53:49Z",
+                    "owner": "OFA-Sys",
+                    "repo": "AIR-Bench",
+                    "stars": 134
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Audio"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "γ-Bench",
+                  "description": "γ-Bench is a framework for evaluating LLMs' gaming abilities in multi-agent environments using eight classical game theory scenarios and a dynamic scoring scheme.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 704941243,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2026-01-26T07:46:40Z",
+                    "owner": "CUHK-ARISE",
+                    "repo": "GAMABench",
+                    "stars": 98
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Game"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Image"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "AlignScore",
+              "description": "AlignScore evaluates the performance of different metrics in assessing factual consistency.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 644697625,
+                "language": "Python",
+                "last_commit": "2024-03-11T05:49:09Z",
+                "owner": "yuh-zha",
+                "repo": "AlignScore",
+                "stars": 167
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Metric Ranking"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ai-benchmarks",
+              "description": "ai-benchmarks contains a handful of evaluation results for the response latency of popular AI services.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 698415400,
+                "language": "Python",
+                "last_commit": "2025-02-06T19:25:17Z",
+                "owner": "fixie-ai",
+                "repo": "ai-benchmarks",
+                "stars": 88
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Infrastructure Ranking"
+        }
+      ],
+      "title": "Rankings"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T13:51:11.648Z",
+    "last_updated": "2026-08-24T14:25:05.118Z",
     "original_repository": "SAILResearch/awesome-ai-leaderboard",
     "original_repository_id": 796089121,
     "original_repository_sha": "27a66438649f5bb32e1e3dea76372baeb9ccc8d8",
