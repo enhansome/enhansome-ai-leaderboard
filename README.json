@@ -86,7 +86,7 @@
                     "last_commit": "2024-01-18T02:37:17Z",
                     "owner": "GAIR-NLP",
                     "repo": "auto-j",
-                    "stars": 252
+                    "stars": 253
                   }
                 },
                 {
@@ -131,7 +131,7 @@
                     "last_commit": "2026-08-23T10:20:24Z",
                     "owner": "jeinlee1991",
                     "repo": "chinese-llm-benchmark",
-                    "stars": 6396
+                    "stars": 6398
                   }
                 },
                 {
@@ -810,10 +810,10 @@
                     "archived": false,
                     "id": 825810755,
                     "language": "Python",
-                    "last_commit": "2026-08-17T17:17:51Z",
+                    "last_commit": "2026-08-24T17:14:40Z",
                     "owner": "scicode-bench",
                     "repo": "SciCode",
-                    "stars": 222
+                    "stars": 223
                   }
                 }
               ],
@@ -1156,7 +1156,7 @@
                     "last_commit": "2026-03-18T17:36:06Z",
                     "owner": "sierra-research",
                     "repo": "tau-bench",
-                    "stars": 1402
+                    "stars": 1403
                   }
                 }
               ],
@@ -1373,7 +1373,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T15:07:04.129Z",
+    "last_updated": "2026-08-25T06:19:33.170Z",
     "original_repository": "SAILResearch/awesome-ai-leaderboard",
     "original_repository_id": 796089121,
     "original_repository_sha": "27a66438649f5bb32e1e3dea76372baeb9ccc8d8",
