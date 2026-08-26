@@ -131,7 +131,7 @@
                     "last_commit": "2026-08-23T10:20:24Z",
                     "owner": "jeinlee1991",
                     "repo": "chinese-llm-benchmark",
-                    "stars": 6399
+                    "stars": 6400
                   }
                 },
                 {
@@ -326,7 +326,7 @@
                     "last_commit": "2025-01-15T02:04:04Z",
                     "owner": "THUDM",
                     "repo": "LongBench",
-                    "stars": 1227
+                    "stars": 1229
                   }
                 },
                 {
@@ -536,7 +536,7 @@
                     "last_commit": "2024-04-03T01:45:21Z",
                     "owner": "XuanwuAI",
                     "repo": "SecEval",
-                    "stars": 117
+                    "stars": 116
                   }
                 },
                 {
@@ -551,7 +551,7 @@
                     "last_commit": "2025-04-22T02:56:41Z",
                     "owner": "hemingkx",
                     "repo": "Spec-Bench",
-                    "stars": 405
+                    "stars": 406
                   }
                 },
                 {
@@ -648,7 +648,7 @@
                     "last_commit": "2026-02-17T22:41:42Z",
                     "owner": "StonyBrookNLP",
                     "repo": "appworld",
-                    "stars": 490
+                    "stars": 491
                   }
                 },
                 {
@@ -768,7 +768,7 @@
                     "last_commit": "2026-04-24T17:33:44Z",
                     "owner": "openai",
                     "repo": "mle-bench",
-                    "stars": 1716
+                    "stars": 1719
                   }
                 },
                 {
@@ -885,7 +885,7 @@
                 "last_commit": "2026-08-21T16:19:20Z",
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 17989
+                "stars": 17988
               }
             },
             {
@@ -1338,7 +1338,7 @@
                 "last_commit": "2024-03-11T05:49:09Z",
                 "owner": "yuh-zha",
                 "repo": "AlignScore",
-                "stars": 167
+                "stars": 168
               }
             }
           ],
@@ -1373,10 +1373,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T14:11:58.426Z",
+    "last_updated": "2026-08-26T14:09:40.990Z",
     "original_repository": "SAILResearch/awesome-ai-leaderboard",
     "original_repository_id": 796089121,
-    "original_repository_sha": "27a66438649f5bb32e1e3dea76372baeb9ccc8d8",
+    "original_repository_sha": "b0b1029335f51af7af830b5d5ec89f93e263ad29",
     "enhanced_repository": "enhansome/enhansome-ai-leaderboard",
     "enhanced_repository_description": null,
     "title": "Awesome Challenges with stars"
