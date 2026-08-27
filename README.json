@@ -768,7 +768,7 @@
                     "last_commit": "2026-04-24T17:33:44Z",
                     "owner": "openai",
                     "repo": "mle-bench",
-                    "stars": 1722
+                    "stars": 1723
                   }
                 },
                 {
@@ -885,7 +885,7 @@
                 "last_commit": "2026-08-27T01:08:08Z",
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 17989
+                "stars": 17993
               }
             },
             {
@@ -1156,7 +1156,7 @@
                     "last_commit": "2026-03-18T17:36:06Z",
                     "owner": "sierra-research",
                     "repo": "tau-bench",
-                    "stars": 1404
+                    "stars": 1405
                   }
                 }
               ],
@@ -1373,7 +1373,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:20:20.247Z",
+    "last_updated": "2026-08-27T23:00:12.189Z",
     "original_repository_info": {
       "archived": false,
       "id": 796089121,
