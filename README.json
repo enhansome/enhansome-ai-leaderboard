@@ -71,7 +71,7 @@
                     "last_commit": "2025-06-21T04:44:12Z",
                     "owner": "lmarena",
                     "repo": "arena-hard-auto",
-                    "stars": 1060
+                    "stars": 1061
                   }
                 },
                 {
@@ -131,7 +131,7 @@
                     "last_commit": "2026-08-23T10:20:24Z",
                     "owner": "jeinlee1991",
                     "repo": "chinese-llm-benchmark",
-                    "stars": 6400
+                    "stars": 6405
                   }
                 },
                 {
@@ -326,7 +326,7 @@
                     "last_commit": "2025-01-15T02:04:04Z",
                     "owner": "THUDM",
                     "repo": "LongBench",
-                    "stars": 1229
+                    "stars": 1230
                   }
                 },
                 {
@@ -768,7 +768,7 @@
                     "last_commit": "2026-04-24T17:33:44Z",
                     "owner": "openai",
                     "repo": "mle-bench",
-                    "stars": 1719
+                    "stars": 1722
                   }
                 },
                 {
@@ -882,10 +882,10 @@
                 "archived": false,
                 "id": 642642539,
                 "language": null,
-                "last_commit": "2026-08-21T16:19:20Z",
+                "last_commit": "2026-08-27T01:08:08Z",
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 17988
+                "stars": 17989
               }
             },
             {
@@ -1081,7 +1081,7 @@
                     "last_commit": "2026-04-20T06:28:54Z",
                     "owner": "open-compass",
                     "repo": "GTA",
-                    "stars": 150
+                    "stars": 151
                   }
                 },
                 {
@@ -1096,7 +1096,7 @@
                     "last_commit": "2024-07-07T23:24:13Z",
                     "owner": "GammaTauAI",
                     "repo": "leetcode-hard-gym",
-                    "stars": 171
+                    "stars": 172
                   }
                 },
                 {
@@ -1156,7 +1156,7 @@
                     "last_commit": "2026-03-18T17:36:06Z",
                     "owner": "sierra-research",
                     "repo": "tau-bench",
-                    "stars": 1403
+                    "stars": 1404
                   }
                 }
               ],
@@ -1193,7 +1193,7 @@
                     "last_commit": "2025-06-23T03:39:27Z",
                     "owner": "SUFE-AIFLM-Lab",
                     "repo": "FinEval",
-                    "stars": 283
+                    "stars": 284
                   }
                 },
                 {
@@ -1289,7 +1289,7 @@
                     "last_commit": "2024-12-09T03:53:49Z",
                     "owner": "OFA-Sys",
                     "repo": "AIR-Bench",
-                    "stars": 134
+                    "stars": 135
                   }
                 }
               ],
@@ -1373,9 +1373,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T14:09:40.990Z",
-    "original_repository": "SAILResearch/awesome-ai-leaderboard",
-    "original_repository_id": 796089121,
+    "last_updated": "2026-08-27T11:20:20.247Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 796089121,
+      "language": null,
+      "last_commit": "2026-08-26T05:33:23Z",
+      "owner": "SAILResearch",
+      "repo": "awesome-ai-leaderboard",
+      "stars": 381
+    },
     "original_repository_sha": "b0b1029335f51af7af830b5d5ec89f93e263ad29",
     "enhanced_repository": "enhansome/enhansome-ai-leaderboard",
     "enhanced_repository_description": null,
