@@ -14,12 +14,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": null,
+                    "homepage": null,
                     "id": 734227785,
                     "language": null,
+                    "license": "Apache-2.0",
                     "last_commit": "2024-01-10T04:33:24Z",
+                    "open_issues": 7,
                     "owner": "ray-project",
                     "repo": "llmperf-leaderboard",
-                    "stars": 474
+                    "stars": 474,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 }
@@ -37,12 +42,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official github repo for ACLUE, an evaluation benchmark focused on ancient Chinese language comprehension",
+                    "homepage": null,
                     "id": 679605746,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-03-20T18:24:17Z",
+                    "open_issues": 0,
                     "owner": "isen-zhang",
                     "repo": "ACLUE",
-                    "stars": 35
+                    "stars": 35,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 },
@@ -53,12 +63,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 619121820,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-06-13T14:20:51Z",
+                    "open_issues": 9,
                     "owner": "ruixiangcui",
                     "repo": "AGIEval",
-                    "stars": 776
+                    "stars": 776,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 },
@@ -69,12 +84,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Arena-Hard-Auto: An automatic LLM benchmark. ",
+                    "homepage": null,
                     "id": 714151130,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-06-21T04:44:12Z",
+                    "open_issues": 18,
                     "owner": "lmarena",
                     "repo": "arena-hard-auto",
-                    "stars": 1061
+                    "stars": 1061,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 },
@@ -85,12 +105,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Generative Judge for Evaluating Alignment",
+                    "homepage": "https://gair-nlp.github.io/auto-j/",
                     "id": 698799526,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-01-18T02:37:17Z",
+                    "open_issues": 6,
                     "owner": "GAIR-NLP",
                     "repo": "auto-j",
-                    "stars": 253
+                    "stars": 253,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 },
@@ -101,12 +126,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Beyond the Imitation Game collaborative benchmark for measuring and extrapolating the capabilities of language models",
+                    "homepage": null,
                     "id": 330044683,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-07-19T11:57:37Z",
+                    "open_issues": 106,
                     "owner": "google",
                     "repo": "BIG-bench",
-                    "stars": 3247
+                    "stars": 3247,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 },
@@ -117,12 +147,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Benchmarking large language models' complex reasoning ability with chain-of-thought prompting",
+                    "homepage": null,
                     "id": 612382241,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2024-08-04T09:40:18Z",
+                    "open_issues": 27,
                     "owner": "FranxYao",
                     "repo": "chain-of-thought-hub",
-                    "stars": 2775
+                    "stars": 2775,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 },
@@ -133,12 +168,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "非线智能 NoneLinear - ReLE评测：中文AI大模型能力评测（持续更新）：目前已囊括374个大模型，覆盖chatgpt、gpt-5.4、谷歌gemini-3.1-pro、Claude-4.6、文心ERNIE-X1.1、ERNIE-5.0、qwen3.6-max、qwen3.6-plus、百川、讯飞星火、商汤senseChat等商用模型， 以及step3.5-flash、kimi-k2.6、ernie4.5、MiniMax-M2.7、deepseek-v4、Qwen3.6、llama4、智谱GLM-5.1、MiMo-V2、LongCat、gemma4、mistral等开源大模型。不仅提供排行榜，也提供规模超200万的大模型缺陷库！方便广大社区研究分析、改进大模型。",
+                    "homepage": "https://nonelinear.com",
                     "id": 649224670,
                     "language": null,
+                    "license": null,
                     "last_commit": "2026-08-23T10:20:24Z",
+                    "open_issues": 18,
                     "owner": "jeinlee1991",
                     "repo": "chinese-llm-benchmark",
-                    "stars": 6406
+                    "stars": 6408,
+                    "topics": [
+                      "agentic-ai",
+                      "artificial-intelligence",
+                      "llm-agent",
+                      "llm-evaluation"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 },
@@ -149,12 +194,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "CMMLU: Measuring massive multitask language understanding in Chinese",
+                    "homepage": null,
                     "id": 654578300,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-12-06T08:54:24Z",
+                    "open_issues": 3,
                     "owner": "haonan-li",
                     "repo": "CMMLU",
-                    "stars": 835
+                    "stars": 835,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 },
@@ -165,12 +215,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "CyberMetric dataset",
+                    "homepage": null,
                     "id": 756242602,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-05-27T14:51:00Z",
+                    "open_issues": 1,
                     "owner": "cybermetric",
                     "repo": "CyberMetric",
-                    "stars": 126
+                    "stars": 126,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 },
@@ -181,12 +236,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Large-language Model Evaluation framework with Elo Leaderboard and A-B testing",
+                    "homepage": "https://evalgpt.ai/",
                     "id": 670715717,
                     "language": "Jupyter Notebook",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-10-24T17:16:05Z",
+                    "open_issues": 5,
                     "owner": "h2oai",
                     "repo": "h2o-LLM-eval",
-                    "stars": 52
+                    "stars": 52,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 },
@@ -197,12 +257,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "FacTool: Factuality Detection in Generative AI",
+                    "homepage": "https://ethanc111.github.io/factool_website/",
                     "id": 670526867,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-08-19T20:27:12Z",
+                    "open_issues": 23,
                     "owner": "GAIR-NLP",
                     "repo": "factool",
-                    "stars": 934
+                    "stars": 934,
+                    "topics": [
+                      "chatgpt",
+                      "fact-checking",
+                      "generative-ai",
+                      "large-language-models",
+                      "natural-language-processing",
+                      "python"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 },
@@ -213,12 +285,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ACL 2024] FollowBench: A Multi-level Fine-grained Constraints Following Benchmark for Large Language Models",
+                    "homepage": "https://arxiv.org/abs/2310.20410",
                     "id": 712191330,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-06-12T01:23:38Z",
+                    "open_issues": 9,
                     "owner": "YJiangcm",
                     "repo": "FollowBench",
-                    "stars": 120
+                    "stars": 120,
+                    "topics": [
+                      "benchmark",
+                      "constraints",
+                      "instruction-following",
+                      "large-language-models",
+                      "multi-level"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 },
@@ -229,12 +312,36 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICLR'24] Mitigating Hallucination in Large Multi-Modal Models via Robust Instruction Tuning",
+                    "homepage": "https://fuxiaoliu.github.io/LRV/",
                     "id": 653978519,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2024-03-13T16:05:16Z",
+                    "open_issues": 4,
                     "owner": "FuxiaoLiu",
                     "repo": "LRV-Instruction",
-                    "stars": 296
+                    "stars": 296,
+                    "topics": [
+                      "chatgpt",
+                      "evaluation",
+                      "evaluation-metrics",
+                      "foundation-models",
+                      "gpt",
+                      "gpt-4",
+                      "hallucination",
+                      "iclr",
+                      "iclr2024",
+                      "llama",
+                      "llava",
+                      "multimodal",
+                      "object-detection",
+                      "prompt-engineering",
+                      "vicuna",
+                      "vision",
+                      "vision-and-language",
+                      "vqa"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 },
@@ -245,12 +352,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "GPT-Fathom is an open-source and reproducible LLM evaluation suite, benchmarking 10+ leading open-source and closed-source LLMs as well as OpenAI's earlier models on 20+ curated benchmarks under aligned settings.",
+                    "homepage": null,
                     "id": 697989008,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-04-10T19:41:25Z",
+                    "open_issues": 0,
                     "owner": "GPT-Fathom",
                     "repo": "GPT-Fathom",
-                    "stars": 344
+                    "stars": 344,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 },
@@ -261,12 +373,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Dataset and evaluation script for \"Evaluating Hallucinations in Chinese Large Language Models\"",
+                    "homepage": "https://arxiv.org/pdf/2310.03368.pdf",
                     "id": 700142838,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-06-05T13:32:51Z",
+                    "open_issues": 0,
                     "owner": "OpenMOSS",
                     "repo": "HalluQA",
-                    "stars": 139
+                    "stars": 139,
+                    "topics": [
+                      "hallucinations",
+                      "large-language-models",
+                      "question-answering"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 },
@@ -277,12 +398,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 692097597,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2023-11-03T13:01:29Z",
+                    "open_issues": 1,
                     "owner": "oshizo",
                     "repo": "japanese-llm-roleplay-benchmark",
-                    "stars": 41
+                    "stars": 41,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 },
@@ -293,12 +419,34 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Hallucinations (Confabulations) Document-Based Benchmark for RAG. Includes human-verified questions and answers.",
+                    "homepage": null,
                     "id": 870514837,
                     "language": "HTML",
+                    "license": null,
                     "last_commit": "2025-08-07T22:17:42Z",
+                    "open_issues": 7,
                     "owner": "lechmazur",
                     "repo": "confabulations",
-                    "stars": 249
+                    "stars": 249,
+                    "topics": [
+                      "ai-evaluation",
+                      "benchmark",
+                      "claude",
+                      "confabulations",
+                      "deepseek-r1",
+                      "gemini",
+                      "gemini-pro",
+                      "hallucinations",
+                      "language-model",
+                      "leaderboard",
+                      "llama",
+                      "llm",
+                      "llm-benchmarking",
+                      "o1",
+                      "o3-mini",
+                      "rag"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 },
@@ -309,12 +457,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "LLM evaluation on 2024 Chinese Gaokao Mathematics — zero-contamination benchmark with dual prompt formats",
+                    "homepage": null,
                     "id": 814810341,
                     "language": null,
+                    "license": null,
                     "last_commit": "2026-04-15T15:15:29Z",
+                    "open_issues": 0,
                     "owner": "llmeval",
                     "repo": "Llmeval-Gaokao2024-Math",
-                    "stars": 21
+                    "stars": 21,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 },
@@ -325,12 +478,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A joint community effort to create one central leaderboard for LLMs.",
+                    "homepage": "https://llm-leaderboard.streamlit.app/",
                     "id": 637379793,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-08-23T20:09:41Z",
+                    "open_issues": 9,
                     "owner": "LudwigStumpp",
                     "repo": "llm-leaderboard",
-                    "stars": 306
+                    "stars": 306,
+                    "topics": [
+                      "leaderboard",
+                      "llm",
+                      "machine-learning",
+                      "nlp"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 },
@@ -341,12 +504,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "LongBench v2 and LongBench (ACL 25'&24')",
+                    "homepage": "https://longbench2.github.io",
                     "id": 672301570,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-01-15T02:04:04Z",
+                    "open_issues": 68,
                     "owner": "THUDM",
                     "repo": "LongBench",
-                    "stars": 1231
+                    "stars": 1231,
+                    "topics": [
+                      "benchmark",
+                      "llm",
+                      "long-context",
+                      "longtext"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 },
@@ -357,12 +530,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[EMNLP 2024 (Oral)] Leave No Document Behind: Benchmarking Long-Context LLMs with Extended Multi-Doc QA",
+                    "homepage": null,
                     "id": 815883908,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-12-22T12:45:34Z",
+                    "open_issues": 0,
                     "owner": "MozerWang",
                     "repo": "Loong",
-                    "stars": 155
+                    "stars": 155,
+                    "topics": [
+                      "large-language-models",
+                      "long-context",
+                      "long-context-modeling",
+                      "multi-document-rag",
+                      "question-answering",
+                      "rag",
+                      "retrieval-augmented-generation"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 },
@@ -373,12 +559,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Repository of LV-Eval Benchmark",
+                    "homepage": null,
                     "id": 753173247,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-08-31T05:07:00Z",
+                    "open_issues": 7,
                     "owner": "infinigence",
                     "repo": "LVEval",
-                    "stars": 78
+                    "stars": 78,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 },
@@ -389,12 +580,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Massive Multi-Level Multi-Subject Knowledge Evaluation benchmark",
+                    "homepage": null,
                     "id": 638047224,
                     "language": null,
+                    "license": null,
                     "last_commit": "2023-07-20T14:45:27Z",
+                    "open_issues": 8,
                     "owner": "tjunlp-lab",
                     "repo": "M3KE",
-                    "stars": 108
+                    "stars": 108,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 },
@@ -405,12 +601,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Evaluate the Quality of Critique",
+                    "homepage": null,
                     "id": 735370262,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-06-01T17:57:45Z",
+                    "open_issues": 0,
                     "owner": "GAIR-NLP",
                     "repo": "MetaCritique",
-                    "stars": 37
+                    "stars": 37,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 },
@@ -421,12 +622,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Measuring Massive Multitask Language Understanding | ICLR 2021",
+                    "homepage": "https://arxiv.org/abs/2009.03300",
                     "id": 293649366,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-05-28T18:28:58Z",
+                    "open_issues": 16,
                     "owner": "hendrycks",
                     "repo": "test",
-                    "stars": 1613
+                    "stars": 1613,
+                    "topics": [
+                      "few-shot-learning",
+                      "gpt-3",
+                      "muti-task",
+                      "transfer-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 },
@@ -437,12 +648,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 92883248,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-03-28T23:50:34Z",
+                    "open_issues": 9,
                     "owner": "databricks",
                     "repo": "databricks-ml-examples",
-                    "stars": 368
+                    "stars": 368,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 },
@@ -453,12 +669,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ACL 2024] MT-Bench-101: A Fine-Grained Benchmark for Evaluating Large Language Models in Multi-Turn Dialogues",
+                    "homepage": null,
                     "id": 760410860,
                     "language": null,
+                    "license": "Apache-2.0",
                     "last_commit": "2024-07-24T13:31:34Z",
+                    "open_issues": 3,
                     "owner": "mtbench101",
                     "repo": "mt-bench-101",
-                    "stars": 154
+                    "stars": 154,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 },
@@ -469,12 +690,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ACL 2024]Official GitHub repo for OlympiadBench: A Challenging Benchmark for Promoting AGI with Olympiad-Level Bilingual Multimodal Scientific Problems.",
+                    "homepage": null,
                     "id": 758208436,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-06-08T16:30:44Z",
+                    "open_issues": 7,
                     "owner": "OpenBMB",
                     "repo": "OlympiadBench",
-                    "stars": 196
+                    "stars": 196,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 },
@@ -485,12 +711,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "OpenResearcher, an advanced Scientific Research Assistant",
+                    "homepage": null,
                     "id": 838467308,
                     "language": "HTML",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-10-10T02:41:12Z",
+                    "open_issues": 4,
                     "owner": "GAIR-NLP",
                     "repo": "OpenResearcher",
-                    "stars": 506
+                    "stars": 506,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 },
@@ -501,12 +732,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This repository maintains the QAConv dataset, a question-answering dataset on informative conversations including business emails, panel discussions, and work channels.",
+                    "homepage": null,
                     "id": 360334430,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-06-02T18:10:27Z",
+                    "open_issues": 2,
                     "owner": "salesforce",
                     "repo": "QAConv",
-                    "stars": 84
+                    "stars": 84,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 },
@@ -517,12 +753,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ReST-MCTS*: LLM Self-Training via Process Reward Guided Tree Search (NeurIPS 2024)",
+                    "homepage": null,
                     "id": 811240578,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-01-20T06:01:03Z",
+                    "open_issues": 24,
                     "owner": "THUDM",
                     "repo": "ReST-MCTS",
-                    "stars": 711
+                    "stars": 711,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 },
@@ -533,12 +774,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Bilingual Role Evaluation Benchmark for Large Language Models",
+                    "homepage": null,
                     "id": 735989211,
                     "language": null,
+                    "license": null,
                     "last_commit": "2024-01-09T06:57:59Z",
+                    "open_issues": 1,
                     "owner": "Magnetic2014",
                     "repo": "RoleEval",
-                    "stars": 43
+                    "stars": 43,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 },
@@ -549,12 +795,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SciGLM: Training Scientific Language Models with Self-Reflective Instruction Annotation and Tuning  (NeurIPS D&B Track 2024)",
+                    "homepage": null,
                     "id": 743339689,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-02-25T18:39:30Z",
+                    "open_issues": 3,
                     "owner": "THUDM",
                     "repo": "SciGLM",
-                    "stars": 89
+                    "stars": 89,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 },
@@ -565,12 +816,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 733387623,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-04-03T01:45:21Z",
+                    "open_issues": 3,
                     "owner": "XuanwuAI",
                     "repo": "SecEval",
-                    "stars": 116
+                    "stars": 116,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 },
@@ -581,12 +837,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Spec-Bench: A Comprehensive Benchmark and Unified Evaluation Platform for Speculative Decoding (ACL 2024 Findings)",
+                    "homepage": "https://sites.google.com/view/spec-bench",
                     "id": 760971019,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-04-22T02:56:41Z",
+                    "open_issues": 8,
                     "owner": "hemingkx",
                     "repo": "Spec-Bench",
-                    "stars": 406
+                    "stars": 407,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 },
@@ -597,12 +858,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 796221348,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-05-09T18:05:10Z",
+                    "open_issues": 2,
                     "owner": "msamwelmollel",
                     "repo": "Swahili_LLM_Leaderboard",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 },
@@ -613,12 +879,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Toolkit for Table-based Question Answering",
+                    "homepage": null,
                     "id": 659530721,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-10-19T04:00:20Z",
+                    "open_issues": 3,
                     "owner": "lfy79001",
                     "repo": "TableQAKit",
-                    "stars": 117
+                    "stars": 117,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 },
@@ -629,12 +900,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 753751703,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-08-06T21:25:06Z",
+                    "open_issues": 0,
                     "owner": "princeton-nlp",
                     "repo": "LM-Science-Tutor",
-                    "stars": 50
+                    "stars": 50,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 },
@@ -645,12 +921,32 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Benchmark for evaluating advanced reasoning, recursive dependency resolution, and robustness capabilities of large language models in dynamic, noisy, and structurally challenging environments.",
+                    "homepage": null,
                     "id": 1234096368,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-05-15T03:53:30Z",
+                    "open_issues": 0,
                     "owner": "vbepipe",
                     "repo": "vmrrb-benchmark",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": [
+                      "ai-accuracy",
+                      "ai-evaluation",
+                      "ai-reasoning",
+                      "ai-reliability",
+                      "ai-stability",
+                      "benchmark",
+                      "dependency-resolution",
+                      "large-language-models",
+                      "llm-benchmark",
+                      "llm-evaluation",
+                      "long-chain-reasoning",
+                      "multistep-reasoning",
+                      "reasoning-benchmark",
+                      "recursive-reasoning"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 },
@@ -661,12 +957,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 650763732,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-12-05T11:26:48Z",
+                    "open_issues": 5,
                     "owner": "MikeGu721",
                     "repo": "XiezhiBenchmark",
-                    "stars": 98
+                    "stars": 98,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 }
@@ -684,12 +985,33 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🌍 AppWorld: A Controllable World of Apps and People for Benchmarking Function Calling and Interactive Coding Agent, ACL'24 Best Resource Paper.",
+                    "homepage": "https://appworld.dev/",
                     "id": 819144961,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-02-17T22:41:42Z",
+                    "open_issues": 19,
                     "owner": "StonyBrookNLP",
                     "repo": "appworld",
-                    "stars": 492
+                    "stars": 492,
+                    "topics": [
+                      "acl-2024",
+                      "ai-agents",
+                      "ai-apis",
+                      "ai-assistants",
+                      "ai-environment",
+                      "ai-planning",
+                      "autonomous-agents",
+                      "coding-agents",
+                      "function-calling",
+                      "interactive-coding",
+                      "llm",
+                      "llm-agents",
+                      "nlp-datasets",
+                      "nlp-machine-learning",
+                      "tool-usage"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 },
@@ -700,12 +1022,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 686961874,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-09-06T15:32:38Z",
+                    "open_issues": 5,
                     "owner": "APEXLAB",
                     "repo": "CodeApex",
-                    "stars": 50
+                    "stars": 50,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 },
@@ -716,12 +1043,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Manually-Annotated Code Generation Benchmark Aligned with Real-World Code Repositories",
+                    "homepage": null,
                     "id": 808025729,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-09-04T13:05:50Z",
+                    "open_issues": 2,
                     "owner": "seketeam",
                     "repo": "DevEval",
-                    "stars": 43
+                    "stars": 43,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 },
@@ -732,12 +1064,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "DevOps AI Assistant benchmarks for AWS, Kubernetes, and more",
+                    "homepage": null,
                     "id": 689640986,
                     "language": "Ruby",
+                    "license": "MIT",
                     "last_commit": "2024-08-10T16:27:20Z",
+                    "open_issues": 1,
                     "owner": "opstower-ai",
                     "repo": "devops-ai-open-leaderboard",
-                    "stars": 43
+                    "stars": 43,
+                    "topics": [
+                      "aws",
+                      "kubernetes",
+                      "terraform"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 },
@@ -748,12 +1089,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Industrial-first evaluation benchmark for  LLMs in the DevOps/AIOps domain.",
+                    "homepage": null,
                     "id": 697550338,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-07-10T03:37:38Z",
+                    "open_issues": 8,
                     "owner": "codefuse-ai",
                     "repo": "codefuse-devops-eval",
-                    "stars": 656
+                    "stars": 656,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 },
@@ -764,12 +1110,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Data for paper \"Dr.Spider: A Diagnostic Evaluation Benchmark towards Text-to-SQL Robustness\"",
+                    "homepage": null,
                     "id": 591037743,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-05-03T20:35:05Z",
+                    "open_issues": 1,
                     "owner": "awslabs",
                     "repo": "diagnostic-robustness-text-to-sql",
-                    "stars": 34
+                    "stars": 34,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 },
@@ -780,12 +1131,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An Evolving Code Generation Benchmark Aligned with Real-world Code Repositories",
+                    "homepage": null,
                     "id": 777207957,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-08-15T02:47:59Z",
+                    "open_issues": 10,
                     "owner": "seketeam",
                     "repo": "EvoCodeBench",
-                    "stars": 71
+                    "stars": 71,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 },
@@ -796,12 +1152,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Provides a platform for the Julia community to compare AI models' abilities in generating syntactically correct Julia code, featuring structured tests and automated evaluations for easy and collaborative benchmarking.",
+                    "homepage": "http://svilupp.github.io/Julia-LLM-Leaderboard/dev",
                     "id": 727631309,
                     "language": "HTML",
+                    "license": "MIT",
                     "last_commit": "2024-08-14T08:54:24Z",
+                    "open_issues": 2,
                     "owner": "svilupp",
                     "repo": "Julia-LLM-Leaderboard",
-                    "stars": 86
+                    "stars": 86,
+                    "topics": [
+                      "generative-ai",
+                      "julia",
+                      "julialang"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 },
@@ -812,12 +1177,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "MLE-bench is a benchmark for measuring how well AI agents perform at machine learning engineering",
+                    "homepage": "https://openai.com/index/mle-bench/",
                     "id": 869660918,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-04-24T17:33:44Z",
+                    "open_issues": 10,
                     "owner": "openai",
                     "repo": "mle-bench",
-                    "stars": 1724
+                    "stars": 1724,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 },
@@ -828,12 +1198,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "NaturalCodeBench (Findings of ACL 2024)",
+                    "homepage": null,
                     "id": 792709276,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-10-14T04:36:12Z",
+                    "open_issues": 4,
                     "owner": "THUDM",
                     "repo": "NaturalCodeBench",
-                    "stars": 70
+                    "stars": 70,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 },
@@ -844,12 +1219,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "LLM Benchmark for Code",
+                    "homepage": "https://mercury7353.github.io/pybench.github.io/",
                     "id": 822427090,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-08-06T02:14:05Z",
+                    "open_issues": 2,
                     "owner": "Mercury7353",
                     "repo": "PyBench",
-                    "stars": 33
+                    "stars": 33,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 },
@@ -860,12 +1240,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A benchmark that challenges language models to code solutions for scientific problems",
+                    "homepage": null,
                     "id": 825810755,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-24T17:14:40Z",
+                    "open_issues": 21,
                     "owner": "scicode-bench",
                     "repo": "SciCode",
-                    "stars": 224
+                    "stars": 224,
+                    "topics": [
+                      "ai",
+                      "ai-benchmarks",
+                      "benchmark",
+                      "llm"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 }
@@ -888,12 +1278,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repo contains evaluation code for the paper \"BLINK: Multimodal Large Language Models Can See but Not Perceive\".     https://arxiv.org/abs/2404.12390  [ECCV 2024]",
+                "homepage": "https://zeyofu.github.io/blink/",
                 "id": 787317742,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-09-27T20:06:21Z",
+                "open_issues": 1,
                 "owner": "zeyofu",
                 "repo": "BLINK_Benchmark",
-                "stars": 170
+                "stars": 170,
+                "topics": [
+                  "3d-understanding",
+                  "ai",
+                  "benchmark",
+                  "computer-vision",
+                  "multimodal",
+                  "multimodal-large-language-models",
+                  "multimodal-learning",
+                  "natural-language-processing",
+                  "perception",
+                  "perception-evaluation",
+                  "vision-and-language"
+                ]
               },
               "first_seen": "2026-08-28T23:07:02.734Z"
             },
@@ -904,12 +1311,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR'24] HallusionBench: You See What You Think? Or You Think What You See? An Image-Context Reasoning Benchmark Challenging for GPT-4V(ision), LLaVA-1.5, and Other Multi-modality Models",
+                "homepage": null,
                 "id": 708527797,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2025-10-14T22:00:23Z",
+                "open_issues": 2,
                 "owner": "tianyi-lab",
                 "repo": "HallusionBench",
-                "stars": 342
+                "stars": 342,
+                "topics": [
+                  "benchmark",
+                  "benchmarks",
+                  "gpt-4",
+                  "gpt-4v",
+                  "hallucination",
+                  "large-language-models",
+                  "large-vision-language-models",
+                  "llava",
+                  "llm",
+                  "lmm",
+                  "vlms"
+                ]
               },
               "first_seen": "2026-08-28T23:07:02.734Z"
             },
@@ -920,12 +1344,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Chatbot Arena meets multi-modality! Multi-Modality Arena allows you to benchmark vision-language models side-by-side while providing images as inputs. Supports MiniGPT-4, LLaMA-Adapter V2, LLaVA, BLIP-2, and many more!",
+                "homepage": null,
                 "id": 638869686,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-04-21T11:14:46Z",
+                "open_issues": 24,
                 "owner": "OpenGVLab",
                 "repo": "Multi-Modality-Arena",
-                "stars": 566
+                "stars": 566,
+                "topics": [
+                  "chat",
+                  "chatbot",
+                  "chatgpt",
+                  "gradio",
+                  "large-language-models",
+                  "llms",
+                  "multi-modality",
+                  "vision-language-model",
+                  "vqa"
+                ]
               },
               "first_seen": "2026-08-28T23:07:02.734Z"
             },
@@ -936,12 +1375,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":sparkles::sparkles:Latest Advances on Multimodal Large Language Models",
+                "homepage": null,
                 "id": 642642539,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-08-27T01:08:08Z",
+                "open_issues": 111,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 17993
+                "stars": 17994,
+                "topics": [
+                  "chain-of-thought",
+                  "in-context-learning",
+                  "instruction-following",
+                  "instruction-tuning",
+                  "large-language-models",
+                  "large-vision-language-model",
+                  "large-vision-language-models",
+                  "multi-modality",
+                  "multimodal-chain-of-thought",
+                  "multimodal-in-context-learning",
+                  "multimodal-instruction-tuning",
+                  "multimodal-large-language-models",
+                  "visual-instruction-tuning"
+                ]
               },
               "first_seen": "2026-08-28T23:07:02.734Z"
             },
@@ -952,12 +1410,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 811253541,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-03-19T04:39:00Z",
+                "open_issues": 2,
                 "owner": "BAAI-DCAI",
                 "repo": "MMVU",
-                "stars": 57
+                "stars": 57,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:07:02.734Z"
             },
@@ -968,12 +1431,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[SCIS] MULTI-Benchmark: Multimodal Understanding Leaderboard with Text and Images",
+                "homepage": "https://opendfm.github.io/MULTI-Benchmark/",
                 "id": 727110963,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-15T18:53:01Z",
+                "open_issues": 0,
                 "owner": "OpenDFM",
                 "repo": "MULTI-Benchmark",
-                "stars": 47
+                "stars": 47,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:07:02.734Z"
             },
@@ -984,12 +1452,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 747999788,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-03-08T16:01:55Z",
+                "open_issues": 2,
                 "owner": "lizhouf",
                 "repo": "NPHardEval4V",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:07:02.734Z"
             },
@@ -1000,12 +1473,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ACL 2024] PCA-Bench: Evaluating Multimodal Large Language Models in Perception-Cognition-Action Chain",
+                "homepage": "https://pca-eval.github.io/",
                 "id": 698578550,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2024-03-14T11:37:19Z",
+                "open_issues": 0,
                 "owner": "pkunlp-icler",
                 "repo": "PCA-EVAL",
-                "stars": 108
+                "stars": 108,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:07:02.734Z"
             },
@@ -1016,12 +1494,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SciGraphQA: Large-Scale Synthetic Multi-Turn Question-Answering Dataset for Scientific Graphs",
+                "homepage": "https://arxiv.org/abs/2308.03349",
                 "id": 658955843,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2024-10-25T16:03:45Z",
+                "open_issues": 0,
                 "owner": "findalexli",
                 "repo": "SciGraphQA",
-                "stars": 43
+                "stars": 43,
+                "topics": [
+                  "datasets",
+                  "llm",
+                  "synthetic-data",
+                  "vision-language",
+                  "vision-transformer",
+                  "vqa",
+                  "vqa-dataset"
+                ]
               },
               "first_seen": "2026-08-28T23:07:02.734Z"
             },
@@ -1032,12 +1523,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multimodal language model benchmark, featuring challenging examples",
+                "homepage": "https://www.reka.ai/",
                 "id": 794470493,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-12-18T19:27:52Z",
+                "open_issues": 3,
                 "owner": "reka-ai",
                 "repo": "reka-vibe-eval",
-                "stars": 189
+                "stars": 189,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:07:02.734Z"
             },
@@ -1048,12 +1544,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 816746279,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-10-21T21:43:36Z",
+                "open_issues": 2,
                 "owner": "WildVision-AI",
                 "repo": "WildVision-Bench",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:07:02.734Z"
             },
@@ -1066,12 +1567,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🔥🔥MLVU: Multi-task Long Video Understanding Benchmark",
+                    "homepage": null,
                     "id": 809243585,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-04-13T13:18:00Z",
+                    "open_issues": 12,
                     "owner": "JUNJIE99",
                     "repo": "MLVU",
-                    "stars": 268
+                    "stars": 268,
+                    "topics": [
+                      "benchmark",
+                      "long-video-understanding",
+                      "mlvu",
+                      "multi-task",
+                      "multimodal-large-language-models",
+                      "videos"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 },
@@ -1082,12 +1595,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Video Generation, Physical Commonsense, Semantic Adherence, VideoCon-Physics",
+                    "homepage": null,
                     "id": 810659676,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-01-30T07:22:50Z",
+                    "open_issues": 3,
                     "owner": "Hritikbansal",
                     "repo": "videophy",
-                    "stars": 208
+                    "stars": 208,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 }
@@ -1105,12 +1623,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 781816641,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-04-18T12:56:59Z",
+                    "open_issues": 2,
                     "owner": "THUDM",
                     "repo": "ChatGLM-Math",
-                    "stars": 83
+                    "stars": 83,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 }
@@ -1128,12 +1651,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 741124310,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-05-27T16:17:39Z",
+                    "open_issues": 27,
                     "owner": "morecry",
                     "repo": "CharacterEval",
-                    "stars": 302
+                    "stars": 302,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 },
@@ -1144,12 +1672,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[NeurIPS 2024 D&B] GTA: A Benchmark for General Tool Agents & [arXiv 2026] GTA-2",
+                    "homepage": null,
                     "id": 811330900,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-04-20T06:28:54Z",
+                    "open_issues": 1,
                     "owner": "open-compass",
                     "repo": "GTA",
-                    "stars": 151
+                    "stars": 151,
+                    "topics": [
+                      "llm-agent",
+                      "llm-evaluation"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 },
@@ -1160,12 +1696,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A hard gym for programming",
+                    "homepage": null,
                     "id": 620096540,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-07-07T23:24:13Z",
+                    "open_issues": 4,
                     "owner": "GammaTauAI",
                     "repo": "leetcode-hard-gym",
-                    "stars": 172
+                    "stars": 172,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 },
@@ -1176,12 +1717,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Benchmark LLMs by fighting in Street Fighter 3! The new way to evaluate the quality of an LLM",
+                    "homepage": "https://llm-colosseum.phospho.ai",
                     "id": 776301107,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2025-03-21T10:35:26Z",
+                    "open_issues": 16,
                     "owner": "OpenGenerativeAI",
                     "repo": "llm-colosseum",
-                    "stars": 1483
+                    "stars": 1483,
+                    "topics": [
+                      "benchmark",
+                      "genai",
+                      "llm",
+                      "streetfighterai"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 },
@@ -1192,12 +1743,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 718770831,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-11-13T10:38:02Z",
+                    "open_issues": 0,
                     "owner": "cathyxl",
                     "repo": "MAgIC",
-                    "stars": 43
+                    "stars": 43,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 },
@@ -1208,12 +1764,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Towards Large Multimodal Models as Visual Foundation Agents",
+                    "homepage": null,
                     "id": 839916063,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-04-24T14:59:48Z",
+                    "open_issues": 17,
                     "owner": "THUDM",
                     "repo": "VisualAgentBench",
-                    "stars": 274
+                    "stars": 274,
+                    "topics": [
+                      "gpt",
+                      "llm-agent",
+                      "multimodal-large-language-models"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 },
@@ -1224,12 +1789,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code and Data for Tau-Bench",
+                    "homepage": null,
                     "id": 811477986,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-03-18T17:36:06Z",
+                    "open_issues": 52,
                     "owner": "sierra-research",
                     "repo": "tau-bench",
-                    "stars": 1410
+                    "stars": 1410,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 }
@@ -1247,12 +1817,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "通义点金：中文金融行业大模型  Resources",
+                    "homepage": "https://github.com/aliyun/qwen-dianjin",
                     "id": 767410579,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-01-07T01:52:22Z",
+                    "open_issues": 2,
                     "owner": "aliyun",
                     "repo": "cflue",
-                    "stars": 92
+                    "stars": 92,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 },
@@ -1263,12 +1838,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The FinEval financial domain evaluation benchmark, based on quantitative fundamental methods and developed through long-term objective research, summarization, and rigorous manual screening, utilizes over 26,000 diverse question types that are highly consistent with real-world application scenarios.",
+                    "homepage": null,
                     "id": 677947508,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-06-23T03:39:27Z",
+                    "open_issues": 5,
                     "owner": "SUFE-AIFLM-Lab",
                     "repo": "FinEval",
-                    "stars": 284
+                    "stars": 284,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 },
@@ -1279,12 +1859,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Japanese Language Model Financial Evaluation Harness",
+                    "homepage": null,
                     "id": 727102189,
                     "language": "Shell",
+                    "license": "MIT",
                     "last_commit": "2026-06-17T07:11:07Z",
+                    "open_issues": 2,
                     "owner": "pfnet-research",
                     "repo": "japanese-lm-fin-harness",
-                    "stars": 79
+                    "stars": 79,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 }
@@ -1302,12 +1887,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Flames is a highly adversarial benchmark in Chinese for LLM's harmlessness evaluation developed by Shanghai AI Lab and Fudan NLP Group.",
+                    "homepage": null,
                     "id": 706605618,
                     "language": null,
+                    "license": "Apache-2.0",
                     "last_commit": "2024-05-21T07:23:50Z",
+                    "open_issues": 2,
                     "owner": "AI45Lab",
                     "repo": "Flames",
-                    "stars": 68
+                    "stars": 68,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 },
@@ -1318,12 +1908,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": "https://csoai.org/govbench.html",
                     "id": 1309638805,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-05T10:03:13Z",
+                    "open_issues": 0,
                     "owner": "CSOAI-ORG",
                     "repo": "govbench",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": [
+                      "ai-compliance",
+                      "ai-governance",
+                      "ai-measurement",
+                      "ed25519",
+                      "eu-ai-act",
+                      "mcp-server",
+                      "signed-attestation"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 }
@@ -1341,12 +1944,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "JMED-LLM: Japanese Medical Evaluation Dataset for Large Language Models",
+                    "homepage": null,
                     "id": 827285012,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-09-22T01:10:58Z",
+                    "open_issues": 0,
                     "owner": "sociocom",
                     "repo": "JMED-LLM",
-                    "stars": 59
+                    "stars": 59,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 }
@@ -1364,12 +1972,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "AIR-Bench: Benchmarking Large Audio-Language Models via Generative Comprehension",
+                    "homepage": null,
                     "id": 791192852,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-12-09T03:53:49Z",
+                    "open_issues": 9,
                     "owner": "OFA-Sys",
                     "repo": "AIR-Bench",
-                    "stars": 135
+                    "stars": 135,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 }
@@ -1387,12 +2000,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code and data for the paper: Competing Large Language Models in Multi-Agent Gaming Environments",
+                    "homepage": "https://cuhk-arise.github.io/GAMABench/",
                     "id": 704941243,
                     "language": "Jupyter Notebook",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-01-26T07:46:40Z",
+                    "open_issues": 1,
                     "owner": "CUHK-ARISE",
                     "repo": "GAMABench",
-                    "stars": 98
+                    "stars": 98,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
                 }
@@ -1415,12 +2033,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ACL2023 - AlignScore, a metric for factual consistency evaluation.",
+                "homepage": "https://arxiv.org/pdf/2305.16739.pdf",
                 "id": 644697625,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-03-11T05:49:09Z",
+                "open_issues": 12,
                 "owner": "yuh-zha",
                 "repo": "AlignScore",
-                "stars": 168
+                "stars": 168,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:07:02.734Z"
             }
@@ -1438,12 +2061,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Benchmarking suite for popular AI APIs",
+                "homepage": null,
                 "id": 698415400,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-02-06T19:25:17Z",
+                "open_issues": 4,
                 "owner": "fixie-ai",
                 "repo": "ai-benchmarks",
-                "stars": 88
+                "stars": 88,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:07:02.734Z"
             }
@@ -1457,15 +2085,32 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:07:02.734Z",
+    "last_updated": "2026-08-29T04:44:28.068Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome leaderboard-oriented resources for AI domain",
+      "homepage": "https://sailresearch.github.io/awesome-ai-leaderboard/",
       "id": 796089121,
       "language": null,
+      "license": null,
       "last_commit": "2026-08-26T05:33:23Z",
+      "open_issues": 0,
       "owner": "SAILResearch",
       "repo": "awesome-ai-leaderboard",
-      "stars": 381
+      "stars": 381,
+      "topics": [
+        "ai-agent",
+        "artificial-intelligence",
+        "awesome-list",
+        "benchmark",
+        "deep-learning",
+        "evaluation",
+        "foundation-model",
+        "large-ai-model",
+        "leaderboard",
+        "machine-learning",
+        "ranking-system"
+      ]
     },
     "original_repository_sha": "b0b1029335f51af7af830b5d5ec89f93e263ad29",
     "enhanced_repository": "enhansome/enhansome-ai-leaderboard",
