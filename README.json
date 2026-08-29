@@ -93,7 +93,7 @@
                     "open_issues": 18,
                     "owner": "lmarena",
                     "repo": "arena-hard-auto",
-                    "stars": 1061,
+                    "stars": 1062,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -173,11 +173,11 @@
                     "id": 649224670,
                     "language": null,
                     "license": null,
-                    "last_commit": "2026-08-23T10:20:24Z",
+                    "last_commit": "2026-08-29T09:17:39Z",
                     "open_issues": 18,
                     "owner": "jeinlee1991",
                     "repo": "chinese-llm-benchmark",
-                    "stars": 6408,
+                    "stars": 6409,
                     "topics": [
                       "agentic-ai",
                       "artificial-intelligence",
@@ -994,7 +994,7 @@
                     "open_issues": 19,
                     "owner": "StonyBrookNLP",
                     "repo": "appworld",
-                    "stars": 492,
+                    "stars": 493,
                     "topics": [
                       "acl-2024",
                       "ai-agents",
@@ -1773,7 +1773,7 @@
                     "open_issues": 17,
                     "owner": "THUDM",
                     "repo": "VisualAgentBench",
-                    "stars": 274,
+                    "stars": 275,
                     "topics": [
                       "gpt",
                       "llm-agent",
@@ -1798,7 +1798,7 @@
                     "open_issues": 52,
                     "owner": "sierra-research",
                     "repo": "tau-bench",
-                    "stars": 1410,
+                    "stars": 1411,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -2085,7 +2085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:44:28.068Z",
+    "last_updated": "2026-08-29T17:15:42.618Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome leaderboard-oriented resources for AI domain",
