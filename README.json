@@ -93,7 +93,7 @@
                     "open_issues": 18,
                     "owner": "lmarena",
                     "repo": "arena-hard-auto",
-                    "stars": 1062,
+                    "stars": 1065,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -177,7 +177,7 @@
                     "open_issues": 18,
                     "owner": "jeinlee1991",
                     "repo": "chinese-llm-benchmark",
-                    "stars": 6410,
+                    "stars": 6413,
                     "topics": [
                       "agentic-ai",
                       "artificial-intelligence",
@@ -994,7 +994,7 @@
                     "open_issues": 19,
                     "owner": "StonyBrookNLP",
                     "repo": "appworld",
-                    "stars": 495,
+                    "stars": 497,
                     "topics": [
                       "acl-2024",
                       "ai-agents",
@@ -1186,7 +1186,7 @@
                     "open_issues": 10,
                     "owner": "openai",
                     "repo": "mle-bench",
-                    "stars": 1725,
+                    "stars": 1726,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1245,7 +1245,7 @@
                     "id": 825810755,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-24T17:14:40Z",
+                    "last_commit": "2026-08-31T17:19:15Z",
                     "open_issues": 21,
                     "owner": "scicode-bench",
                     "repo": "SciCode",
@@ -1660,7 +1660,7 @@
                     "open_issues": 27,
                     "owner": "morecry",
                     "repo": "CharacterEval",
-                    "stars": 302,
+                    "stars": 303,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1773,7 +1773,7 @@
                     "open_issues": 17,
                     "owner": "THUDM",
                     "repo": "VisualAgentBench",
-                    "stars": 275,
+                    "stars": 276,
                     "topics": [
                       "gpt",
                       "llm-agent",
@@ -1798,7 +1798,7 @@
                     "open_issues": 52,
                     "owner": "sierra-research",
                     "repo": "tau-bench",
-                    "stars": 1411,
+                    "stars": 1413,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -2042,7 +2042,7 @@
                 "open_issues": 12,
                 "owner": "yuh-zha",
                 "repo": "AlignScore",
-                "stars": 168,
+                "stars": 169,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:07:02.734Z"
@@ -2085,7 +2085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T17:39:11.322Z",
+    "last_updated": "2026-08-31T19:32:58.271Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome leaderboard-oriented resources for AI domain",
