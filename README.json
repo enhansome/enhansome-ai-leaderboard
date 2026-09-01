@@ -93,7 +93,7 @@
                     "open_issues": 18,
                     "owner": "lmarena",
                     "repo": "arena-hard-auto",
-                    "stars": 1065,
+                    "stars": 1066,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -177,7 +177,7 @@
                     "open_issues": 18,
                     "owner": "jeinlee1991",
                     "repo": "chinese-llm-benchmark",
-                    "stars": 6413,
+                    "stars": 6415,
                     "topics": [
                       "agentic-ai",
                       "artificial-intelligence",
@@ -266,7 +266,7 @@
                     "open_issues": 23,
                     "owner": "GAIR-NLP",
                     "repo": "factool",
-                    "stars": 934,
+                    "stars": 933,
                     "topics": [
                       "chatgpt",
                       "fact-checking",
@@ -373,7 +373,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "Dataset and evaluation script for \"Evaluating Hallucinations in Chinese Large Language Models\"",
+                    "description": "Dataset and evaluation code for measuring hallucinations in Chinese large language models",
                     "homepage": "https://arxiv.org/pdf/2310.03368.pdf",
                     "id": 700142838,
                     "language": "Python",
@@ -846,7 +846,7 @@
                     "open_issues": 8,
                     "owner": "hemingkx",
                     "repo": "Spec-Bench",
-                    "stars": 408,
+                    "stars": 409,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -994,7 +994,7 @@
                     "open_issues": 19,
                     "owner": "StonyBrookNLP",
                     "repo": "appworld",
-                    "stars": 497,
+                    "stars": 499,
                     "topics": [
                       "acl-2024",
                       "ai-agents",
@@ -1186,7 +1186,7 @@
                     "open_issues": 10,
                     "owner": "openai",
                     "repo": "mle-bench",
-                    "stars": 1726,
+                    "stars": 1728,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1798,7 +1798,7 @@
                     "open_issues": 52,
                     "owner": "sierra-research",
                     "repo": "tau-bench",
-                    "stars": 1413,
+                    "stars": 1415,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -2085,7 +2085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T19:32:58.271Z",
+    "last_updated": "2026-09-01T17:22:04.161Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome leaderboard-oriented resources for AI domain",
