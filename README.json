@@ -135,7 +135,7 @@
                     "open_issues": 106,
                     "owner": "google",
                     "repo": "BIG-bench",
-                    "stars": 3247,
+                    "stars": 3246,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -156,7 +156,7 @@
                     "open_issues": 27,
                     "owner": "FranxYao",
                     "repo": "chain-of-thought-hub",
-                    "stars": 2775,
+                    "stars": 2774,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -177,7 +177,7 @@
                     "open_issues": 18,
                     "owner": "jeinlee1991",
                     "repo": "chinese-llm-benchmark",
-                    "stars": 6415,
+                    "stars": 6418,
                     "topics": [
                       "agentic-ai",
                       "artificial-intelligence",
@@ -631,7 +631,7 @@
                     "open_issues": 16,
                     "owner": "hendrycks",
                     "repo": "test",
-                    "stars": 1613,
+                    "stars": 1615,
                     "topics": [
                       "few-shot-learning",
                       "gpt-3",
@@ -657,7 +657,7 @@
                     "open_issues": 9,
                     "owner": "databricks",
                     "repo": "databricks-ml-examples",
-                    "stars": 368,
+                    "stars": 369,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -699,7 +699,7 @@
                     "open_issues": 7,
                     "owner": "OpenBMB",
                     "repo": "OlympiadBench",
-                    "stars": 196,
+                    "stars": 197,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -846,7 +846,7 @@
                     "open_issues": 8,
                     "owner": "hemingkx",
                     "repo": "Spec-Bench",
-                    "stars": 409,
+                    "stars": 410,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -990,8 +990,8 @@
                     "id": 819144961,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-02-17T22:41:42Z",
-                    "open_issues": 19,
+                    "last_commit": "2026-09-03T15:38:16Z",
+                    "open_issues": 15,
                     "owner": "StonyBrookNLP",
                     "repo": "appworld",
                     "stars": 502,
@@ -1186,7 +1186,7 @@
                     "open_issues": 10,
                     "owner": "openai",
                     "repo": "mle-bench",
-                    "stars": 1729,
+                    "stars": 1733,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1380,11 +1380,11 @@
                 "id": 642642539,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-09-02T02:30:25Z",
+                "last_commit": "2026-09-03T01:18:54Z",
                 "open_issues": 110,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 17996,
+                "stars": 17997,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -1795,10 +1795,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-03-18T17:36:06Z",
-                    "open_issues": 52,
+                    "open_issues": 53,
                     "owner": "sierra-research",
                     "repo": "tau-bench",
-                    "stars": 1419,
+                    "stars": 1420,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1908,7 +1908,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": null,
+                    "description": "Measure any AI's refusal behaviour on an adversarial grid — reproducibly, for free.",
                     "homepage": "https://csoai.org/govbench.html",
                     "id": 1309638805,
                     "language": "Python",
@@ -2085,7 +2085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T17:13:48.899Z",
+    "last_updated": "2026-09-03T17:05:22.586Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome leaderboard-oriented resources for AI domain",
