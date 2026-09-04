@@ -173,11 +173,11 @@
                     "id": 649224670,
                     "language": null,
                     "license": null,
-                    "last_commit": "2026-09-02T12:08:15Z",
+                    "last_commit": "2026-09-04T04:44:13Z",
                     "open_issues": 18,
                     "owner": "jeinlee1991",
                     "repo": "chinese-llm-benchmark",
-                    "stars": 6418,
+                    "stars": 6419,
                     "topics": [
                       "agentic-ai",
                       "artificial-intelligence",
@@ -513,7 +513,7 @@
                     "open_issues": 68,
                     "owner": "THUDM",
                     "repo": "LongBench",
-                    "stars": 1232,
+                    "stars": 1234,
                     "topics": [
                       "benchmark",
                       "llm",
@@ -631,7 +631,7 @@
                     "open_issues": 16,
                     "owner": "hendrycks",
                     "repo": "test",
-                    "stars": 1615,
+                    "stars": 1616,
                     "topics": [
                       "few-shot-learning",
                       "gpt-3",
@@ -990,8 +990,8 @@
                     "id": 819144961,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-03T15:38:16Z",
-                    "open_issues": 15,
+                    "last_commit": "2026-09-04T05:47:04Z",
+                    "open_issues": 11,
                     "owner": "StonyBrookNLP",
                     "repo": "appworld",
                     "stars": 502,
@@ -1186,7 +1186,7 @@
                     "open_issues": 10,
                     "owner": "openai",
                     "repo": "mle-bench",
-                    "stars": 1733,
+                    "stars": 1736,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1249,7 +1249,7 @@
                     "open_issues": 21,
                     "owner": "scicode-bench",
                     "repo": "SciCode",
-                    "stars": 224,
+                    "stars": 225,
                     "topics": [
                       "ai",
                       "ai-benchmarks",
@@ -1380,11 +1380,11 @@
                 "id": 642642539,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-09-03T01:18:54Z",
+                "last_commit": "2026-09-04T01:37:13Z",
                 "open_issues": 110,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 17997,
+                "stars": 17998,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -2042,7 +2042,7 @@
                 "open_issues": 12,
                 "owner": "yuh-zha",
                 "repo": "AlignScore",
-                "stars": 169,
+                "stars": 170,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:07:02.734Z"
@@ -2085,7 +2085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T17:05:22.586Z",
+    "last_updated": "2026-09-04T16:54:57.821Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome leaderboard-oriented resources for AI domain",
