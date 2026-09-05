@@ -23,7 +23,7 @@
                     "open_issues": 7,
                     "owner": "ray-project",
                     "repo": "llmperf-leaderboard",
-                    "stars": 474,
+                    "stars": 473,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -177,7 +177,7 @@
                     "open_issues": 18,
                     "owner": "jeinlee1991",
                     "repo": "chinese-llm-benchmark",
-                    "stars": 6419,
+                    "stars": 6422,
                     "topics": [
                       "agentic-ai",
                       "artificial-intelligence",
@@ -1384,7 +1384,7 @@
                 "open_issues": 110,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 17998,
+                "stars": 17999,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -1436,7 +1436,7 @@
                 "id": 727110963,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-07-15T18:53:01Z",
+                "last_commit": "2026-09-05T09:06:40Z",
                 "open_issues": 0,
                 "owner": "OpenDFM",
                 "repo": "MULTI-Benchmark",
@@ -1798,7 +1798,7 @@
                     "open_issues": 53,
                     "owner": "sierra-research",
                     "repo": "tau-bench",
-                    "stars": 1420,
+                    "stars": 1423,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1908,7 +1908,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "Measure any AI's refusal behaviour on an adversarial grid — reproducibly, for free.",
+                    "description": "🧪 Lets you measure any AI's refusal behaviour on an adversarial grid — reproducibly, for free.",
                     "homepage": "https://csoai.org/govbench.html",
                     "id": 1309638805,
                     "language": "Python",
@@ -1925,6 +1925,7 @@
                       "ed25519",
                       "eu-ai-act",
                       "mcp-server",
+                      "measurement",
                       "signed-attestation"
                     ]
                   },
@@ -2085,7 +2086,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T16:54:57.821Z",
+    "last_updated": "2026-09-05T16:09:07.524Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome leaderboard-oriented resources for AI domain",
