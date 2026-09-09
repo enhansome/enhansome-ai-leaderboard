@@ -93,7 +93,7 @@
                     "open_issues": 18,
                     "owner": "lmarena",
                     "repo": "arena-hard-auto",
-                    "stars": 1067,
+                    "stars": 1068,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -156,7 +156,7 @@
                     "open_issues": 27,
                     "owner": "FranxYao",
                     "repo": "chain-of-thought-hub",
-                    "stars": 2774,
+                    "stars": 2775,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -266,7 +266,7 @@
                     "open_issues": 23,
                     "owner": "GAIR-NLP",
                     "repo": "factool",
-                    "stars": 935,
+                    "stars": 936,
                     "topics": [
                       "chatgpt",
                       "fact-checking",
@@ -539,7 +539,7 @@
                     "open_issues": 0,
                     "owner": "MozerWang",
                     "repo": "Loong",
-                    "stars": 155,
+                    "stars": 154,
                     "topics": [
                       "large-language-models",
                       "long-context",
@@ -657,7 +657,7 @@
                     "open_issues": 9,
                     "owner": "databricks",
                     "repo": "databricks-ml-examples",
-                    "stars": 369,
+                    "stars": 370,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -762,7 +762,7 @@
                     "open_issues": 24,
                     "owner": "THUDM",
                     "repo": "ReST-MCTS",
-                    "stars": 711,
+                    "stars": 712,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -994,7 +994,7 @@
                     "open_issues": 11,
                     "owner": "StonyBrookNLP",
                     "repo": "appworld",
-                    "stars": 506,
+                    "stars": 508,
                     "topics": [
                       "acl-2024",
                       "ai-agents",
@@ -1381,10 +1381,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-09-04T01:37:13Z",
-                "open_issues": 110,
+                "open_issues": 111,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18003,
+                "stars": 18006,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -1798,7 +1798,7 @@
                     "open_issues": 53,
                     "owner": "sierra-research",
                     "repo": "tau-bench",
-                    "stars": 1427,
+                    "stars": 1428,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -2086,7 +2086,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T17:18:27.792Z",
+    "last_updated": "2026-09-09T17:12:17.761Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome leaderboard-oriented resources for AI domain",
