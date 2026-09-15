@@ -177,7 +177,7 @@
                     "open_issues": 18,
                     "owner": "jeinlee1991",
                     "repo": "chinese-llm-benchmark",
-                    "stars": 6439,
+                    "stars": 6442,
                     "topics": [
                       "agentic-ai",
                       "artificial-intelligence",
@@ -513,7 +513,7 @@
                     "open_issues": 68,
                     "owner": "THUDM",
                     "repo": "LongBench",
-                    "stars": 1235,
+                    "stars": 1236,
                     "topics": [
                       "benchmark",
                       "llm",
@@ -762,7 +762,7 @@
                     "open_issues": 24,
                     "owner": "THUDM",
                     "repo": "ReST-MCTS",
-                    "stars": 712,
+                    "stars": 713,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -994,7 +994,7 @@
                     "open_issues": 11,
                     "owner": "StonyBrookNLP",
                     "repo": "appworld",
-                    "stars": 512,
+                    "stars": 515,
                     "topics": [
                       "acl-2024",
                       "ai-agents",
@@ -1186,7 +1186,7 @@
                     "open_issues": 11,
                     "owner": "openai",
                     "repo": "mle-bench",
-                    "stars": 1744,
+                    "stars": 1746,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1320,7 +1320,7 @@
                 "open_issues": 2,
                 "owner": "tianyi-lab",
                 "repo": "HallusionBench",
-                "stars": 342,
+                "stars": 343,
                 "topics": [
                   "benchmark",
                   "benchmarks",
@@ -1384,7 +1384,7 @@
                 "open_issues": 111,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18010,
+                "stars": 18013,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -1604,7 +1604,7 @@
                     "open_issues": 3,
                     "owner": "Hritikbansal",
                     "repo": "videophy",
-                    "stars": 207,
+                    "stars": 208,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1726,7 +1726,7 @@
                     "open_issues": 16,
                     "owner": "OpenGenerativeAI",
                     "repo": "llm-colosseum",
-                    "stars": 1483,
+                    "stars": 1484,
                     "topics": [
                       "benchmark",
                       "genai",
@@ -1900,36 +1900,6 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "GovBench",
-                  "description": "GovBench is an open benchmark to measure any model's governed-refusal behaviour on an adversarial grid (6 risk categories × 8 attack styles) plus a benign over-block control, mapped to EU AI Act Art.9/15. Defensive by construction; a measurement standard, not a certification.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "🧪 Lets you measure any AI's refusal behaviour on an adversarial grid — reproducibly, for free.",
-                    "homepage": "https://csoai.org/govbench.html",
-                    "id": 1309638805,
-                    "language": "Python",
-                    "license": "Apache-2.0",
-                    "last_commit": "2026-08-05T10:03:13Z",
-                    "open_issues": 0,
-                    "owner": "CSOAI-ORG",
-                    "repo": "govbench",
-                    "stars": 0,
-                    "topics": [
-                      "ai-compliance",
-                      "ai-governance",
-                      "ai-measurement",
-                      "ed25519",
-                      "eu-ai-act",
-                      "mcp-server",
-                      "measurement",
-                      "signed-attestation"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T23:07:02.734Z"
                 }
               ],
               "description": null,
@@ -2086,7 +2056,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T18:46:21.651Z",
+    "last_updated": "2026-09-15T17:42:50.609Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome leaderboard-oriented resources for AI domain",
