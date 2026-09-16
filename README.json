@@ -173,11 +173,11 @@
                     "id": 649224670,
                     "language": null,
                     "license": null,
-                    "last_commit": "2026-09-12T01:34:07Z",
+                    "last_commit": "2026-09-16T08:14:25Z",
                     "open_issues": 18,
                     "owner": "jeinlee1991",
                     "repo": "chinese-llm-benchmark",
-                    "stars": 6442,
+                    "stars": 6441,
                     "topics": [
                       "agentic-ai",
                       "artificial-intelligence",
@@ -203,7 +203,7 @@
                     "open_issues": 3,
                     "owner": "haonan-li",
                     "repo": "CMMLU",
-                    "stars": 835,
+                    "stars": 836,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -294,7 +294,7 @@
                     "open_issues": 9,
                     "owner": "YJiangcm",
                     "repo": "FollowBench",
-                    "stars": 120,
+                    "stars": 121,
                     "topics": [
                       "benchmark",
                       "constraints",
@@ -428,7 +428,7 @@
                     "open_issues": 7,
                     "owner": "lechmazur",
                     "repo": "confabulations",
-                    "stars": 249,
+                    "stars": 250,
                     "topics": [
                       "ai-evaluation",
                       "benchmark",
@@ -994,7 +994,7 @@
                     "open_issues": 11,
                     "owner": "StonyBrookNLP",
                     "repo": "appworld",
-                    "stars": 515,
+                    "stars": 516,
                     "topics": [
                       "acl-2024",
                       "ai-agents",
@@ -1186,7 +1186,7 @@
                     "open_issues": 11,
                     "owner": "openai",
                     "repo": "mle-bench",
-                    "stars": 1746,
+                    "stars": 1747,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1384,7 +1384,7 @@
                 "open_issues": 111,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18013,
+                "stars": 18022,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -1705,7 +1705,7 @@
                     "open_issues": 4,
                     "owner": "GammaTauAI",
                     "repo": "leetcode-hard-gym",
-                    "stars": 172,
+                    "stars": 173,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1726,7 +1726,7 @@
                     "open_issues": 16,
                     "owner": "OpenGenerativeAI",
                     "repo": "llm-colosseum",
-                    "stars": 1484,
+                    "stars": 1483,
                     "topics": [
                       "benchmark",
                       "genai",
@@ -2056,7 +2056,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T17:42:50.609Z",
+    "last_updated": "2026-09-16T17:40:18.334Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome leaderboard-oriented resources for AI domain",
@@ -2064,7 +2064,7 @@
       "id": 796089121,
       "language": null,
       "license": null,
-      "last_commit": "2026-08-26T05:33:23Z",
+      "last_commit": "2026-09-16T08:30:40Z",
       "open_issues": 0,
       "owner": "SAILResearch",
       "repo": "awesome-ai-leaderboard",
@@ -2083,7 +2083,7 @@
         "ranking-system"
       ]
     },
-    "original_repository_sha": "b0b1029335f51af7af830b5d5ec89f93e263ad29",
+    "original_repository_sha": "8eb4774d45f8e6a67698e134615b968ae7491696",
     "enhanced_repository": "enhansome/enhansome-ai-leaderboard",
     "enhanced_repository_description": null,
     "title": "Awesome Challenges with stars"
