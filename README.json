@@ -173,11 +173,11 @@
                     "id": 649224670,
                     "language": null,
                     "license": null,
-                    "last_commit": "2026-09-17T02:25:03Z",
+                    "last_commit": "2026-09-22T07:40:16Z",
                     "open_issues": 19,
                     "owner": "jeinlee1991",
                     "repo": "chinese-llm-benchmark",
-                    "stars": 6451,
+                    "stars": 6450,
                     "topics": [
                       "agentic-ai",
                       "artificial-intelligence",
@@ -846,7 +846,7 @@
                     "open_issues": 8,
                     "owner": "hemingkx",
                     "repo": "Spec-Bench",
-                    "stars": 413,
+                    "stars": 414,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1186,7 +1186,7 @@
                     "open_issues": 11,
                     "owner": "openai",
                     "repo": "mle-bench",
-                    "stars": 1749,
+                    "stars": 1750,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1317,7 +1317,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2025-10-14T22:00:23Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "tianyi-lab",
                 "repo": "HallusionBench",
                 "stars": 343,
@@ -1381,10 +1381,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-09-18T03:09:18Z",
-                "open_issues": 112,
+                "open_issues": 113,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18031,
+                "stars": 18032,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -2013,7 +2013,7 @@
                 "open_issues": 12,
                 "owner": "yuh-zha",
                 "repo": "AlignScore",
-                "stars": 172,
+                "stars": 173,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:07:02.734Z"
@@ -2056,7 +2056,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T18:50:07.226Z",
+    "last_updated": "2026-09-22T17:40:42.254Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome leaderboard-oriented resources for AI domain",
