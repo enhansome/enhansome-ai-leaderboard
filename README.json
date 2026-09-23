@@ -173,7 +173,7 @@
                     "id": 649224670,
                     "language": null,
                     "license": null,
-                    "last_commit": "2026-09-22T07:40:16Z",
+                    "last_commit": "2026-09-23T13:24:28Z",
                     "open_issues": 19,
                     "owner": "jeinlee1991",
                     "repo": "chinese-llm-benchmark",
@@ -224,7 +224,7 @@
                     "open_issues": 1,
                     "owner": "cybermetric",
                     "repo": "CyberMetric",
-                    "stars": 125,
+                    "stars": 124,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -321,7 +321,7 @@
                     "open_issues": 4,
                     "owner": "FuxiaoLiu",
                     "repo": "LRV-Instruction",
-                    "stars": 296,
+                    "stars": 297,
                     "topics": [
                       "chatgpt",
                       "evaluation",
@@ -720,7 +720,7 @@
                     "open_issues": 4,
                     "owner": "GAIR-NLP",
                     "repo": "OpenResearcher",
-                    "stars": 505,
+                    "stars": 506,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -994,7 +994,7 @@
                     "open_issues": 11,
                     "owner": "StonyBrookNLP",
                     "repo": "appworld",
-                    "stars": 518,
+                    "stars": 519,
                     "topics": [
                       "acl-2024",
                       "ai-agents",
@@ -1384,7 +1384,7 @@
                 "open_issues": 113,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18032,
+                "stars": 18035,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -1705,7 +1705,7 @@
                     "open_issues": 4,
                     "owner": "GammaTauAI",
                     "repo": "leetcode-hard-gym",
-                    "stars": 173,
+                    "stars": 172,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1726,7 +1726,7 @@
                     "open_issues": 16,
                     "owner": "OpenGenerativeAI",
                     "repo": "llm-colosseum",
-                    "stars": 1483,
+                    "stars": 1482,
                     "topics": [
                       "benchmark",
                       "genai",
@@ -2056,7 +2056,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T17:40:42.254Z",
+    "last_updated": "2026-09-23T17:53:26.036Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome leaderboard-oriented resources for AI domain",
@@ -2065,7 +2065,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-09-16T08:30:40Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "SAILResearch",
       "repo": "awesome-ai-leaderboard",
       "stars": 383,
