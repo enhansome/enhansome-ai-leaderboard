@@ -93,7 +93,7 @@
                     "open_issues": 18,
                     "owner": "lmarena",
                     "repo": "arena-hard-auto",
-                    "stars": 1074,
+                    "stars": 1075,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -169,15 +169,15 @@
                   "repo_info": {
                     "archived": false,
                     "description": "非线智能 NoneLinear - ReLE评测：中文AI大模型能力评测（持续更新）：目前已囊括374个大模型，覆盖chatgpt、gpt-5.4、谷歌gemini-3.1-pro、Claude-4.6、文心ERNIE-X1.1、ERNIE-5.0、qwen3.6-max、qwen3.6-plus、百川、讯飞星火、商汤senseChat等商用模型， 以及step3.5-flash、kimi-k2.6、ernie4.5、MiniMax-M2.7、deepseek-v4、Qwen3.6、llama4、智谱GLM-5.1、MiMo-V2、LongCat、gemma4、mistral等开源大模型。不仅提供排行榜，也提供规模超200万的大模型缺陷库！方便广大社区研究分析、改进大模型。",
-                    "homepage": "https://nonelinear.com",
+                    "homepage": "https://nonelinear.com.cn",
                     "id": 649224670,
                     "language": null,
                     "license": null,
-                    "last_commit": "2026-09-24T08:55:52Z",
+                    "last_commit": "2026-09-26T03:27:11Z",
                     "open_issues": 19,
                     "owner": "jeinlee1991",
                     "repo": "chinese-llm-benchmark",
-                    "stars": 6450,
+                    "stars": 6451,
                     "topics": [
                       "agentic-ai",
                       "artificial-intelligence",
@@ -294,7 +294,7 @@
                     "open_issues": 9,
                     "owner": "YJiangcm",
                     "repo": "FollowBench",
-                    "stars": 121,
+                    "stars": 120,
                     "topics": [
                       "benchmark",
                       "constraints",
@@ -994,7 +994,7 @@
                     "open_issues": 11,
                     "owner": "StonyBrookNLP",
                     "repo": "appworld",
-                    "stars": 519,
+                    "stars": 520,
                     "topics": [
                       "acl-2024",
                       "ai-agents",
@@ -1186,7 +1186,7 @@
                     "open_issues": 13,
                     "owner": "openai",
                     "repo": "mle-bench",
-                    "stars": 1753,
+                    "stars": 1754,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1246,10 +1246,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-21T17:13:34Z",
-                    "open_issues": 21,
+                    "open_issues": 22,
                     "owner": "scicode-bench",
                     "repo": "SciCode",
-                    "stars": 231,
+                    "stars": 232,
                     "topics": [
                       "ai",
                       "ai-benchmarks",
@@ -1384,7 +1384,7 @@
                 "open_issues": 114,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18038,
+                "stars": 18040,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -1726,7 +1726,7 @@
                     "open_issues": 16,
                     "owner": "OpenGenerativeAI",
                     "repo": "llm-colosseum",
-                    "stars": 1483,
+                    "stars": 1484,
                     "topics": [
                       "benchmark",
                       "genai",
@@ -1798,7 +1798,7 @@
                     "open_issues": 56,
                     "owner": "sierra-research",
                     "repo": "tau-bench",
-                    "stars": 1447,
+                    "stars": 1446,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -2010,7 +2010,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2024-03-11T05:49:09Z",
-                "open_issues": 12,
+                "open_issues": 13,
                 "owner": "yuh-zha",
                 "repo": "AlignScore",
                 "stars": 173,
@@ -2056,7 +2056,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T18:00:30.709Z",
+    "last_updated": "2026-09-26T17:18:27.028Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome leaderboard-oriented resources for AI domain",
@@ -2064,8 +2064,8 @@
       "id": 796089121,
       "language": null,
       "license": null,
-      "last_commit": "2026-09-16T08:30:40Z",
-      "open_issues": 1,
+      "last_commit": "2026-09-26T11:46:21Z",
+      "open_issues": 0,
       "owner": "SAILResearch",
       "repo": "awesome-ai-leaderboard",
       "stars": 383,
@@ -2083,7 +2083,7 @@
         "ranking-system"
       ]
     },
-    "original_repository_sha": "8eb4774d45f8e6a67698e134615b968ae7491696",
+    "original_repository_sha": "dc439aeba63e8ceb47da08b1644c7db8cfb32bf1",
     "enhanced_repository": "enhansome/enhansome-ai-leaderboard",
     "enhanced_repository_description": null,
     "title": "Awesome Challenges with stars"
