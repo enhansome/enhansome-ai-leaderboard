@@ -93,7 +93,7 @@
                     "open_issues": 18,
                     "owner": "lmarena",
                     "repo": "arena-hard-auto",
-                    "stars": 1074,
+                    "stars": 1075,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -135,7 +135,7 @@
                     "open_issues": 106,
                     "owner": "google",
                     "repo": "BIG-bench",
-                    "stars": 3244,
+                    "stars": 3245,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -156,7 +156,7 @@
                     "open_issues": 27,
                     "owner": "FranxYao",
                     "repo": "chain-of-thought-hub",
-                    "stars": 2775,
+                    "stars": 2776,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -173,11 +173,11 @@
                     "id": 649224670,
                     "language": null,
                     "license": null,
-                    "last_commit": "2026-09-26T03:27:11Z",
+                    "last_commit": "2026-09-29T07:30:46Z",
                     "open_issues": 19,
                     "owner": "jeinlee1991",
                     "repo": "chinese-llm-benchmark",
-                    "stars": 6453,
+                    "stars": 6457,
                     "topics": [
                       "agentic-ai",
                       "artificial-intelligence",
@@ -266,7 +266,7 @@
                     "open_issues": 23,
                     "owner": "GAIR-NLP",
                     "repo": "factool",
-                    "stars": 935,
+                    "stars": 936,
                     "topics": [
                       "chatgpt",
                       "fact-checking",
@@ -428,7 +428,7 @@
                     "open_issues": 7,
                     "owner": "lechmazur",
                     "repo": "confabulations",
-                    "stars": 250,
+                    "stars": 249,
                     "topics": [
                       "ai-evaluation",
                       "benchmark",
@@ -513,7 +513,7 @@
                     "open_issues": 69,
                     "owner": "THUDM",
                     "repo": "LongBench",
-                    "stars": 1240,
+                    "stars": 1241,
                     "topics": [
                       "benchmark",
                       "llm",
@@ -631,7 +631,7 @@
                     "open_issues": 17,
                     "owner": "hendrycks",
                     "repo": "test",
-                    "stars": 1617,
+                    "stars": 1618,
                     "topics": [
                       "few-shot-learning",
                       "gpt-3",
@@ -994,7 +994,7 @@
                     "open_issues": 16,
                     "owner": "StonyBrookNLP",
                     "repo": "appworld",
-                    "stars": 521,
+                    "stars": 522,
                     "topics": [
                       "acl-2024",
                       "ai-agents",
@@ -1384,7 +1384,7 @@
                 "open_issues": 114,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18038,
+                "stars": 18040,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -1726,7 +1726,7 @@
                     "open_issues": 16,
                     "owner": "OpenGenerativeAI",
                     "repo": "llm-colosseum",
-                    "stars": 1484,
+                    "stars": 1485,
                     "topics": [
                       "benchmark",
                       "genai",
@@ -1798,7 +1798,7 @@
                     "open_issues": 55,
                     "owner": "sierra-research",
                     "repo": "tau-bench",
-                    "stars": 1447,
+                    "stars": 1452,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -2056,7 +2056,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T20:10:15.705Z",
+    "last_updated": "2026-09-29T18:45:33.986Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome leaderboard-oriented resources for AI domain",
