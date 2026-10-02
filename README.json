@@ -224,7 +224,7 @@
                     "open_issues": 1,
                     "owner": "cybermetric",
                     "repo": "CyberMetric",
-                    "stars": 125,
+                    "stars": 126,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -631,7 +631,7 @@
                     "open_issues": 17,
                     "owner": "hendrycks",
                     "repo": "test",
-                    "stars": 1618,
+                    "stars": 1619,
                     "topics": [
                       "few-shot-learning",
                       "gpt-3",
@@ -1186,7 +1186,7 @@
                     "open_issues": 13,
                     "owner": "openai",
                     "repo": "mle-bench",
-                    "stars": 1763,
+                    "stars": 1764,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1249,7 +1249,7 @@
                     "open_issues": 23,
                     "owner": "scicode-bench",
                     "repo": "SciCode",
-                    "stars": 233,
+                    "stars": 234,
                     "topics": [
                       "ai",
                       "ai-benchmarks",
@@ -1381,10 +1381,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-10-01T02:35:51Z",
-                "open_issues": 114,
+                "open_issues": 115,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18043,
+                "stars": 18042,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -1705,7 +1705,7 @@
                     "open_issues": 4,
                     "owner": "GammaTauAI",
                     "repo": "leetcode-hard-gym",
-                    "stars": 174,
+                    "stars": 175,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1798,7 +1798,7 @@
                     "open_issues": 55,
                     "owner": "sierra-research",
                     "repo": "tau-bench",
-                    "stars": 1453,
+                    "stars": 1454,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1900,6 +1900,36 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "GovBench",
+                  "description": "GovBench is an open benchmark to measure any model's governed-refusal behaviour on an adversarial grid (6 risk categories × 8 attack styles) plus a benign over-block control, mapped to EU AI Act Art.9/15. Defensive by construction; a measurement standard, not a certification.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "🧪 Lets you measure any AI's refusal behaviour on an adversarial grid — reproducibly, for free.",
+                    "homepage": "https://csoai.org/govbench.html",
+                    "id": 1309638805,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-08-05T10:03:13Z",
+                    "open_issues": 0,
+                    "owner": "CSOAI-ORG",
+                    "repo": "govbench",
+                    "stars": 0,
+                    "topics": [
+                      "ai-compliance",
+                      "ai-governance",
+                      "ai-measurement",
+                      "ed25519",
+                      "eu-ai-act",
+                      "mcp-server",
+                      "measurement",
+                      "signed-attestation"
+                    ]
+                  },
+                  "first_seen": "2026-10-02T18:34:05.507Z"
                 }
               ],
               "description": null,
@@ -2056,7 +2086,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T18:57:05.450Z",
+    "last_updated": "2026-10-02T18:34:05.507Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome leaderboard-oriented resources for AI domain",
