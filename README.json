@@ -631,7 +631,7 @@
                     "open_issues": 17,
                     "owner": "hendrycks",
                     "repo": "test",
-                    "stars": 1619,
+                    "stars": 1620,
                     "topics": [
                       "few-shot-learning",
                       "gpt-3",
@@ -1031,7 +1031,7 @@
                     "open_issues": 5,
                     "owner": "APEXLAB",
                     "repo": "CodeApex",
-                    "stars": 50,
+                    "stars": 51,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1381,7 +1381,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-10-01T02:35:51Z",
-                "open_issues": 115,
+                "open_issues": 116,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
                 "stars": 18042,
@@ -2086,7 +2086,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T18:34:05.507Z",
+    "last_updated": "2026-10-03T04:34:21.068Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome leaderboard-oriented resources for AI domain",
