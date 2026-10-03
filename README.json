@@ -843,7 +843,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2025-04-22T02:56:41Z",
-                    "open_issues": 8,
+                    "open_issues": 7,
                     "owner": "hemingkx",
                     "repo": "Spec-Bench",
                     "stars": 415,
@@ -994,7 +994,7 @@
                     "open_issues": 16,
                     "owner": "StonyBrookNLP",
                     "repo": "appworld",
-                    "stars": 525,
+                    "stars": 526,
                     "topics": [
                       "acl-2024",
                       "ai-agents",
@@ -1098,7 +1098,7 @@
                     "open_issues": 8,
                     "owner": "codefuse-ai",
                     "repo": "codefuse-devops-eval",
-                    "stars": 654,
+                    "stars": 655,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1384,7 +1384,7 @@
                 "open_issues": 116,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18042,
+                "stars": 18043,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -1798,7 +1798,7 @@
                     "open_issues": 55,
                     "owner": "sierra-research",
                     "repo": "tau-bench",
-                    "stars": 1454,
+                    "stars": 1455,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -2086,7 +2086,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:34:21.068Z",
+    "last_updated": "2026-10-03T17:28:00.247Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome leaderboard-oriented resources for AI domain",
