@@ -177,7 +177,7 @@
                     "open_issues": 19,
                     "owner": "jeinlee1991",
                     "repo": "chinese-llm-benchmark",
-                    "stars": 6459,
+                    "stars": 6460,
                     "topics": [
                       "agentic-ai",
                       "artificial-intelligence",
@@ -294,7 +294,7 @@
                     "open_issues": 9,
                     "owner": "YJiangcm",
                     "repo": "FollowBench",
-                    "stars": 120,
+                    "stars": 121,
                     "topics": [
                       "benchmark",
                       "constraints",
@@ -513,7 +513,7 @@
                     "open_issues": 69,
                     "owner": "THUDM",
                     "repo": "LongBench",
-                    "stars": 1241,
+                    "stars": 1242,
                     "topics": [
                       "benchmark",
                       "llm",
@@ -1384,7 +1384,7 @@
                 "open_issues": 116,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18043,
+                "stars": 18044,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -2086,7 +2086,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T17:28:00.247Z",
+    "last_updated": "2026-10-04T17:43:18.338Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome leaderboard-oriented resources for AI domain",
@@ -2095,7 +2095,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-09-30T02:23:36Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "SAILResearch",
       "repo": "awesome-ai-leaderboard",
       "stars": 383,
