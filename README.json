@@ -177,7 +177,7 @@
                     "open_issues": 19,
                     "owner": "jeinlee1991",
                     "repo": "chinese-llm-benchmark",
-                    "stars": 6461,
+                    "stars": 6463,
                     "topics": [
                       "agentic-ai",
                       "artificial-intelligence",
@@ -1186,7 +1186,7 @@
                     "open_issues": 13,
                     "owner": "openai",
                     "repo": "mle-bench",
-                    "stars": 1764,
+                    "stars": 1766,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1384,7 +1384,7 @@
                 "open_issues": 116,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18043,
+                "stars": 18044,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -2086,7 +2086,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T21:25:36.024Z",
+    "last_updated": "2026-10-06T10:16:22.580Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome leaderboard-oriented resources for AI domain",
