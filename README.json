@@ -135,7 +135,7 @@
                     "open_issues": 106,
                     "owner": "google",
                     "repo": "BIG-bench",
-                    "stars": 3245,
+                    "stars": 3244,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -720,7 +720,7 @@
                     "open_issues": 4,
                     "owner": "GAIR-NLP",
                     "repo": "OpenResearcher",
-                    "stars": 506,
+                    "stars": 507,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -762,7 +762,7 @@
                     "open_issues": 24,
                     "owner": "THUDM",
                     "repo": "ReST-MCTS",
-                    "stars": 713,
+                    "stars": 712,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1249,7 +1249,7 @@
                     "open_issues": 23,
                     "owner": "scicode-bench",
                     "repo": "SciCode",
-                    "stars": 234,
+                    "stars": 235,
                     "topics": [
                       "ai",
                       "ai-benchmarks",
@@ -1726,7 +1726,7 @@
                     "open_issues": 16,
                     "owner": "OpenGenerativeAI",
                     "repo": "llm-colosseum",
-                    "stars": 1484,
+                    "stars": 1483,
                     "topics": [
                       "benchmark",
                       "genai",
@@ -1798,7 +1798,7 @@
                     "open_issues": 55,
                     "owner": "sierra-research",
                     "repo": "tau-bench",
-                    "stars": 1456,
+                    "stars": 1457,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -2086,7 +2086,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:16:22.580Z",
+    "last_updated": "2026-10-06T18:57:52.785Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome leaderboard-oriented resources for AI domain",
