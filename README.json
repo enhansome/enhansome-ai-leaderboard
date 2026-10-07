@@ -631,7 +631,7 @@
                     "open_issues": 17,
                     "owner": "hendrycks",
                     "repo": "test",
-                    "stars": 1620,
+                    "stars": 1621,
                     "topics": [
                       "few-shot-learning",
                       "gpt-3",
@@ -720,7 +720,7 @@
                     "open_issues": 4,
                     "owner": "GAIR-NLP",
                     "repo": "OpenResearcher",
-                    "stars": 507,
+                    "stars": 508,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -825,7 +825,7 @@
                     "open_issues": 3,
                     "owner": "XuanwuAI",
                     "repo": "SecEval",
-                    "stars": 117,
+                    "stars": 116,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -994,7 +994,7 @@
                     "open_issues": 16,
                     "owner": "StonyBrookNLP",
                     "repo": "appworld",
-                    "stars": 526,
+                    "stars": 529,
                     "topics": [
                       "acl-2024",
                       "ai-agents",
@@ -1384,7 +1384,7 @@
                 "open_issues": 116,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18044,
+                "stars": 18046,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -1604,7 +1604,7 @@
                     "open_issues": 3,
                     "owner": "Hritikbansal",
                     "repo": "videophy",
-                    "stars": 210,
+                    "stars": 209,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -2086,7 +2086,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T18:57:52.785Z",
+    "last_updated": "2026-10-07T19:25:28.256Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome leaderboard-oriented resources for AI domain",
@@ -2094,8 +2094,8 @@
       "id": 796089121,
       "language": null,
       "license": null,
-      "last_commit": "2026-09-30T02:23:36Z",
-      "open_issues": 1,
+      "last_commit": "2026-10-07T15:41:21Z",
+      "open_issues": 0,
       "owner": "SAILResearch",
       "repo": "awesome-ai-leaderboard",
       "stars": 382,
@@ -2113,7 +2113,7 @@
         "ranking-system"
       ]
     },
-    "original_repository_sha": "6bd64465cdb015763d32d94d3ac9118b3e5f75df",
+    "original_repository_sha": "d0b4b357279ca1965b820893f68c55ff3ae71443",
     "enhanced_repository": "enhansome/enhansome-ai-leaderboard",
     "enhanced_repository_description": null,
     "title": "Awesome Challenges with stars"
