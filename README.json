@@ -156,7 +156,7 @@
                     "open_issues": 27,
                     "owner": "FranxYao",
                     "repo": "chain-of-thought-hub",
-                    "stars": 2775,
+                    "stars": 2776,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -173,7 +173,7 @@
                     "id": 649224670,
                     "language": null,
                     "license": null,
-                    "last_commit": "2026-09-30T04:32:58Z",
+                    "last_commit": "2026-10-10T09:51:00Z",
                     "open_issues": 19,
                     "owner": "jeinlee1991",
                     "repo": "chinese-llm-benchmark",
@@ -513,7 +513,7 @@
                     "open_issues": 69,
                     "owner": "THUDM",
                     "repo": "LongBench",
-                    "stars": 1244,
+                    "stars": 1245,
                     "topics": [
                       "benchmark",
                       "llm",
@@ -994,7 +994,7 @@
                     "open_issues": 16,
                     "owner": "StonyBrookNLP",
                     "repo": "appworld",
-                    "stars": 529,
+                    "stars": 530,
                     "topics": [
                       "acl-2024",
                       "ai-agents",
@@ -1249,7 +1249,7 @@
                     "open_issues": 23,
                     "owner": "scicode-bench",
                     "repo": "SciCode",
-                    "stars": 237,
+                    "stars": 239,
                     "topics": [
                       "ai",
                       "ai-benchmarks",
@@ -1384,7 +1384,7 @@
                 "open_issues": 116,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18052,
+                "stars": 18055,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -1798,7 +1798,7 @@
                     "open_issues": 55,
                     "owner": "sierra-research",
                     "repo": "tau-bench",
-                    "stars": 1457,
+                    "stars": 1459,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1847,7 +1847,7 @@
                     "open_issues": 5,
                     "owner": "SUFE-AIFLM-Lab",
                     "repo": "FinEval",
-                    "stars": 287,
+                    "stars": 288,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -2086,7 +2086,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T18:53:39.540Z",
+    "last_updated": "2026-10-10T17:55:19.815Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome leaderboard-oriented resources for AI domain",
@@ -2095,7 +2095,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-10-08T07:00:55Z",
-      "open_issues": 0,
+      "open_issues": 3,
       "owner": "SAILResearch",
       "repo": "awesome-ai-leaderboard",
       "stars": 382,
