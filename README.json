@@ -93,7 +93,7 @@
                     "open_issues": 18,
                     "owner": "lmarena",
                     "repo": "arena-hard-auto",
-                    "stars": 1078,
+                    "stars": 1080,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -177,7 +177,7 @@
                     "open_issues": 19,
                     "owner": "jeinlee1991",
                     "repo": "chinese-llm-benchmark",
-                    "stars": 6468,
+                    "stars": 6469,
                     "topics": [
                       "agentic-ai",
                       "artificial-intelligence",
@@ -361,7 +361,7 @@
                     "open_issues": 0,
                     "owner": "GPT-Fathom",
                     "repo": "GPT-Fathom",
-                    "stars": 345,
+                    "stars": 346,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -510,10 +510,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2025-01-15T02:04:04Z",
-                    "open_issues": 69,
+                    "open_issues": 70,
                     "owner": "THUDM",
                     "repo": "LongBench",
-                    "stars": 1245,
+                    "stars": 1246,
                     "topics": [
                       "benchmark",
                       "llm",
@@ -631,7 +631,7 @@
                     "open_issues": 17,
                     "owner": "hendrycks",
                     "repo": "test",
-                    "stars": 1624,
+                    "stars": 1625,
                     "topics": [
                       "few-shot-learning",
                       "gpt-3",
@@ -994,7 +994,7 @@
                     "open_issues": 16,
                     "owner": "StonyBrookNLP",
                     "repo": "appworld",
-                    "stars": 532,
+                    "stars": 534,
                     "topics": [
                       "acl-2024",
                       "ai-agents",
@@ -1098,7 +1098,7 @@
                     "open_issues": 8,
                     "owner": "codefuse-ai",
                     "repo": "codefuse-devops-eval",
-                    "stars": 655,
+                    "stars": 656,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1186,7 +1186,7 @@
                     "open_issues": 13,
                     "owner": "openai",
                     "repo": "mle-bench",
-                    "stars": 1771,
+                    "stars": 1772,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1207,7 +1207,7 @@
                     "open_issues": 4,
                     "owner": "THUDM",
                     "repo": "NaturalCodeBench",
-                    "stars": 70,
+                    "stars": 71,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1604,7 +1604,7 @@
                     "open_issues": 3,
                     "owner": "Hritikbansal",
                     "repo": "videophy",
-                    "stars": 211,
+                    "stars": 212,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -2086,7 +2086,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T21:47:35.569Z",
+    "last_updated": "2026-10-13T19:54:42.617Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome leaderboard-oriented resources for AI domain",
@@ -2098,7 +2098,7 @@
       "open_issues": 0,
       "owner": "SAILResearch",
       "repo": "awesome-ai-leaderboard",
-      "stars": 383,
+      "stars": 384,
       "topics": [
         "ai-agent",
         "artificial-intelligence",
