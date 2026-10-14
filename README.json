@@ -93,7 +93,7 @@
                     "open_issues": 18,
                     "owner": "lmarena",
                     "repo": "arena-hard-auto",
-                    "stars": 1080,
+                    "stars": 1081,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -177,7 +177,7 @@
                     "open_issues": 19,
                     "owner": "jeinlee1991",
                     "repo": "chinese-llm-benchmark",
-                    "stars": 6469,
+                    "stars": 6472,
                     "topics": [
                       "agentic-ai",
                       "artificial-intelligence",
@@ -1186,7 +1186,7 @@
                     "open_issues": 13,
                     "owner": "openai",
                     "repo": "mle-bench",
-                    "stars": 1772,
+                    "stars": 1774,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1381,10 +1381,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-10-01T02:35:51Z",
-                "open_issues": 116,
+                "open_issues": 117,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18052,
+                "stars": 18055,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -1826,7 +1826,7 @@
                     "open_issues": 2,
                     "owner": "aliyun",
                     "repo": "cflue",
-                    "stars": 93,
+                    "stars": 94,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -2086,7 +2086,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T19:54:42.617Z",
+    "last_updated": "2026-10-14T18:04:40.676Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome leaderboard-oriented resources for AI domain",
@@ -2098,7 +2098,7 @@
       "open_issues": 0,
       "owner": "SAILResearch",
       "repo": "awesome-ai-leaderboard",
-      "stars": 384,
+      "stars": 386,
       "topics": [
         "ai-agent",
         "artificial-intelligence",
