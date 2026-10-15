@@ -156,7 +156,7 @@
                     "open_issues": 27,
                     "owner": "FranxYao",
                     "repo": "chain-of-thought-hub",
-                    "stars": 2776,
+                    "stars": 2775,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -173,11 +173,11 @@
                     "id": 649224670,
                     "language": null,
                     "license": null,
-                    "last_commit": "2026-10-10T09:51:00Z",
+                    "last_commit": "2026-10-15T07:09:01Z",
                     "open_issues": 19,
                     "owner": "jeinlee1991",
                     "repo": "chinese-llm-benchmark",
-                    "stars": 6472,
+                    "stars": 6477,
                     "topics": [
                       "agentic-ai",
                       "artificial-intelligence",
@@ -266,7 +266,7 @@
                     "open_issues": 23,
                     "owner": "GAIR-NLP",
                     "repo": "factool",
-                    "stars": 936,
+                    "stars": 935,
                     "topics": [
                       "chatgpt",
                       "fact-checking",
@@ -717,7 +717,7 @@
                     "language": "HTML",
                     "license": "Apache-2.0",
                     "last_commit": "2024-10-10T02:41:12Z",
-                    "open_issues": 4,
+                    "open_issues": 5,
                     "owner": "GAIR-NLP",
                     "repo": "OpenResearcher",
                     "stars": 508,
@@ -822,7 +822,7 @@
                     "language": "Python",
                     "license": null,
                     "last_commit": "2024-04-03T01:45:21Z",
-                    "open_issues": 3,
+                    "open_issues": 2,
                     "owner": "XuanwuAI",
                     "repo": "SecEval",
                     "stars": 116,
@@ -1186,7 +1186,7 @@
                     "open_issues": 13,
                     "owner": "openai",
                     "repo": "mle-bench",
-                    "stars": 1774,
+                    "stars": 1775,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1246,10 +1246,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-12T17:23:31Z",
-                    "open_issues": 23,
+                    "open_issues": 24,
                     "owner": "scicode-bench",
                     "repo": "SciCode",
-                    "stars": 239,
+                    "stars": 240,
                     "topics": [
                       "ai",
                       "ai-benchmarks",
@@ -1317,10 +1317,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2025-10-14T22:00:23Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "tianyi-lab",
                 "repo": "HallusionBench",
-                "stars": 344,
+                "stars": 345,
                 "topics": [
                   "benchmark",
                   "benchmarks",
@@ -1381,7 +1381,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-10-01T02:35:51Z",
-                "open_issues": 117,
+                "open_issues": 118,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
                 "stars": 18055,
@@ -1604,7 +1604,7 @@
                     "open_issues": 3,
                     "owner": "Hritikbansal",
                     "repo": "videophy",
-                    "stars": 212,
+                    "stars": 213,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1660,7 +1660,7 @@
                     "open_issues": 27,
                     "owner": "morecry",
                     "repo": "CharacterEval",
-                    "stars": 306,
+                    "stars": 308,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1798,7 +1798,7 @@
                     "open_issues": 55,
                     "owner": "sierra-research",
                     "repo": "tau-bench",
-                    "stars": 1461,
+                    "stars": 1464,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -2086,7 +2086,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T18:04:40.676Z",
+    "last_updated": "2026-10-15T17:49:31.111Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome leaderboard-oriented resources for AI domain",
