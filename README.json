@@ -177,7 +177,7 @@
                     "open_issues": 19,
                     "owner": "jeinlee1991",
                     "repo": "chinese-llm-benchmark",
-                    "stars": 6477,
+                    "stars": 6481,
                     "topics": [
                       "agentic-ai",
                       "artificial-intelligence",
@@ -203,7 +203,7 @@
                     "open_issues": 3,
                     "owner": "haonan-li",
                     "repo": "CMMLU",
-                    "stars": 837,
+                    "stars": 838,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1186,7 +1186,7 @@
                     "open_issues": 13,
                     "owner": "openai",
                     "repo": "mle-bench",
-                    "stars": 1776,
+                    "stars": 1779,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1246,7 +1246,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-12T17:23:31Z",
-                    "open_issues": 24,
+                    "open_issues": 25,
                     "owner": "scicode-bench",
                     "repo": "SciCode",
                     "stars": 241,
@@ -1384,7 +1384,7 @@
                 "open_issues": 118,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18057,
+                "stars": 18055,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -1826,7 +1826,7 @@
                     "open_issues": 2,
                     "owner": "aliyun",
                     "repo": "cflue",
-                    "stars": 95,
+                    "stars": 96,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -2086,7 +2086,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T16:32:29.904Z",
+    "last_updated": "2026-10-18T16:39:04.321Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome leaderboard-oriented resources for AI domain",
