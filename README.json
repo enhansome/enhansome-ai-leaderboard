@@ -90,7 +90,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2025-06-21T04:44:12Z",
-                    "open_issues": 18,
+                    "open_issues": 19,
                     "owner": "lmarena",
                     "repo": "arena-hard-auto",
                     "stars": 1080,
@@ -135,7 +135,7 @@
                     "open_issues": 106,
                     "owner": "google",
                     "repo": "BIG-bench",
-                    "stars": 3244,
+                    "stars": 3245,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -156,7 +156,7 @@
                     "open_issues": 27,
                     "owner": "FranxYao",
                     "repo": "chain-of-thought-hub",
-                    "stars": 2775,
+                    "stars": 2774,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -173,7 +173,7 @@
                     "id": 649224670,
                     "language": null,
                     "license": null,
-                    "last_commit": "2026-10-15T07:09:01Z",
+                    "last_commit": "2026-10-19T17:50:12Z",
                     "open_issues": 19,
                     "owner": "jeinlee1991",
                     "repo": "chinese-llm-benchmark",
@@ -203,7 +203,7 @@
                     "open_issues": 3,
                     "owner": "haonan-li",
                     "repo": "CMMLU",
-                    "stars": 838,
+                    "stars": 839,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -678,7 +678,7 @@
                     "open_issues": 3,
                     "owner": "mtbench101",
                     "repo": "mt-bench-101",
-                    "stars": 153,
+                    "stars": 154,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -994,7 +994,7 @@
                     "open_issues": 16,
                     "owner": "StonyBrookNLP",
                     "repo": "appworld",
-                    "stars": 534,
+                    "stars": 535,
                     "topics": [
                       "acl-2024",
                       "ai-agents",
@@ -1098,7 +1098,7 @@
                     "open_issues": 8,
                     "owner": "codefuse-ai",
                     "repo": "codefuse-devops-eval",
-                    "stars": 656,
+                    "stars": 655,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1186,7 +1186,7 @@
                     "open_issues": 13,
                     "owner": "openai",
                     "repo": "mle-bench",
-                    "stars": 1779,
+                    "stars": 1780,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1245,7 +1245,7 @@
                     "id": 825810755,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-12T17:23:31Z",
+                    "last_commit": "2026-10-19T17:23:35Z",
                     "open_issues": 25,
                     "owner": "scicode-bench",
                     "repo": "SciCode",
@@ -1384,7 +1384,7 @@
                 "open_issues": 118,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18055,
+                "stars": 18053,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -1798,7 +1798,7 @@
                     "open_issues": 55,
                     "owner": "sierra-research",
                     "repo": "tau-bench",
-                    "stars": 1465,
+                    "stars": 1467,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1847,7 +1847,7 @@
                     "open_issues": 5,
                     "owner": "SUFE-AIFLM-Lab",
                     "repo": "FinEval",
-                    "stars": 291,
+                    "stars": 293,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -2086,7 +2086,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T16:39:04.321Z",
+    "last_updated": "2026-10-19T19:23:40.948Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome leaderboard-oriented resources for AI domain",
@@ -2098,7 +2098,7 @@
       "open_issues": 0,
       "owner": "SAILResearch",
       "repo": "awesome-ai-leaderboard",
-      "stars": 386,
+      "stars": 385,
       "topics": [
         "ai-agent",
         "artificial-intelligence",
