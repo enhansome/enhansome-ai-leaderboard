@@ -177,7 +177,7 @@
                     "open_issues": 19,
                     "owner": "jeinlee1991",
                     "repo": "chinese-llm-benchmark",
-                    "stars": 6481,
+                    "stars": 6484,
                     "topics": [
                       "agentic-ai",
                       "artificial-intelligence",
@@ -361,7 +361,7 @@
                     "open_issues": 0,
                     "owner": "GPT-Fathom",
                     "repo": "GPT-Fathom",
-                    "stars": 346,
+                    "stars": 345,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -513,7 +513,7 @@
                     "open_issues": 69,
                     "owner": "THUDM",
                     "repo": "LongBench",
-                    "stars": 1247,
+                    "stars": 1248,
                     "topics": [
                       "benchmark",
                       "llm",
@@ -994,7 +994,7 @@
                     "open_issues": 16,
                     "owner": "StonyBrookNLP",
                     "repo": "appworld",
-                    "stars": 535,
+                    "stars": 537,
                     "topics": [
                       "acl-2024",
                       "ai-agents",
@@ -1249,7 +1249,7 @@
                     "open_issues": 25,
                     "owner": "scicode-bench",
                     "repo": "SciCode",
-                    "stars": 241,
+                    "stars": 242,
                     "topics": [
                       "ai",
                       "ai-benchmarks",
@@ -1381,10 +1381,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-10-01T02:35:51Z",
-                "open_issues": 118,
+                "open_issues": 119,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18053,
+                "stars": 18054,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -1660,7 +1660,7 @@
                     "open_issues": 27,
                     "owner": "morecry",
                     "repo": "CharacterEval",
-                    "stars": 308,
+                    "stars": 309,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1798,7 +1798,7 @@
                     "open_issues": 55,
                     "owner": "sierra-research",
                     "repo": "tau-bench",
-                    "stars": 1467,
+                    "stars": 1470,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -2086,7 +2086,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T19:23:40.948Z",
+    "last_updated": "2026-10-20T18:02:57.369Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome leaderboard-oriented resources for AI domain",
