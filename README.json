@@ -93,7 +93,7 @@
                     "open_issues": 19,
                     "owner": "lmarena",
                     "repo": "arena-hard-auto",
-                    "stars": 1080,
+                    "stars": 1081,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -173,11 +173,11 @@
                     "id": 649224670,
                     "language": null,
                     "license": null,
-                    "last_commit": "2026-10-19T17:50:12Z",
+                    "last_commit": "2026-10-21T02:57:06Z",
                     "open_issues": 19,
                     "owner": "jeinlee1991",
                     "repo": "chinese-llm-benchmark",
-                    "stars": 6484,
+                    "stars": 6485,
                     "topics": [
                       "agentic-ai",
                       "artificial-intelligence",
@@ -428,7 +428,7 @@
                     "open_issues": 7,
                     "owner": "lechmazur",
                     "repo": "confabulations",
-                    "stars": 249,
+                    "stars": 250,
                     "topics": [
                       "ai-evaluation",
                       "benchmark",
@@ -513,7 +513,7 @@
                     "open_issues": 69,
                     "owner": "THUDM",
                     "repo": "LongBench",
-                    "stars": 1248,
+                    "stars": 1249,
                     "topics": [
                       "benchmark",
                       "llm",
@@ -720,7 +720,7 @@
                     "open_issues": 5,
                     "owner": "GAIR-NLP",
                     "repo": "OpenResearcher",
-                    "stars": 508,
+                    "stars": 507,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -994,7 +994,7 @@
                     "open_issues": 16,
                     "owner": "StonyBrookNLP",
                     "repo": "appworld",
-                    "stars": 537,
+                    "stars": 538,
                     "topics": [
                       "acl-2024",
                       "ai-agents",
@@ -1186,7 +1186,7 @@
                     "open_issues": 13,
                     "owner": "openai",
                     "repo": "mle-bench",
-                    "stars": 1780,
+                    "stars": 1782,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1249,7 +1249,7 @@
                     "open_issues": 25,
                     "owner": "scicode-bench",
                     "repo": "SciCode",
-                    "stars": 242,
+                    "stars": 243,
                     "topics": [
                       "ai",
                       "ai-benchmarks",
@@ -1381,10 +1381,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-10-01T02:35:51Z",
-                "open_issues": 119,
+                "open_issues": 118,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18054,
+                "stars": 18057,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -1798,7 +1798,7 @@
                     "open_issues": 55,
                     "owner": "sierra-research",
                     "repo": "tau-bench",
-                    "stars": 1470,
+                    "stars": 1472,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -2086,7 +2086,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T18:02:57.369Z",
+    "last_updated": "2026-10-21T18:08:46.734Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome leaderboard-oriented resources for AI domain",
@@ -2094,11 +2094,11 @@
       "id": 796089121,
       "language": null,
       "license": null,
-      "last_commit": "2026-10-12T14:45:18Z",
+      "last_commit": "2026-10-21T15:37:43Z",
       "open_issues": 0,
       "owner": "SAILResearch",
       "repo": "awesome-ai-leaderboard",
-      "stars": 385,
+      "stars": 384,
       "topics": [
         "ai-agent",
         "artificial-intelligence",
@@ -2113,7 +2113,7 @@
         "ranking-system"
       ]
     },
-    "original_repository_sha": "7a2856f50e10ec2ac9122a84559ffd2b841af376",
+    "original_repository_sha": "7fe4a439c15ee58efc7cf933b4e0608a0c5b466c",
     "enhanced_repository": "enhansome/enhansome-ai-leaderboard",
     "enhanced_repository_description": null,
     "title": "Awesome Challenges with stars"
