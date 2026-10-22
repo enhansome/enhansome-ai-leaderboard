@@ -93,7 +93,7 @@
                     "open_issues": 19,
                     "owner": "lmarena",
                     "repo": "arena-hard-auto",
-                    "stars": 1081,
+                    "stars": 1082,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -177,7 +177,7 @@
                     "open_issues": 19,
                     "owner": "jeinlee1991",
                     "repo": "chinese-llm-benchmark",
-                    "stars": 6485,
+                    "stars": 6488,
                     "topics": [
                       "agentic-ai",
                       "artificial-intelligence",
@@ -487,7 +487,7 @@
                     "open_issues": 9,
                     "owner": "LudwigStumpp",
                     "repo": "llm-leaderboard",
-                    "stars": 306,
+                    "stars": 307,
                     "topics": [
                       "leaderboard",
                       "llm",
@@ -513,7 +513,7 @@
                     "open_issues": 69,
                     "owner": "THUDM",
                     "repo": "LongBench",
-                    "stars": 1249,
+                    "stars": 1250,
                     "topics": [
                       "benchmark",
                       "llm",
@@ -1249,7 +1249,7 @@
                     "open_issues": 25,
                     "owner": "scicode-bench",
                     "repo": "SciCode",
-                    "stars": 243,
+                    "stars": 244,
                     "topics": [
                       "ai",
                       "ai-benchmarks",
@@ -1381,10 +1381,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-10-01T02:35:51Z",
-                "open_issues": 118,
+                "open_issues": 119,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18057,
+                "stars": 18060,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -1705,7 +1705,7 @@
                     "open_issues": 4,
                     "owner": "GammaTauAI",
                     "repo": "leetcode-hard-gym",
-                    "stars": 175,
+                    "stars": 176,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1726,7 +1726,7 @@
                     "open_issues": 16,
                     "owner": "OpenGenerativeAI",
                     "repo": "llm-colosseum",
-                    "stars": 1483,
+                    "stars": 1482,
                     "topics": [
                       "benchmark",
                       "genai",
@@ -1773,7 +1773,7 @@
                     "open_issues": 17,
                     "owner": "THUDM",
                     "repo": "VisualAgentBench",
-                    "stars": 278,
+                    "stars": 279,
                     "topics": [
                       "gpt",
                       "llm-agent",
@@ -2086,7 +2086,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T18:08:46.734Z",
+    "last_updated": "2026-10-22T18:04:58.775Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome leaderboard-oriented resources for AI domain",
@@ -2094,7 +2094,7 @@
       "id": 796089121,
       "language": null,
       "license": null,
-      "last_commit": "2026-10-21T15:37:43Z",
+      "last_commit": "2026-10-22T01:19:53Z",
       "open_issues": 0,
       "owner": "SAILResearch",
       "repo": "awesome-ai-leaderboard",
@@ -2113,7 +2113,7 @@
         "ranking-system"
       ]
     },
-    "original_repository_sha": "7fe4a439c15ee58efc7cf933b4e0608a0c5b466c",
+    "original_repository_sha": "ce544ef1c52e52f12b825a4395f330f35ba727f2",
     "enhanced_repository": "enhansome/enhansome-ai-leaderboard",
     "enhanced_repository_description": null,
     "title": "Awesome Challenges with stars"
