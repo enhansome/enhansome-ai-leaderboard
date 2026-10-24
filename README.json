@@ -177,7 +177,7 @@
                     "open_issues": 19,
                     "owner": "jeinlee1991",
                     "repo": "chinese-llm-benchmark",
-                    "stars": 6490,
+                    "stars": 6491,
                     "topics": [
                       "agentic-ai",
                       "artificial-intelligence",
@@ -1183,7 +1183,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-04-24T17:33:44Z",
-                    "open_issues": 13,
+                    "open_issues": 14,
                     "owner": "openai",
                     "repo": "mle-bench",
                     "stars": 1782,
@@ -1384,7 +1384,7 @@
                 "open_issues": 119,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18065,
+                "stars": 18066,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -1576,7 +1576,7 @@
                     "open_issues": 12,
                     "owner": "JUNJIE99",
                     "repo": "MLVU",
-                    "stars": 269,
+                    "stars": 268,
                     "topics": [
                       "benchmark",
                       "long-video-understanding",
@@ -1660,7 +1660,7 @@
                     "open_issues": 27,
                     "owner": "morecry",
                     "repo": "CharacterEval",
-                    "stars": 309,
+                    "stars": 308,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1677,8 +1677,8 @@
                     "id": 811330900,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-04-20T06:28:54Z",
-                    "open_issues": 1,
+                    "last_commit": "2026-10-24T12:24:37Z",
+                    "open_issues": 0,
                     "owner": "open-compass",
                     "repo": "GTA",
                     "stars": 153,
@@ -1798,7 +1798,7 @@
                     "open_issues": 55,
                     "owner": "sierra-research",
                     "repo": "tau-bench",
-                    "stars": 1475,
+                    "stars": 1474,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -2043,7 +2043,7 @@
                 "open_issues": 13,
                 "owner": "yuh-zha",
                 "repo": "AlignScore",
-                "stars": 176,
+                "stars": 177,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:07:02.734Z"
@@ -2086,7 +2086,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T17:54:50.964Z",
+    "last_updated": "2026-10-24T16:45:37.787Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome leaderboard-oriented resources for AI domain",
