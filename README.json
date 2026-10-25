@@ -93,7 +93,7 @@
                     "open_issues": 19,
                     "owner": "lmarena",
                     "repo": "arena-hard-auto",
-                    "stars": 1083,
+                    "stars": 1084,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -203,7 +203,7 @@
                     "open_issues": 3,
                     "owner": "haonan-li",
                     "repo": "CMMLU",
-                    "stars": 839,
+                    "stars": 840,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -382,7 +382,7 @@
                     "open_issues": 0,
                     "owner": "OpenMOSS",
                     "repo": "HalluQA",
-                    "stars": 139,
+                    "stars": 140,
                     "topics": [
                       "hallucinations",
                       "large-language-models",
@@ -1384,7 +1384,7 @@
                 "open_issues": 119,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18066,
+                "stars": 18067,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -1795,10 +1795,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-03-18T17:36:06Z",
-                    "open_issues": 55,
+                    "open_issues": 56,
                     "owner": "sierra-research",
                     "repo": "tau-bench",
-                    "stars": 1474,
+                    "stars": 1477,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -2086,7 +2086,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T16:45:37.787Z",
+    "last_updated": "2026-10-25T17:07:07.841Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome leaderboard-oriented resources for AI domain",
