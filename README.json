@@ -177,7 +177,7 @@
                     "open_issues": 19,
                     "owner": "jeinlee1991",
                     "repo": "chinese-llm-benchmark",
-                    "stars": 6491,
+                    "stars": 6492,
                     "topics": [
                       "agentic-ai",
                       "artificial-intelligence",
@@ -224,7 +224,7 @@
                     "open_issues": 1,
                     "owner": "cybermetric",
                     "repo": "CyberMetric",
-                    "stars": 126,
+                    "stars": 128,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -720,7 +720,7 @@
                     "open_issues": 5,
                     "owner": "GAIR-NLP",
                     "repo": "OpenResearcher",
-                    "stars": 507,
+                    "stars": 508,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -825,7 +825,7 @@
                     "open_issues": 2,
                     "owner": "XuanwuAI",
                     "repo": "SecEval",
-                    "stars": 116,
+                    "stars": 117,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -994,7 +994,7 @@
                     "open_issues": 16,
                     "owner": "StonyBrookNLP",
                     "repo": "appworld",
-                    "stars": 539,
+                    "stars": 540,
                     "topics": [
                       "acl-2024",
                       "ai-agents",
@@ -1098,7 +1098,7 @@
                     "open_issues": 8,
                     "owner": "codefuse-ai",
                     "repo": "codefuse-devops-eval",
-                    "stars": 655,
+                    "stars": 656,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1186,7 +1186,7 @@
                     "open_issues": 14,
                     "owner": "openai",
                     "repo": "mle-bench",
-                    "stars": 1782,
+                    "stars": 1786,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1245,8 +1245,8 @@
                     "id": 825810755,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-19T17:23:35Z",
-                    "open_issues": 25,
+                    "last_commit": "2026-10-26T17:20:28Z",
+                    "open_issues": 26,
                     "owner": "scicode-bench",
                     "repo": "SciCode",
                     "stars": 246,
@@ -1384,7 +1384,7 @@
                 "open_issues": 119,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18067,
+                "stars": 18069,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -1798,7 +1798,7 @@
                     "open_issues": 56,
                     "owner": "sierra-research",
                     "repo": "tau-bench",
-                    "stars": 1477,
+                    "stars": 1479,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -2086,7 +2086,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T17:07:07.841Z",
+    "last_updated": "2026-10-26T19:27:29.276Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome leaderboard-oriented resources for AI domain",
