@@ -177,7 +177,7 @@
                     "open_issues": 19,
                     "owner": "jeinlee1991",
                     "repo": "chinese-llm-benchmark",
-                    "stars": 6489,
+                    "stars": 6490,
                     "topics": [
                       "agentic-ai",
                       "artificial-intelligence",
@@ -994,7 +994,7 @@
                     "open_issues": 16,
                     "owner": "StonyBrookNLP",
                     "repo": "appworld",
-                    "stars": 542,
+                    "stars": 543,
                     "topics": [
                       "acl-2024",
                       "ai-agents",
@@ -1380,11 +1380,11 @@
                 "id": 642642539,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-10-27T03:23:34Z",
+                "last_commit": "2026-10-29T06:10:45Z",
                 "open_issues": 117,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18070,
+                "stars": 18069,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -1798,7 +1798,7 @@
                     "open_issues": 56,
                     "owner": "sierra-research",
                     "repo": "tau-bench",
-                    "stars": 1483,
+                    "stars": 1484,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -2086,7 +2086,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T18:57:23.895Z",
+    "last_updated": "2026-10-29T19:04:26.260Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome leaderboard-oriented resources for AI domain",
