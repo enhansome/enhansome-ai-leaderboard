@@ -90,7 +90,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2025-06-21T04:44:12Z",
-                    "open_issues": 19,
+                    "open_issues": 20,
                     "owner": "lmarena",
                     "repo": "arena-hard-auto",
                     "stars": 1084,
@@ -177,7 +177,7 @@
                     "open_issues": 19,
                     "owner": "jeinlee1991",
                     "repo": "chinese-llm-benchmark",
-                    "stars": 6490,
+                    "stars": 6492,
                     "topics": [
                       "agentic-ai",
                       "artificial-intelligence",
@@ -428,7 +428,7 @@
                     "open_issues": 7,
                     "owner": "lechmazur",
                     "repo": "confabulations",
-                    "stars": 250,
+                    "stars": 251,
                     "topics": [
                       "ai-evaluation",
                       "benchmark",
@@ -631,7 +631,7 @@
                     "open_issues": 17,
                     "owner": "hendrycks",
                     "repo": "test",
-                    "stars": 1625,
+                    "stars": 1624,
                     "topics": [
                       "few-shot-learning",
                       "gpt-3",
@@ -678,7 +678,7 @@
                     "open_issues": 3,
                     "owner": "mtbench101",
                     "repo": "mt-bench-101",
-                    "stars": 154,
+                    "stars": 155,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -720,7 +720,7 @@
                     "open_issues": 5,
                     "owner": "GAIR-NLP",
                     "repo": "OpenResearcher",
-                    "stars": 508,
+                    "stars": 510,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -822,7 +822,7 @@
                     "language": "Python",
                     "license": null,
                     "last_commit": "2024-04-03T01:45:21Z",
-                    "open_issues": 2,
+                    "open_issues": 3,
                     "owner": "XuanwuAI",
                     "repo": "SecEval",
                     "stars": 117,
@@ -1119,7 +1119,7 @@
                     "open_issues": 1,
                     "owner": "awslabs",
                     "repo": "diagnostic-robustness-text-to-sql",
-                    "stars": 34,
+                    "stars": 35,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1186,7 +1186,7 @@
                     "open_issues": 14,
                     "owner": "openai",
                     "repo": "mle-bench",
-                    "stars": 1786,
+                    "stars": 1788,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1249,7 +1249,7 @@
                     "open_issues": 26,
                     "owner": "scicode-bench",
                     "repo": "SciCode",
-                    "stars": 246,
+                    "stars": 245,
                     "topics": [
                       "ai",
                       "ai-benchmarks",
@@ -1604,7 +1604,7 @@
                     "open_issues": 3,
                     "owner": "Hritikbansal",
                     "repo": "videophy",
-                    "stars": 213,
+                    "stars": 212,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -2043,7 +2043,7 @@
                 "open_issues": 13,
                 "owner": "yuh-zha",
                 "repo": "AlignScore",
-                "stars": 177,
+                "stars": 178,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:07:02.734Z"
@@ -2086,7 +2086,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T19:04:26.260Z",
+    "last_updated": "2026-10-30T18:41:51.726Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome leaderboard-oriented resources for AI domain",
