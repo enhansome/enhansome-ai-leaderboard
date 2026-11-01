@@ -93,7 +93,7 @@
                     "open_issues": 20,
                     "owner": "lmarena",
                     "repo": "arena-hard-auto",
-                    "stars": 1085,
+                    "stars": 1086,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -177,7 +177,7 @@
                     "open_issues": 19,
                     "owner": "jeinlee1991",
                     "repo": "chinese-llm-benchmark",
-                    "stars": 6492,
+                    "stars": 6494,
                     "topics": [
                       "agentic-ai",
                       "artificial-intelligence",
@@ -1384,7 +1384,7 @@
                 "open_issues": 118,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18069,
+                "stars": 18070,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -1604,7 +1604,7 @@
                     "open_issues": 3,
                     "owner": "Hritikbansal",
                     "repo": "videophy",
-                    "stars": 212,
+                    "stars": 213,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -2086,7 +2086,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T17:50:38.944Z",
+    "last_updated": "2026-11-01T18:28:20.956Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome leaderboard-oriented resources for AI domain",
@@ -2094,7 +2094,7 @@
       "id": 796089121,
       "language": null,
       "license": null,
-      "last_commit": "2026-10-28T08:13:02Z",
+      "last_commit": "2026-11-01T04:36:37Z",
       "open_issues": 0,
       "owner": "SAILResearch",
       "repo": "awesome-ai-leaderboard",
@@ -2113,7 +2113,7 @@
         "ranking-system"
       ]
     },
-    "original_repository_sha": "f0be20925daf5da425578f5bb022e5109fd59247",
+    "original_repository_sha": "f68d513fc395a3ad168f659e1645509aecd34c27",
     "enhanced_repository": "enhansome/enhansome-ai-leaderboard",
     "enhanced_repository_description": null,
     "title": "Awesome Challenges with stars"
