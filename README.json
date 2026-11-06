@@ -156,7 +156,7 @@
                     "open_issues": 27,
                     "owner": "FranxYao",
                     "repo": "chain-of-thought-hub",
-                    "stars": 2776,
+                    "stars": 2778,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -173,11 +173,11 @@
                     "id": 649224670,
                     "language": null,
                     "license": null,
-                    "last_commit": "2026-11-05T05:51:28Z",
+                    "last_commit": "2026-11-06T12:45:36Z",
                     "open_issues": 19,
                     "owner": "jeinlee1991",
                     "repo": "chinese-llm-benchmark",
-                    "stars": 6505,
+                    "stars": 6507,
                     "topics": [
                       "agentic-ai",
                       "artificial-intelligence",
@@ -513,7 +513,7 @@
                     "open_issues": 69,
                     "owner": "THUDM",
                     "repo": "LongBench",
-                    "stars": 1254,
+                    "stars": 1255,
                     "topics": [
                       "benchmark",
                       "llm",
@@ -804,7 +804,7 @@
                     "open_issues": 3,
                     "owner": "THUDM",
                     "repo": "SciGLM",
-                    "stars": 89,
+                    "stars": 88,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -822,7 +822,7 @@
                     "language": "Python",
                     "license": null,
                     "last_commit": "2024-04-03T01:45:21Z",
-                    "open_issues": 2,
+                    "open_issues": 3,
                     "owner": "XuanwuAI",
                     "repo": "SecEval",
                     "stars": 117,
@@ -1183,10 +1183,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-04-24T17:33:44Z",
-                    "open_issues": 16,
+                    "open_issues": 18,
                     "owner": "openai",
                     "repo": "mle-bench",
-                    "stars": 1789,
+                    "stars": 1792,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1381,10 +1381,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-10-29T06:10:45Z",
-                "open_issues": 117,
+                "open_issues": 118,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18078,
+                "stars": 18079,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -1604,7 +1604,7 @@
                     "open_issues": 3,
                     "owner": "Hritikbansal",
                     "repo": "videophy",
-                    "stars": 213,
+                    "stars": 214,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1784,6 +1784,48 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "WebsiteBench",
+                  "description": "Leaderboard for agents reconstructing full-stack websites through browser exploration; read the historical cohort and protocol with each result. Code.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Can AI agents rebuild websites through browser exploration?",
+                    "homepage": "https://website-bench.com/",
+                    "id": 1445663842,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-11-06T15:55:12Z",
+                    "open_issues": 1,
+                    "owner": "TIGER-AI-Lab",
+                    "repo": "WebsiteBench",
+                    "stars": 84,
+                    "topics": [
+                      "agent-evaluation",
+                      "ai",
+                      "ai-agents",
+                      "benchmark",
+                      "benchmarking",
+                      "browser-automation",
+                      "browser-use",
+                      "full-stack",
+                      "harbor",
+                      "harbor-framework",
+                      "llm",
+                      "llm-benchmark",
+                      "llm-benchmarking",
+                      "llm-benchmarks",
+                      "reverse-engineering",
+                      "swe-bench",
+                      "visual-evaluation",
+                      "web-agents",
+                      "web-development",
+                      "website-reconstruction"
+                    ]
+                  },
+                  "first_seen": "2026-11-06T20:00:06.823Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "τ-Bench",
                   "description": "τ-bench is a benchmark that emulates dynamic conversations between a language model-simulated user and a language agent equipped with domain-specific API tools and policy guidelines.",
                   "children": [],
@@ -1798,7 +1840,7 @@
                     "open_issues": 57,
                     "owner": "sierra-research",
                     "repo": "tau-bench",
-                    "stars": 1491,
+                    "stars": 1493,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -2086,7 +2128,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T20:45:17.802Z",
+    "last_updated": "2026-11-06T20:00:06.823Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome leaderboard-oriented resources for AI domain",
@@ -2094,8 +2136,8 @@
       "id": 796089121,
       "language": null,
       "license": null,
-      "last_commit": "2026-11-01T04:36:37Z",
-      "open_issues": 2,
+      "last_commit": "2026-11-06T16:48:29Z",
+      "open_issues": 0,
       "owner": "SAILResearch",
       "repo": "awesome-ai-leaderboard",
       "stars": 384,
@@ -2113,7 +2155,7 @@
         "ranking-system"
       ]
     },
-    "original_repository_sha": "f68d513fc395a3ad168f659e1645509aecd34c27",
+    "original_repository_sha": "49d3eb94470455e69edbbd2a31044b6ab10a8fe4",
     "enhanced_repository": "enhansome/enhansome-ai-leaderboard",
     "enhanced_repository_description": null,
     "title": "Awesome Challenges with stars"
