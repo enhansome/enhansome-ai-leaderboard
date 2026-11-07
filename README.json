@@ -91,7 +91,7 @@
                     "license": "Apache-2.0",
                     "last_commit": "2025-06-21T04:44:12Z",
                     "open_issues": 21,
-                    "owner": "lmarena",
+                    "owner": "Arena-OSS",
                     "repo": "arena-hard-auto",
                     "stars": 1087,
                     "topics": []
@@ -266,7 +266,7 @@
                     "open_issues": 23,
                     "owner": "GAIR-NLP",
                     "repo": "factool",
-                    "stars": 935,
+                    "stars": 936,
                     "topics": [
                       "chatgpt",
                       "fact-checking",
@@ -513,7 +513,7 @@
                     "open_issues": 69,
                     "owner": "THUDM",
                     "repo": "LongBench",
-                    "stars": 1255,
+                    "stars": 1254,
                     "topics": [
                       "benchmark",
                       "llm",
@@ -994,7 +994,7 @@
                     "open_issues": 16,
                     "owner": "StonyBrookNLP",
                     "repo": "appworld",
-                    "stars": 548,
+                    "stars": 549,
                     "topics": [
                       "acl-2024",
                       "ai-agents",
@@ -1320,7 +1320,7 @@
                 "open_issues": 4,
                 "owner": "tianyi-lab",
                 "repo": "HallusionBench",
-                "stars": 345,
+                "stars": 346,
                 "topics": [
                   "benchmark",
                   "benchmarks",
@@ -1794,11 +1794,11 @@
                     "id": 1445663842,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-06T15:55:12Z",
+                    "last_commit": "2026-11-07T17:29:06Z",
                     "open_issues": 1,
                     "owner": "TIGER-AI-Lab",
                     "repo": "WebsiteBench",
-                    "stars": 84,
+                    "stars": 94,
                     "topics": [
                       "agent-evaluation",
                       "ai",
@@ -1840,7 +1840,7 @@
                     "open_issues": 57,
                     "owner": "sierra-research",
                     "repo": "tau-bench",
-                    "stars": 1493,
+                    "stars": 1495,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1950,7 +1950,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "🧪 Lets you measure any AI's refusal behaviour on an adversarial grid — reproducibly, for free.",
+                    "description": "🔌 Lets you measure any AI's refusal behaviour on an adversarial grid — reproducibly, for free.",
                     "homepage": "https://csoai.org/govbench.html",
                     "id": 1309638805,
                     "language": "Python",
@@ -1963,11 +1963,8 @@
                     "topics": [
                       "ai-compliance",
                       "ai-governance",
-                      "ai-measurement",
-                      "ed25519",
                       "eu-ai-act",
                       "mcp-server",
-                      "measurement",
                       "signed-attestation"
                     ]
                   },
@@ -2128,7 +2125,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T20:00:06.823Z",
+    "last_updated": "2026-11-07T18:07:42.281Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome leaderboard-oriented resources for AI domain",
