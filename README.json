@@ -173,7 +173,7 @@
                     "id": 649224670,
                     "language": null,
                     "license": null,
-                    "last_commit": "2026-11-06T12:45:36Z",
+                    "last_commit": "2026-11-08T04:10:14Z",
                     "open_issues": 19,
                     "owner": "jeinlee1991",
                     "repo": "chinese-llm-benchmark",
@@ -263,7 +263,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2024-08-19T20:27:12Z",
-                    "open_issues": 23,
+                    "open_issues": 24,
                     "owner": "GAIR-NLP",
                     "repo": "factool",
                     "stars": 936,
@@ -1186,7 +1186,7 @@
                     "open_issues": 18,
                     "owner": "openai",
                     "repo": "mle-bench",
-                    "stars": 1792,
+                    "stars": 1793,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1726,7 +1726,7 @@
                     "open_issues": 16,
                     "owner": "OpenGenerativeAI",
                     "repo": "llm-colosseum",
-                    "stars": 1485,
+                    "stars": 1486,
                     "topics": [
                       "benchmark",
                       "genai",
@@ -1773,7 +1773,7 @@
                     "open_issues": 17,
                     "owner": "THUDM",
                     "repo": "VisualAgentBench",
-                    "stars": 278,
+                    "stars": 279,
                     "topics": [
                       "gpt",
                       "llm-agent",
@@ -1798,7 +1798,7 @@
                     "open_issues": 1,
                     "owner": "TIGER-AI-Lab",
                     "repo": "WebsiteBench",
-                    "stars": 94,
+                    "stars": 121,
                     "topics": [
                       "agent-evaluation",
                       "ai",
@@ -1963,6 +1963,8 @@
                     "topics": [
                       "ai-compliance",
                       "ai-governance",
+                      "council-of-ai",
+                      "csoai",
                       "eu-ai-act",
                       "mcp-server",
                       "signed-attestation"
@@ -2125,7 +2127,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T18:07:42.281Z",
+    "last_updated": "2026-11-08T18:24:55.103Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome leaderboard-oriented resources for AI domain",
@@ -2133,7 +2135,7 @@
       "id": 796089121,
       "language": null,
       "license": null,
-      "last_commit": "2026-11-06T16:48:29Z",
+      "last_commit": "2026-11-08T10:40:50Z",
       "open_issues": 0,
       "owner": "SAILResearch",
       "repo": "awesome-ai-leaderboard",
@@ -2152,7 +2154,7 @@
         "ranking-system"
       ]
     },
-    "original_repository_sha": "49d3eb94470455e69edbbd2a31044b6ab10a8fe4",
+    "original_repository_sha": "ca6f57e4b12456983814b66123762fa83ecb2c1e",
     "enhanced_repository": "enhansome/enhansome-ai-leaderboard",
     "enhanced_repository_description": null,
     "title": "Awesome Challenges with stars"
