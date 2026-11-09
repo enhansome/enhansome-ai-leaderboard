@@ -135,7 +135,7 @@
                     "open_issues": 106,
                     "owner": "google",
                     "repo": "BIG-bench",
-                    "stars": 3245,
+                    "stars": 3244,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -513,7 +513,7 @@
                     "open_issues": 69,
                     "owner": "THUDM",
                     "repo": "LongBench",
-                    "stars": 1254,
+                    "stars": 1255,
                     "topics": [
                       "benchmark",
                       "llm",
@@ -1245,7 +1245,7 @@
                     "id": 825810755,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-02T17:30:18Z",
+                    "last_commit": "2026-11-09T17:18:19Z",
                     "open_issues": 26,
                     "owner": "scicode-bench",
                     "repo": "SciCode",
@@ -1381,10 +1381,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-10-29T06:10:45Z",
-                "open_issues": 118,
+                "open_issues": 119,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18079,
+                "stars": 18080,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -1660,7 +1660,7 @@
                     "open_issues": 27,
                     "owner": "morecry",
                     "repo": "CharacterEval",
-                    "stars": 310,
+                    "stars": 311,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1726,7 +1726,7 @@
                     "open_issues": 16,
                     "owner": "OpenGenerativeAI",
                     "repo": "llm-colosseum",
-                    "stars": 1486,
+                    "stars": 1487,
                     "topics": [
                       "benchmark",
                       "genai",
@@ -1798,7 +1798,7 @@
                     "open_issues": 1,
                     "owner": "TIGER-AI-Lab",
                     "repo": "WebsiteBench",
-                    "stars": 121,
+                    "stars": 163,
                     "topics": [
                       "agent-evaluation",
                       "ai",
@@ -1840,7 +1840,7 @@
                     "open_issues": 57,
                     "owner": "sierra-research",
                     "repo": "tau-bench",
-                    "stars": 1495,
+                    "stars": 1496,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -2127,7 +2127,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T18:24:55.103Z",
+    "last_updated": "2026-11-09T23:03:33.556Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome leaderboard-oriented resources for AI domain",
@@ -2136,7 +2136,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-11-08T10:40:50Z",
-      "open_issues": 0,
+      "open_issues": 3,
       "owner": "SAILResearch",
       "repo": "awesome-ai-leaderboard",
       "stars": 384,
