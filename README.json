@@ -177,7 +177,7 @@
                     "open_issues": 19,
                     "owner": "jeinlee1991",
                     "repo": "chinese-llm-benchmark",
-                    "stars": 6507,
+                    "stars": 6510,
                     "topics": [
                       "agentic-ai",
                       "artificial-intelligence",
@@ -266,7 +266,7 @@
                     "open_issues": 24,
                     "owner": "GAIR-NLP",
                     "repo": "factool",
-                    "stars": 936,
+                    "stars": 937,
                     "topics": [
                       "chatgpt",
                       "fact-checking",
@@ -678,7 +678,7 @@
                     "open_issues": 3,
                     "owner": "mtbench101",
                     "repo": "mt-bench-101",
-                    "stars": 155,
+                    "stars": 156,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -846,7 +846,7 @@
                     "open_issues": 6,
                     "owner": "hemingkx",
                     "repo": "Spec-Bench",
-                    "stars": 414,
+                    "stars": 415,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -994,7 +994,7 @@
                     "open_issues": 16,
                     "owner": "StonyBrookNLP",
                     "repo": "appworld",
-                    "stars": 549,
+                    "stars": 552,
                     "topics": [
                       "acl-2024",
                       "ai-agents",
@@ -1186,7 +1186,7 @@
                     "open_issues": 18,
                     "owner": "openai",
                     "repo": "mle-bench",
-                    "stars": 1793,
+                    "stars": 1795,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1384,7 +1384,7 @@
                 "open_issues": 119,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18080,
+                "stars": 18082,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -1677,7 +1677,7 @@
                     "id": 811330900,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-24T12:24:37Z",
+                    "last_commit": "2026-11-10T06:53:06Z",
                     "open_issues": 0,
                     "owner": "open-compass",
                     "repo": "GTA",
@@ -1794,11 +1794,11 @@
                     "id": 1445663842,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-07T17:29:06Z",
-                    "open_issues": 1,
+                    "last_commit": "2026-11-10T09:24:11Z",
+                    "open_issues": 0,
                     "owner": "TIGER-AI-Lab",
                     "repo": "WebsiteBench",
-                    "stars": 163,
+                    "stars": 194,
                     "topics": [
                       "agent-evaluation",
                       "ai",
@@ -1840,7 +1840,7 @@
                     "open_issues": 57,
                     "owner": "sierra-research",
                     "repo": "tau-bench",
-                    "stars": 1496,
+                    "stars": 1497,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -2127,7 +2127,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T23:03:33.556Z",
+    "last_updated": "2026-11-10T20:30:51.443Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome leaderboard-oriented resources for AI domain",
@@ -2136,7 +2136,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-11-08T10:40:50Z",
-      "open_issues": 3,
+      "open_issues": 5,
       "owner": "SAILResearch",
       "repo": "awesome-ai-leaderboard",
       "stars": 384,
