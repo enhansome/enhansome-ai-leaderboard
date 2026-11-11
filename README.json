@@ -90,7 +90,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2025-06-21T04:44:12Z",
-                    "open_issues": 21,
+                    "open_issues": 22,
                     "owner": "Arena-OSS",
                     "repo": "arena-hard-auto",
                     "stars": 1087,
@@ -177,7 +177,7 @@
                     "open_issues": 19,
                     "owner": "jeinlee1991",
                     "repo": "chinese-llm-benchmark",
-                    "stars": 6510,
+                    "stars": 6511,
                     "topics": [
                       "agentic-ai",
                       "artificial-intelligence",
@@ -994,7 +994,7 @@
                     "open_issues": 16,
                     "owner": "StonyBrookNLP",
                     "repo": "appworld",
-                    "stars": 552,
+                    "stars": 553,
                     "topics": [
                       "acl-2024",
                       "ai-agents",
@@ -1186,7 +1186,7 @@
                     "open_issues": 18,
                     "owner": "openai",
                     "repo": "mle-bench",
-                    "stars": 1795,
+                    "stars": 1794,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1246,7 +1246,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-09T17:18:19Z",
-                    "open_issues": 26,
+                    "open_issues": 25,
                     "owner": "scicode-bench",
                     "repo": "SciCode",
                     "stars": 246,
@@ -1726,7 +1726,7 @@
                     "open_issues": 16,
                     "owner": "OpenGenerativeAI",
                     "repo": "llm-colosseum",
-                    "stars": 1487,
+                    "stars": 1488,
                     "topics": [
                       "benchmark",
                       "genai",
@@ -1798,7 +1798,7 @@
                     "open_issues": 0,
                     "owner": "TIGER-AI-Lab",
                     "repo": "WebsiteBench",
-                    "stars": 194,
+                    "stars": 235,
                     "topics": [
                       "agent-evaluation",
                       "ai",
@@ -1840,7 +1840,7 @@
                     "open_issues": 57,
                     "owner": "sierra-research",
                     "repo": "tau-bench",
-                    "stars": 1497,
+                    "stars": 1498,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -2127,7 +2127,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T20:30:51.443Z",
+    "last_updated": "2026-11-11T20:15:44.863Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome leaderboard-oriented resources for AI domain",
