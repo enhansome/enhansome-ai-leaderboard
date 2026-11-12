@@ -4,6 +4,83 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "agentstats",
+          "description": "agentstats analyzes repeated AI-agent benchmark runs with significance tests, run-count planning and leaderboard uncertainty audits; it does not execute agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Statistical tests, run-count planning and leaderboard audits for AI agent benchmarks (SWE-bench, WebArena, OSWorld).",
+            "homepage": null,
+            "id": 1426158814,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-11-12T18:56:43Z",
+            "open_issues": 0,
+            "owner": "RishabhPande",
+            "repo": "agentstats",
+            "stars": 0,
+            "topics": [
+              "ai-agents",
+              "benchmarking",
+              "hypothesis-testing",
+              "llm-evaluation",
+              "python",
+              "reproducibility",
+              "statistics"
+            ]
+          },
+          "first_seen": "2026-11-12T20:59:02.290Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Benchmark Radar",
+          "description": "A living database and search engine for AI benchmarks and evaluation, tracking 42,331+ records from 40 public sources with linked evidence and daily updates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Track 42,331+ AI benchmark, eval, dataset, and data-quality records from 40 public sources, with linked evidence and daily updates.",
+            "homepage": "https://benchmark-radar.org/",
+            "id": 1313463885,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-11-12T20:46:17Z",
+            "open_issues": 154,
+            "owner": "ktwu01",
+            "repo": "benchmark-radar",
+            "stars": 394,
+            "topics": [
+              "agent-bench",
+              "agent-benchmark",
+              "agent-benchmarking",
+              "agent-benchmarks",
+              "agentic-benchmark",
+              "agentic-benchmarking",
+              "ai-benchmark",
+              "benchmark",
+              "benchmark-datasets",
+              "benchmark-framework",
+              "benchmark-suite",
+              "benchmarking",
+              "benchmarks",
+              "datasets",
+              "eval",
+              "evaluation",
+              "evaluation-framework",
+              "evaluations",
+              "llm-evaluation",
+              "model-cards"
+            ]
+          },
+          "first_seen": "2026-11-12T20:59:02.290Z"
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "children": [
             {
               "children": [
@@ -23,7 +100,7 @@
                     "open_issues": 7,
                     "owner": "ray-project",
                     "repo": "llmperf-leaderboard",
-                    "stars": 473,
+                    "stars": 472,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -173,11 +250,11 @@
                     "id": 649224670,
                     "language": null,
                     "license": null,
-                    "last_commit": "2026-11-08T04:10:14Z",
+                    "last_commit": "2026-11-12T07:51:01Z",
                     "open_issues": 19,
                     "owner": "jeinlee1991",
                     "repo": "chinese-llm-benchmark",
-                    "stars": 6511,
+                    "stars": 6514,
                     "topics": [
                       "agentic-ai",
                       "artificial-intelligence",
@@ -741,7 +818,7 @@
                     "open_issues": 2,
                     "owner": "salesforce",
                     "repo": "QAConv",
-                    "stars": 84,
+                    "stars": 85,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -994,7 +1071,7 @@
                     "open_issues": 16,
                     "owner": "StonyBrookNLP",
                     "repo": "appworld",
-                    "stars": 553,
+                    "stars": 554,
                     "topics": [
                       "acl-2024",
                       "ai-agents",
@@ -1048,7 +1125,7 @@
                     "id": 808025729,
                     "language": "Python",
                     "license": null,
-                    "last_commit": "2024-09-04T13:05:50Z",
+                    "last_commit": "2026-11-12T09:18:45Z",
                     "open_issues": 2,
                     "owner": "seketeam",
                     "repo": "DevEval",
@@ -1136,7 +1213,7 @@
                     "id": 777207957,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2024-08-15T02:47:59Z",
+                    "last_commit": "2026-11-12T09:19:35Z",
                     "open_issues": 10,
                     "owner": "seketeam",
                     "repo": "EvoCodeBench",
@@ -1186,7 +1263,7 @@
                     "open_issues": 18,
                     "owner": "openai",
                     "repo": "mle-bench",
-                    "stars": 1794,
+                    "stars": 1798,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1726,7 +1803,7 @@
                     "open_issues": 16,
                     "owner": "OpenGenerativeAI",
                     "repo": "llm-colosseum",
-                    "stars": 1488,
+                    "stars": 1489,
                     "topics": [
                       "benchmark",
                       "genai",
@@ -1798,7 +1875,7 @@
                     "open_issues": 0,
                     "owner": "TIGER-AI-Lab",
                     "repo": "WebsiteBench",
-                    "stars": 235,
+                    "stars": 278,
                     "topics": [
                       "agent-evaluation",
                       "ai",
@@ -1840,7 +1917,7 @@
                     "open_issues": 57,
                     "owner": "sierra-research",
                     "repo": "tau-bench",
-                    "stars": 1498,
+                    "stars": 1503,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1889,7 +1966,7 @@
                     "open_issues": 5,
                     "owner": "SUFE-AIFLM-Lab",
                     "repo": "FinEval",
-                    "stars": 294,
+                    "stars": 293,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -2127,7 +2204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T20:15:44.863Z",
+    "last_updated": "2026-11-12T20:59:02.290Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome leaderboard-oriented resources for AI domain",
@@ -2135,8 +2212,8 @@
       "id": 796089121,
       "language": null,
       "license": null,
-      "last_commit": "2026-11-08T10:40:50Z",
-      "open_issues": 5,
+      "last_commit": "2026-11-12T09:25:30Z",
+      "open_issues": 0,
       "owner": "SAILResearch",
       "repo": "awesome-ai-leaderboard",
       "stars": 384,
@@ -2154,7 +2231,7 @@
         "ranking-system"
       ]
     },
-    "original_repository_sha": "ca6f57e4b12456983814b66123762fa83ecb2c1e",
+    "original_repository_sha": "b94b7f069130007d0f31af9edec25c9bd7615cc6",
     "enhanced_repository": "enhansome/enhansome-ai-leaderboard",
     "enhanced_repository_description": null,
     "title": "Awesome Challenges with stars"
