@@ -15,7 +15,7 @@
             "id": 1426158814,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-12T18:56:43Z",
+            "last_commit": "2026-11-13T20:04:29Z",
             "open_issues": 0,
             "owner": "RishabhPande",
             "repo": "agentstats",
@@ -44,11 +44,11 @@
             "id": 1313463885,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-12T20:46:17Z",
+            "last_commit": "2026-11-13T16:28:09Z",
             "open_issues": 154,
             "owner": "ktwu01",
             "repo": "benchmark-radar",
-            "stars": 394,
+            "stars": 396,
             "topics": [
               "agent-bench",
               "agent-benchmark",
@@ -170,7 +170,7 @@
                     "open_issues": 22,
                     "owner": "Arena-OSS",
                     "repo": "arena-hard-auto",
-                    "stars": 1087,
+                    "stars": 1088,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -233,7 +233,7 @@
                     "open_issues": 27,
                     "owner": "FranxYao",
                     "repo": "chain-of-thought-hub",
-                    "stars": 2778,
+                    "stars": 2777,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1461,7 +1461,7 @@
                 "open_issues": 119,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18082,
+                "stars": 18083,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -1737,7 +1737,7 @@
                     "open_issues": 27,
                     "owner": "morecry",
                     "repo": "CharacterEval",
-                    "stars": 311,
+                    "stars": 310,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1782,7 +1782,7 @@
                     "open_issues": 4,
                     "owner": "GammaTauAI",
                     "repo": "leetcode-hard-gym",
-                    "stars": 176,
+                    "stars": 177,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1875,7 +1875,7 @@
                     "open_issues": 0,
                     "owner": "TIGER-AI-Lab",
                     "repo": "WebsiteBench",
-                    "stars": 278,
+                    "stars": 336,
                     "topics": [
                       "agent-evaluation",
                       "ai",
@@ -1917,7 +1917,7 @@
                     "open_issues": 57,
                     "owner": "sierra-research",
                     "repo": "tau-bench",
-                    "stars": 1503,
+                    "stars": 1507,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -2204,7 +2204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T20:59:02.290Z",
+    "last_updated": "2026-11-13T20:33:49.051Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome leaderboard-oriented resources for AI domain",
@@ -2212,7 +2212,7 @@
       "id": 796089121,
       "language": null,
       "license": null,
-      "last_commit": "2026-11-12T09:25:30Z",
+      "last_commit": "2026-11-13T06:30:05Z",
       "open_issues": 0,
       "owner": "SAILResearch",
       "repo": "awesome-ai-leaderboard",
@@ -2231,7 +2231,7 @@
         "ranking-system"
       ]
     },
-    "original_repository_sha": "b94b7f069130007d0f31af9edec25c9bd7615cc6",
+    "original_repository_sha": "9afe000493df3324db752078d4dfd6f206f97c26",
     "enhanced_repository": "enhansome/enhansome-ai-leaderboard",
     "enhanced_repository_description": null,
     "title": "Awesome Challenges with stars"
