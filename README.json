@@ -15,7 +15,7 @@
             "id": 1426158814,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-13T20:04:29Z",
+            "last_commit": "2026-11-14T14:38:01Z",
             "open_issues": 0,
             "owner": "RishabhPande",
             "repo": "agentstats",
@@ -44,8 +44,8 @@
             "id": 1313463885,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-13T16:28:09Z",
-            "open_issues": 154,
+            "last_commit": "2026-11-14T18:15:26Z",
+            "open_issues": 157,
             "owner": "ktwu01",
             "repo": "benchmark-radar",
             "stars": 396,
@@ -170,7 +170,7 @@
                     "open_issues": 22,
                     "owner": "Arena-OSS",
                     "repo": "arena-hard-auto",
-                    "stars": 1088,
+                    "stars": 1087,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -505,7 +505,7 @@
                     "open_issues": 7,
                     "owner": "lechmazur",
                     "repo": "confabulations",
-                    "stars": 251,
+                    "stars": 250,
                     "topics": [
                       "ai-evaluation",
                       "benchmark",
@@ -1071,7 +1071,7 @@
                     "open_issues": 16,
                     "owner": "StonyBrookNLP",
                     "repo": "appworld",
-                    "stars": 554,
+                    "stars": 553,
                     "topics": [
                       "acl-2024",
                       "ai-agents",
@@ -1263,7 +1263,7 @@
                     "open_issues": 18,
                     "owner": "openai",
                     "repo": "mle-bench",
-                    "stars": 1798,
+                    "stars": 1797,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1323,7 +1323,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-09T17:18:19Z",
-                    "open_issues": 25,
+                    "open_issues": 26,
                     "owner": "scicode-bench",
                     "repo": "SciCode",
                     "stars": 246,
@@ -1461,7 +1461,7 @@
                 "open_issues": 119,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18083,
+                "stars": 18087,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -1681,7 +1681,7 @@
                     "open_issues": 3,
                     "owner": "Hritikbansal",
                     "repo": "videophy",
-                    "stars": 214,
+                    "stars": 215,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1803,7 +1803,7 @@
                     "open_issues": 16,
                     "owner": "OpenGenerativeAI",
                     "repo": "llm-colosseum",
-                    "stars": 1489,
+                    "stars": 1490,
                     "topics": [
                       "benchmark",
                       "genai",
@@ -1875,7 +1875,7 @@
                     "open_issues": 0,
                     "owner": "TIGER-AI-Lab",
                     "repo": "WebsiteBench",
-                    "stars": 336,
+                    "stars": 371,
                     "topics": [
                       "agent-evaluation",
                       "ai",
@@ -2204,7 +2204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T20:33:49.051Z",
+    "last_updated": "2026-11-14T18:47:03.572Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome leaderboard-oriented resources for AI domain",
@@ -2213,7 +2213,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-11-13T06:30:05Z",
-      "open_issues": 0,
+      "open_issues": 2,
       "owner": "SAILResearch",
       "repo": "awesome-ai-leaderboard",
       "stars": 384,
