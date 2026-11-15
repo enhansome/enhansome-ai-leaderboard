@@ -39,16 +39,16 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Track 42,331+ AI benchmark, eval, dataset, and data-quality records from 40 public sources, with linked evidence and daily updates.",
+            "description": "Track 50,331+ AI benchmark, eval, dataset, and data-quality records from 41 public sources, with linked evidence and daily updates.",
             "homepage": "https://benchmark-radar.org/",
             "id": 1313463885,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-14T18:15:26Z",
-            "open_issues": 157,
+            "last_commit": "2026-11-15T18:24:13Z",
+            "open_issues": 156,
             "owner": "ktwu01",
             "repo": "benchmark-radar",
-            "stars": 396,
+            "stars": 402,
             "topics": [
               "agent-bench",
               "agent-benchmark",
@@ -250,11 +250,11 @@
                     "id": 649224670,
                     "language": null,
                     "license": null,
-                    "last_commit": "2026-11-12T07:51:01Z",
+                    "last_commit": "2026-11-15T03:46:12Z",
                     "open_issues": 19,
                     "owner": "jeinlee1991",
                     "repo": "chinese-llm-benchmark",
-                    "stars": 6514,
+                    "stars": 6517,
                     "topics": [
                       "agentic-ai",
                       "artificial-intelligence",
@@ -438,7 +438,7 @@
                     "open_issues": 0,
                     "owner": "GPT-Fathom",
                     "repo": "GPT-Fathom",
-                    "stars": 345,
+                    "stars": 346,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -590,7 +590,7 @@
                     "open_issues": 69,
                     "owner": "THUDM",
                     "repo": "LongBench",
-                    "stars": 1255,
+                    "stars": 1256,
                     "topics": [
                       "benchmark",
                       "llm",
@@ -1067,11 +1067,11 @@
                     "id": 819144961,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-04T05:47:04Z",
-                    "open_issues": 16,
+                    "last_commit": "2026-11-15T19:05:43Z",
+                    "open_issues": 17,
                     "owner": "StonyBrookNLP",
                     "repo": "appworld",
-                    "stars": 553,
+                    "stars": 554,
                     "topics": [
                       "acl-2024",
                       "ai-agents",
@@ -1263,7 +1263,7 @@
                     "open_issues": 18,
                     "owner": "openai",
                     "repo": "mle-bench",
-                    "stars": 1797,
+                    "stars": 1798,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1430,7 +1430,7 @@
                 "open_issues": 24,
                 "owner": "OpenGVLab",
                 "repo": "Multi-Modality-Arena",
-                "stars": 566,
+                "stars": 567,
                 "topics": [
                   "chat",
                   "chatbot",
@@ -1461,7 +1461,7 @@
                 "open_issues": 119,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18087,
+                "stars": 18088,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -1875,7 +1875,7 @@
                     "open_issues": 0,
                     "owner": "TIGER-AI-Lab",
                     "repo": "WebsiteBench",
-                    "stars": 371,
+                    "stars": 416,
                     "topics": [
                       "agent-evaluation",
                       "ai",
@@ -1917,7 +1917,7 @@
                     "open_issues": 57,
                     "owner": "sierra-research",
                     "repo": "tau-bench",
-                    "stars": 1507,
+                    "stars": 1508,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -2204,7 +2204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T18:47:03.572Z",
+    "last_updated": "2026-11-15T19:25:22.251Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome leaderboard-oriented resources for AI domain",
