@@ -44,11 +44,11 @@
             "id": 1313463885,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-15T18:24:13Z",
-            "open_issues": 156,
+            "last_commit": "2026-11-16T17:39:40Z",
+            "open_issues": 146,
             "owner": "ktwu01",
             "repo": "benchmark-radar",
-            "stars": 402,
+            "stars": 406,
             "topics": [
               "agent-bench",
               "agent-benchmark",
@@ -149,7 +149,7 @@
                     "open_issues": 9,
                     "owner": "ruixiangcui",
                     "repo": "AGIEval",
-                    "stars": 777,
+                    "stars": 778,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -167,10 +167,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2025-06-21T04:44:12Z",
-                    "open_issues": 22,
+                    "open_issues": 27,
                     "owner": "Arena-OSS",
                     "repo": "arena-hard-auto",
-                    "stars": 1087,
+                    "stars": 1088,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -254,7 +254,7 @@
                     "open_issues": 19,
                     "owner": "jeinlee1991",
                     "repo": "chinese-llm-benchmark",
-                    "stars": 6517,
+                    "stars": 6520,
                     "topics": [
                       "agentic-ai",
                       "artificial-intelligence",
@@ -776,7 +776,7 @@
                     "open_issues": 9,
                     "owner": "OpenBMB",
                     "repo": "OlympiadBench",
-                    "stars": 199,
+                    "stars": 200,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1071,7 +1071,7 @@
                     "open_issues": 17,
                     "owner": "StonyBrookNLP",
                     "repo": "appworld",
-                    "stars": 554,
+                    "stars": 556,
                     "topics": [
                       "acl-2024",
                       "ai-agents",
@@ -1175,7 +1175,7 @@
                     "open_issues": 8,
                     "owner": "codefuse-ai",
                     "repo": "codefuse-devops-eval",
-                    "stars": 657,
+                    "stars": 658,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1263,7 +1263,7 @@
                     "open_issues": 18,
                     "owner": "openai",
                     "repo": "mle-bench",
-                    "stars": 1798,
+                    "stars": 1799,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1322,8 +1322,8 @@
                     "id": 825810755,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-09T17:18:19Z",
-                    "open_issues": 26,
+                    "last_commit": "2026-11-16T17:20:08Z",
+                    "open_issues": 27,
                     "owner": "scicode-bench",
                     "repo": "SciCode",
                     "stars": 246,
@@ -1681,7 +1681,7 @@
                     "open_issues": 3,
                     "owner": "Hritikbansal",
                     "repo": "videophy",
-                    "stars": 215,
+                    "stars": 216,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1803,7 +1803,7 @@
                     "open_issues": 16,
                     "owner": "OpenGenerativeAI",
                     "repo": "llm-colosseum",
-                    "stars": 1490,
+                    "stars": 1491,
                     "topics": [
                       "benchmark",
                       "genai",
@@ -1850,7 +1850,7 @@
                     "open_issues": 17,
                     "owner": "THUDM",
                     "repo": "VisualAgentBench",
-                    "stars": 279,
+                    "stars": 278,
                     "topics": [
                       "gpt",
                       "llm-agent",
@@ -1875,7 +1875,7 @@
                     "open_issues": 0,
                     "owner": "TIGER-AI-Lab",
                     "repo": "WebsiteBench",
-                    "stars": 416,
+                    "stars": 476,
                     "topics": [
                       "agent-evaluation",
                       "ai",
@@ -1917,7 +1917,7 @@
                     "open_issues": 57,
                     "owner": "sierra-research",
                     "repo": "tau-bench",
-                    "stars": 1508,
+                    "stars": 1511,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -2204,7 +2204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T19:25:22.251Z",
+    "last_updated": "2026-11-16T22:57:25.104Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome leaderboard-oriented resources for AI domain",
@@ -2212,8 +2212,8 @@
       "id": 796089121,
       "language": null,
       "license": null,
-      "last_commit": "2026-11-13T06:30:05Z",
-      "open_issues": 2,
+      "last_commit": "2026-11-16T17:31:27Z",
+      "open_issues": 0,
       "owner": "SAILResearch",
       "repo": "awesome-ai-leaderboard",
       "stars": 384,
@@ -2231,7 +2231,7 @@
         "ranking-system"
       ]
     },
-    "original_repository_sha": "9afe000493df3324db752078d4dfd6f206f97c26",
+    "original_repository_sha": "cc688d8b30599d1465753ea5fb63b8427736c9df",
     "enhanced_repository": "enhansome/enhansome-ai-leaderboard",
     "enhanced_repository_description": null,
     "title": "Awesome Challenges with stars"
