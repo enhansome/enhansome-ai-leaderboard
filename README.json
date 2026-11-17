@@ -15,7 +15,7 @@
             "id": 1426158814,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-14T14:38:01Z",
+            "last_commit": "2026-11-17T13:51:48Z",
             "open_issues": 0,
             "owner": "RishabhPande",
             "repo": "agentstats",
@@ -44,11 +44,11 @@
             "id": 1313463885,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-16T17:39:40Z",
-            "open_issues": 146,
+            "last_commit": "2026-11-17T21:39:24Z",
+            "open_issues": 147,
             "owner": "ktwu01",
             "repo": "benchmark-radar",
-            "stars": 406,
+            "stars": 409,
             "topics": [
               "agent-bench",
               "agent-benchmark",
@@ -212,7 +212,7 @@
                     "open_issues": 106,
                     "owner": "google",
                     "repo": "BIG-bench",
-                    "stars": 3244,
+                    "stars": 3245,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -250,11 +250,11 @@
                     "id": 649224670,
                     "language": null,
                     "license": null,
-                    "last_commit": "2026-11-15T03:46:12Z",
+                    "last_commit": "2026-11-17T03:41:28Z",
                     "open_issues": 19,
                     "owner": "jeinlee1991",
                     "repo": "chinese-llm-benchmark",
-                    "stars": 6520,
+                    "stars": 6521,
                     "topics": [
                       "agentic-ai",
                       "artificial-intelligence",
@@ -616,7 +616,7 @@
                     "open_issues": 0,
                     "owner": "MozerWang",
                     "repo": "Loong",
-                    "stars": 154,
+                    "stars": 155,
                     "topics": [
                       "large-language-models",
                       "long-context",
@@ -1071,7 +1071,7 @@
                     "open_issues": 17,
                     "owner": "StonyBrookNLP",
                     "repo": "appworld",
-                    "stars": 556,
+                    "stars": 557,
                     "topics": [
                       "acl-2024",
                       "ai-agents",
@@ -1263,7 +1263,7 @@
                     "open_issues": 18,
                     "owner": "openai",
                     "repo": "mle-bench",
-                    "stars": 1799,
+                    "stars": 1800,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1458,7 +1458,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-10-29T06:10:45Z",
-                "open_issues": 119,
+                "open_issues": 120,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
                 "stars": 18088,
@@ -1871,11 +1871,11 @@
                     "id": 1445663842,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-10T09:24:11Z",
-                    "open_issues": 0,
+                    "last_commit": "2026-11-17T08:54:35Z",
+                    "open_issues": 90,
                     "owner": "TIGER-AI-Lab",
                     "repo": "WebsiteBench",
-                    "stars": 476,
+                    "stars": 508,
                     "topics": [
                       "agent-evaluation",
                       "ai",
@@ -1917,7 +1917,7 @@
                     "open_issues": 57,
                     "owner": "sierra-research",
                     "repo": "tau-bench",
-                    "stars": 1511,
+                    "stars": 1512,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -2161,7 +2161,7 @@
                 "open_issues": 13,
                 "owner": "yuh-zha",
                 "repo": "AlignScore",
-                "stars": 178,
+                "stars": 179,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:07:02.734Z"
@@ -2204,7 +2204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T22:57:25.104Z",
+    "last_updated": "2026-11-17T21:50:32.765Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome leaderboard-oriented resources for AI domain",
@@ -2213,7 +2213,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-11-16T17:31:27Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "SAILResearch",
       "repo": "awesome-ai-leaderboard",
       "stars": 384,
