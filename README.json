@@ -39,16 +39,16 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Track 50,331+ AI benchmark, eval, dataset, and data-quality records from 41 public sources, with linked evidence and daily updates.",
+            "description": "Track 52,867+ AI benchmark, eval, dataset, and data-quality records from 41 public sources, with linked evidence and daily updates.",
             "homepage": "https://benchmark-radar.org/",
             "id": 1313463885,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-17T21:39:24Z",
-            "open_issues": 147,
+            "last_commit": "2026-11-18T17:21:20Z",
+            "open_issues": 151,
             "owner": "ktwu01",
             "repo": "benchmark-radar",
-            "stars": 409,
+            "stars": 411,
             "topics": [
               "agent-bench",
               "agent-benchmark",
@@ -170,7 +170,7 @@
                     "open_issues": 27,
                     "owner": "Arena-OSS",
                     "repo": "arena-hard-auto",
-                    "stars": 1088,
+                    "stars": 1089,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -212,7 +212,7 @@
                     "open_issues": 106,
                     "owner": "google",
                     "repo": "BIG-bench",
-                    "stars": 3245,
+                    "stars": 3244,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -250,11 +250,11 @@
                     "id": 649224670,
                     "language": null,
                     "license": null,
-                    "last_commit": "2026-11-17T03:41:28Z",
-                    "open_issues": 19,
+                    "last_commit": "2026-11-18T03:26:23Z",
+                    "open_issues": 18,
                     "owner": "jeinlee1991",
                     "repo": "chinese-llm-benchmark",
-                    "stars": 6521,
+                    "stars": 6523,
                     "topics": [
                       "agentic-ai",
                       "artificial-intelligence",
@@ -1071,7 +1071,7 @@
                     "open_issues": 17,
                     "owner": "StonyBrookNLP",
                     "repo": "appworld",
-                    "stars": 557,
+                    "stars": 558,
                     "topics": [
                       "acl-2024",
                       "ai-agents",
@@ -1263,7 +1263,7 @@
                     "open_issues": 18,
                     "owner": "openai",
                     "repo": "mle-bench",
-                    "stars": 1800,
+                    "stars": 1801,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1461,7 +1461,7 @@
                 "open_issues": 120,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18088,
+                "stars": 18090,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -1872,10 +1872,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-17T08:54:35Z",
-                    "open_issues": 90,
+                    "open_issues": 95,
                     "owner": "TIGER-AI-Lab",
                     "repo": "WebsiteBench",
-                    "stars": 508,
+                    "stars": 534,
                     "topics": [
                       "agent-evaluation",
                       "ai",
@@ -1917,7 +1917,7 @@
                     "open_issues": 57,
                     "owner": "sierra-research",
                     "repo": "tau-bench",
-                    "stars": 1512,
+                    "stars": 1513,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -2204,7 +2204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T21:50:32.765Z",
+    "last_updated": "2026-11-18T21:29:17.011Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome leaderboard-oriented resources for AI domain",
@@ -2216,7 +2216,7 @@
       "open_issues": 1,
       "owner": "SAILResearch",
       "repo": "awesome-ai-leaderboard",
-      "stars": 384,
+      "stars": 383,
       "topics": [
         "ai-agent",
         "artificial-intelligence",
