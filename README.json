@@ -15,7 +15,7 @@
             "id": 1426158814,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-17T13:51:48Z",
+            "last_commit": "2026-11-19T14:23:26Z",
             "open_issues": 0,
             "owner": "RishabhPande",
             "repo": "agentstats",
@@ -44,8 +44,8 @@
             "id": 1313463885,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-18T17:21:20Z",
-            "open_issues": 151,
+            "last_commit": "2026-11-19T16:56:01Z",
+            "open_issues": 154,
             "owner": "ktwu01",
             "repo": "benchmark-radar",
             "stars": 411,
@@ -100,7 +100,7 @@
                     "open_issues": 7,
                     "owner": "ray-project",
                     "repo": "llmperf-leaderboard",
-                    "stars": 472,
+                    "stars": 473,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -166,11 +166,11 @@
                     "id": 714151130,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2025-06-21T04:44:12Z",
-                    "open_issues": 27,
+                    "last_commit": "2026-11-19T20:45:01Z",
+                    "open_issues": 28,
                     "owner": "Arena-OSS",
                     "repo": "arena-hard-auto",
-                    "stars": 1089,
+                    "stars": 1088,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -254,7 +254,7 @@
                     "open_issues": 18,
                     "owner": "jeinlee1991",
                     "repo": "chinese-llm-benchmark",
-                    "stars": 6523,
+                    "stars": 6522,
                     "topics": [
                       "agentic-ai",
                       "artificial-intelligence",
@@ -456,7 +456,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2024-06-05T13:32:51Z",
-                    "open_issues": 0,
+                    "open_issues": 1,
                     "owner": "OpenMOSS",
                     "repo": "HalluQA",
                     "stars": 140,
@@ -590,7 +590,7 @@
                     "open_issues": 69,
                     "owner": "THUDM",
                     "repo": "LongBench",
-                    "stars": 1256,
+                    "stars": 1257,
                     "topics": [
                       "benchmark",
                       "llm",
@@ -708,7 +708,7 @@
                     "open_issues": 18,
                     "owner": "hendrycks",
                     "repo": "test",
-                    "stars": 1626,
+                    "stars": 1625,
                     "topics": [
                       "few-shot-learning",
                       "gpt-3",
@@ -1263,7 +1263,7 @@
                     "open_issues": 18,
                     "owner": "openai",
                     "repo": "mle-bench",
-                    "stars": 1801,
+                    "stars": 1802,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1461,7 +1461,7 @@
                 "open_issues": 120,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18090,
+                "stars": 18091,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -1678,7 +1678,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-01-30T07:22:50Z",
-                    "open_issues": 3,
+                    "open_issues": 4,
                     "owner": "Hritikbansal",
                     "repo": "videophy",
                     "stars": 216,
@@ -1872,10 +1872,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-17T08:54:35Z",
-                    "open_issues": 95,
+                    "open_issues": 96,
                     "owner": "TIGER-AI-Lab",
                     "repo": "WebsiteBench",
-                    "stars": 534,
+                    "stars": 547,
                     "topics": [
                       "agent-evaluation",
                       "ai",
@@ -1917,7 +1917,7 @@
                     "open_issues": 57,
                     "owner": "sierra-research",
                     "repo": "tau-bench",
-                    "stars": 1513,
+                    "stars": 1514,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -2204,7 +2204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T21:29:17.011Z",
+    "last_updated": "2026-11-19T21:41:31.621Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome leaderboard-oriented resources for AI domain",
