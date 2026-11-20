@@ -15,7 +15,7 @@
             "id": 1426158814,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-19T14:23:26Z",
+            "last_commit": "2026-11-20T17:14:23Z",
             "open_issues": 0,
             "owner": "RishabhPande",
             "repo": "agentstats",
@@ -44,8 +44,8 @@
             "id": 1313463885,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-19T16:56:01Z",
-            "open_issues": 154,
+            "last_commit": "2026-11-20T16:52:43Z",
+            "open_issues": 147,
             "owner": "ktwu01",
             "repo": "benchmark-radar",
             "stars": 411,
@@ -149,7 +149,7 @@
                     "open_issues": 9,
                     "owner": "ruixiangcui",
                     "repo": "AGIEval",
-                    "stars": 778,
+                    "stars": 776,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -166,11 +166,11 @@
                     "id": 714151130,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-19T20:45:01Z",
-                    "open_issues": 28,
+                    "last_commit": "2026-11-20T18:15:55Z",
+                    "open_issues": 27,
                     "owner": "Arena-OSS",
                     "repo": "arena-hard-auto",
-                    "stars": 1088,
+                    "stars": 1087,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -212,7 +212,7 @@
                     "open_issues": 106,
                     "owner": "google",
                     "repo": "BIG-bench",
-                    "stars": 3244,
+                    "stars": 3243,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -233,7 +233,7 @@
                     "open_issues": 27,
                     "owner": "FranxYao",
                     "repo": "chain-of-thought-hub",
-                    "stars": 2777,
+                    "stars": 2776,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -250,7 +250,7 @@
                     "id": 649224670,
                     "language": null,
                     "license": null,
-                    "last_commit": "2026-11-18T03:26:23Z",
+                    "last_commit": "2026-11-20T08:46:06Z",
                     "open_issues": 18,
                     "owner": "jeinlee1991",
                     "repo": "chinese-llm-benchmark",
@@ -301,7 +301,7 @@
                     "open_issues": 1,
                     "owner": "cybermetric",
                     "repo": "CyberMetric",
-                    "stars": 128,
+                    "stars": 129,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -343,7 +343,7 @@
                     "open_issues": 24,
                     "owner": "GAIR-NLP",
                     "repo": "factool",
-                    "stars": 937,
+                    "stars": 936,
                     "topics": [
                       "chatgpt",
                       "fact-checking",
@@ -438,7 +438,7 @@
                     "open_issues": 0,
                     "owner": "GPT-Fathom",
                     "repo": "GPT-Fathom",
-                    "stars": 346,
+                    "stars": 345,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -590,7 +590,7 @@
                     "open_issues": 69,
                     "owner": "THUDM",
                     "repo": "LongBench",
-                    "stars": 1257,
+                    "stars": 1255,
                     "topics": [
                       "benchmark",
                       "llm",
@@ -1071,7 +1071,7 @@
                     "open_issues": 17,
                     "owner": "StonyBrookNLP",
                     "repo": "appworld",
-                    "stars": 558,
+                    "stars": 557,
                     "topics": [
                       "acl-2024",
                       "ai-agents",
@@ -1175,7 +1175,7 @@
                     "open_issues": 8,
                     "owner": "codefuse-ai",
                     "repo": "codefuse-devops-eval",
-                    "stars": 658,
+                    "stars": 657,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1263,7 +1263,7 @@
                     "open_issues": 18,
                     "owner": "openai",
                     "repo": "mle-bench",
-                    "stars": 1802,
+                    "stars": 1801,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1323,7 +1323,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-16T17:20:08Z",
-                    "open_issues": 27,
+                    "open_issues": 28,
                     "owner": "scicode-bench",
                     "repo": "SciCode",
                     "stars": 246,
@@ -1430,7 +1430,7 @@
                 "open_issues": 24,
                 "owner": "OpenGVLab",
                 "repo": "Multi-Modality-Arena",
-                "stars": 567,
+                "stars": 566,
                 "topics": [
                   "chat",
                   "chatbot",
@@ -1461,7 +1461,7 @@
                 "open_issues": 120,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18091,
+                "stars": 18090,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -1678,7 +1678,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-01-30T07:22:50Z",
-                    "open_issues": 4,
+                    "open_issues": 5,
                     "owner": "Hritikbansal",
                     "repo": "videophy",
                     "stars": 216,
@@ -1803,7 +1803,7 @@
                     "open_issues": 16,
                     "owner": "OpenGenerativeAI",
                     "repo": "llm-colosseum",
-                    "stars": 1491,
+                    "stars": 1489,
                     "topics": [
                       "benchmark",
                       "genai",
@@ -1875,7 +1875,7 @@
                     "open_issues": 96,
                     "owner": "TIGER-AI-Lab",
                     "repo": "WebsiteBench",
-                    "stars": 547,
+                    "stars": 565,
                     "topics": [
                       "agent-evaluation",
                       "ai",
@@ -2204,7 +2204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T21:41:31.621Z",
+    "last_updated": "2026-11-20T21:22:48.424Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome leaderboard-oriented resources for AI domain",
@@ -2213,7 +2213,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-11-16T17:31:27Z",
-      "open_issues": 1,
+      "open_issues": 3,
       "owner": "SAILResearch",
       "repo": "awesome-ai-leaderboard",
       "stars": 383,
