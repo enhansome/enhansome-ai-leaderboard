@@ -44,8 +44,8 @@
             "id": 1313463885,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-21T15:45:47Z",
-            "open_issues": 151,
+            "last_commit": "2026-11-22T17:29:03Z",
+            "open_issues": 156,
             "owner": "ktwu01",
             "repo": "benchmark-radar",
             "stars": 411,
@@ -233,7 +233,7 @@
                     "open_issues": 27,
                     "owner": "FranxYao",
                     "repo": "chain-of-thought-hub",
-                    "stars": 2776,
+                    "stars": 2775,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -343,7 +343,7 @@
                     "open_issues": 24,
                     "owner": "GAIR-NLP",
                     "repo": "factool",
-                    "stars": 936,
+                    "stars": 937,
                     "topics": [
                       "chatgpt",
                       "fact-checking",
@@ -923,7 +923,7 @@
                     "open_issues": 6,
                     "owner": "hemingkx",
                     "repo": "Spec-Bench",
-                    "stars": 415,
+                    "stars": 416,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1263,7 +1263,7 @@
                     "open_issues": 18,
                     "owner": "openai",
                     "repo": "mle-bench",
-                    "stars": 1801,
+                    "stars": 1803,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1461,7 +1461,7 @@
                 "open_issues": 120,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18091,
+                "stars": 18092,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -1514,7 +1514,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-05T09:06:40Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "OpenDFM",
                 "repo": "MULTI-Benchmark",
                 "stars": 48,
@@ -1850,7 +1850,7 @@
                     "open_issues": 17,
                     "owner": "THUDM",
                     "repo": "VisualAgentBench",
-                    "stars": 278,
+                    "stars": 279,
                     "topics": [
                       "gpt",
                       "llm-agent",
@@ -1875,7 +1875,7 @@
                     "open_issues": 96,
                     "owner": "TIGER-AI-Lab",
                     "repo": "WebsiteBench",
-                    "stars": 603,
+                    "stars": 643,
                     "topics": [
                       "agent-evaluation",
                       "ai",
@@ -2204,7 +2204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T20:11:02.197Z",
+    "last_updated": "2026-11-22T20:25:17.895Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome leaderboard-oriented resources for AI domain",
