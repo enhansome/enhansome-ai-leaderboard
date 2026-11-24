@@ -15,7 +15,7 @@
             "id": 1426158814,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-20T17:14:23Z",
+            "last_commit": "2026-11-23T13:34:53Z",
             "open_issues": 0,
             "owner": "RishabhPande",
             "repo": "agentstats",
@@ -44,8 +44,8 @@
             "id": 1313463885,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-22T17:29:03Z",
-            "open_issues": 156,
+            "last_commit": "2026-11-23T22:42:40Z",
+            "open_issues": 163,
             "owner": "ktwu01",
             "repo": "benchmark-radar",
             "stars": 411,
@@ -212,7 +212,7 @@
                     "open_issues": 106,
                     "owner": "google",
                     "repo": "BIG-bench",
-                    "stars": 3243,
+                    "stars": 3242,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -839,7 +839,7 @@
                     "open_issues": 24,
                     "owner": "THUDM",
                     "repo": "ReST-MCTS",
-                    "stars": 711,
+                    "stars": 712,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1322,7 +1322,7 @@
                     "id": 825810755,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-16T17:20:08Z",
+                    "last_commit": "2026-11-23T17:16:34Z",
                     "open_issues": 28,
                     "owner": "scicode-bench",
                     "repo": "SciCode",
@@ -1461,7 +1461,7 @@
                 "open_issues": 120,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18092,
+                "stars": 18098,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -1875,7 +1875,7 @@
                     "open_issues": 96,
                     "owner": "TIGER-AI-Lab",
                     "repo": "WebsiteBench",
-                    "stars": 643,
+                    "stars": 689,
                     "topics": [
                       "agent-evaluation",
                       "ai",
@@ -1917,7 +1917,7 @@
                     "open_issues": 57,
                     "owner": "sierra-research",
                     "repo": "tau-bench",
-                    "stars": 1514,
+                    "stars": 1516,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1966,7 +1966,7 @@
                     "open_issues": 5,
                     "owner": "SUFE-AIFLM-Lab",
                     "repo": "FinEval",
-                    "stars": 293,
+                    "stars": 292,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -2204,7 +2204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T20:25:17.895Z",
+    "last_updated": "2026-11-24T01:04:31.297Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome leaderboard-oriented resources for AI domain",
@@ -2213,7 +2213,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-11-16T17:31:27Z",
-      "open_issues": 4,
+      "open_issues": 5,
       "owner": "SAILResearch",
       "repo": "awesome-ai-leaderboard",
       "stars": 383,
