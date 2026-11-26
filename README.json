@@ -44,8 +44,8 @@
             "id": 1313463885,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-25T15:33:03Z",
-            "open_issues": 162,
+            "last_commit": "2026-11-26T17:58:27Z",
+            "open_issues": 164,
             "owner": "ktwu01",
             "repo": "benchmark-radar",
             "stars": 411,
@@ -167,7 +167,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-20T18:15:55Z",
-                    "open_issues": 27,
+                    "open_issues": 28,
                     "owner": "Arena-OSS",
                     "repo": "arena-hard-auto",
                     "stars": 1087,
@@ -250,11 +250,11 @@
                     "id": 649224670,
                     "language": null,
                     "license": null,
-                    "last_commit": "2026-11-20T08:46:06Z",
+                    "last_commit": "2026-11-26T18:47:52Z",
                     "open_issues": 18,
                     "owner": "jeinlee1991",
                     "repo": "chinese-llm-benchmark",
-                    "stars": 6529,
+                    "stars": 6532,
                     "topics": [
                       "agentic-ai",
                       "artificial-intelligence",
@@ -708,7 +708,7 @@
                     "open_issues": 18,
                     "owner": "hendrycks",
                     "repo": "test",
-                    "stars": 1626,
+                    "stars": 1627,
                     "topics": [
                       "few-shot-learning",
                       "gpt-3",
@@ -776,7 +776,7 @@
                     "open_issues": 9,
                     "owner": "OpenBMB",
                     "repo": "OlympiadBench",
-                    "stars": 200,
+                    "stars": 201,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1071,7 +1071,7 @@
                     "open_issues": 18,
                     "owner": "StonyBrookNLP",
                     "repo": "appworld",
-                    "stars": 560,
+                    "stars": 561,
                     "topics": [
                       "acl-2024",
                       "ai-agents",
@@ -1263,7 +1263,7 @@
                     "open_issues": 18,
                     "owner": "openai",
                     "repo": "mle-bench",
-                    "stars": 1803,
+                    "stars": 1804,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -1872,10 +1872,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-17T08:54:35Z",
-                    "open_issues": 100,
+                    "open_issues": 101,
                     "owner": "TIGER-AI-Lab",
                     "repo": "WebsiteBench",
-                    "stars": 760,
+                    "stars": 794,
                     "topics": [
                       "agent-evaluation",
                       "ai",
@@ -1917,7 +1917,7 @@
                     "open_issues": 57,
                     "owner": "sierra-research",
                     "repo": "tau-bench",
-                    "stars": 1517,
+                    "stars": 1518,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:07:02.734Z"
@@ -2204,7 +2204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T22:38:32.362Z",
+    "last_updated": "2026-11-26T22:28:34.253Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome leaderboard-oriented resources for AI domain",
@@ -2213,7 +2213,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-11-25T11:14:14Z",
-      "open_issues": 1,
+      "open_issues": 2,
       "owner": "SAILResearch",
       "repo": "awesome-ai-leaderboard",
       "stars": 383,
